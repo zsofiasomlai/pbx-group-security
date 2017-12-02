@@ -11,11 +11,13 @@ phases:
       - pwd
       - curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.tar.gz -o ./hugo.tar.gz
       - ls
-      - tar xf ./hugo.tar.gz -C /tmp
+      - tar xf ./hugo.tar.gz
       - ls
   build:
     commands:
       - hugo
   post_build:
     commands:
-      ls
+      - ls
+      - BUCKET_NAME="pbx-group-security.com-cdn"
+      - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://$BUCKET_NAME --exclude 'post'
