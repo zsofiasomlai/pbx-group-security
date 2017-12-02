@@ -15,7 +15,7 @@ phases:
       - ls
   build:
     commands:
-      - hugo
+      - ./hugo
   post_build:
     commands:
       - ls
