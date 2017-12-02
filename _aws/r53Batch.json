@@ -1,0 +1,28 @@
+{
+    "Changes": [
+        {
+            "Action":"UPSERT",
+            "ResourceRecordSet": {
+                "AliasTarget": {
+                    "HostedZoneId": "Z2FDTNDATAQYW2", 
+                    "EvaluateTargetHealth": false, 
+                    "DNSName": "d2w4wfd51ihke0.cloudfront.net."
+                }, 
+                "Type": "A", 
+                "Name": "pbx-group-security.com."
+            }
+        },{
+            "Action":"UPSERT",
+            "ResourceRecordSet": {
+                "ResourceRecords": [
+                    {
+                        "Value": "d2w4wfd51ihke0.cloudfront.net"
+                    }
+                ],
+                "Type": "CNAME",
+                "Name": "www.pbx-group-security.com.",
+                "TTL": 300
+            }
+        }
+    ]
+}
