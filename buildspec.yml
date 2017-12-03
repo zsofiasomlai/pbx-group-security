@@ -7,8 +7,8 @@ environment_variables:
 phases:
   install:
     commands:
-      - git clone  https://github.com/photobox/pbx-group-security.git
-      - cd bx-group-security
+      - git clone https://github.com/photobox/pbx-group-security.git
+      - cd pbx-group-security
       - curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.tar.gz -o ./hugo.tar.gz
       - ls
       - tar xf ./hugo.tar.gz
