@@ -8,20 +8,17 @@ phases:
   install:
     commands:
       - git clone https://github.com/photobox/pbx-group-security.git
-      - pwd
-      - cp -rf pbx-group-security .
-      - ls
       - curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.tar.gz -o ./hugo.tar.gz
-      - ls
       - tar xf ./hugo.tar.gz
-      - ls
+      - mv hugo /usr/bin/
+      - hugo version
   build:
     commands:
-      - ./hugo
+      - cd pbx-group-security && hugo
   post_build:
     commands:
-      - pwd
-      - ls public
-      - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://pbx-group-security.com-cdn --exclude 'post'
+      - cd pbx-group-security && pwd
+      - cd pbx-group-security && ls public
+      - cd pbx-group-security && aws s3 sync --acl "public-read" --sse "AES256" public/ s3://pbx-group-security.com-cdn --exclude 'post'
       - aws configure set preview.cloudfront true
       - aws cloudfront create-invalidation --distribution-id E3K53GHHL4D0LE --paths /index.html / /page/*
