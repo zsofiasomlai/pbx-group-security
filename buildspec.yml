@@ -18,6 +18,8 @@ phases:
   build:
     commands:
       - git init
+      - echo '--------------'
+      - ls -la .git
       - git remote add github https://github.com/photobox/pbx-group-security.git
       - git pull github master
       - ./hugo
