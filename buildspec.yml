@@ -21,7 +21,7 @@ phases:
       - echo '--------------'
       - ls -la .git
       - git remote add github https://github.com/photobox/pbx-group-security.git
-      - git pull github master
+      - git pull -f github master
       - ./hugo
   post_build:
     commands:
