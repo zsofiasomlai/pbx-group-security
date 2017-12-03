@@ -7,6 +7,8 @@ environment_variables:
 phases:
   install:
     commands:
+      - aws s3 ls
+      - echo '----------------------------------'
       - ls
       - pwd
       - curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.31.1/hugo_0.31.1_Linux-64bit.tar.gz -o ./hugo.tar.gz

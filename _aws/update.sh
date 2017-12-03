@@ -1,6 +1,6 @@
 BUCKET_NAME="pbx-group-security.com-cdn"
 
-hugo
+#hugo
 aws s3 sync --acl "public-read" --sse "AES256" public/ s3://$BUCKET_NAME --exclude 'post'
 
 DISTRIBUTION_ID=E3K53GHHL4D0LE
