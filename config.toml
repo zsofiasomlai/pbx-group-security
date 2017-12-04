@@ -97,7 +97,7 @@ paginate = 10
         <br>30 Great Guildford Street
         <br>London
         <br>SE1 0HS
-      </p>
+      </p>"""
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
