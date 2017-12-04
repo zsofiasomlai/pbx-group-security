@@ -1,14 +1,10 @@
 +++
-title = "This is the title of this blog"
-date = "2017-12-01"
-tags = ["go", "Jemma", "Dinis"]
-categories = ["programming"]
+title = "Warren & Brandeis – The Right to Curate an Identity"
+date = "2017-12-04"
+tags = ["GDPR", "Data Protection"]
+categories = ["GDPR", "Data Protection"]
 banner = "img/banners/banner-2.jpg"
 +++
-## this is the title Jemma is the best
+## Warren & Brandeis: The Right to Curate an Identity
 
-Some text
-
-- Dinis is pretending he knows what he is talking about
-- Jemma is better than James
-- some text
+Robert's blog post about how GDPR began
