@@ -184,7 +184,7 @@ ul.list-style-none {
   letter-spacing: 0.08em;
 }
 .pages-listing .item h3 a {
-  color: #555555;
+  color: #808282;
 }
 .pages-listing .item .text {
   margin-bottom: 20px;
@@ -235,7 +235,7 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #555555;
+  background: #808282;
   color: #eeeeee;
   padding: 10px 0;
 }
@@ -299,7 +299,7 @@ ul.list-style-none {
   border-bottom: solid 1px #eeeeee;
 }
 #top.light .login a {
-  color: #555555;
+  color: #808282;
 }
 .navbar {
   border: none;
@@ -331,7 +331,7 @@ ul.list-style-none {
 .navbar.navbar-light ul.nav > li.active > a {
   border-top: solid 5px #934478;
   background: #fff !important;
-  color: #555555 !important;
+  color: #808282 !important;
 }
 .navbar.navbar-light ul.nav > li.active > a:hover {
   border-top: solid 5px #934478;
@@ -342,7 +342,7 @@ ul.list-style-none {
 .navbar.navbar-light ul.nav > li.open > a:focus {
   border-top: solid 5px #c27baa;
   background: #fff !important;
-  color: #555555 !important;
+  color: #808282 !important;
 }
 .navbar ul.dropdown-menu {
   margin: 0;
@@ -384,7 +384,7 @@ ul.list-style-none {
   text-transform: uppercase;
   padding-bottom: 10px;
   margin-top: 5px;
-  border-bottom: dotted 1px #555555;
+  border-bottom: dotted 1px #808282;
   letter-spacing: 0.08em;
 }
 @media (max-width: 767px) {
@@ -395,7 +395,7 @@ ul.list-style-none {
 .navbar .yamm-content h5 {
   text-transform: uppercase;
   padding-bottom: 10px;
-  border-bottom: dotted 1px #555555;
+  border-bottom: dotted 1px #808282;
   letter-spacing: 0.08em;
 }
 .navbar .yamm-content ul {
@@ -904,7 +904,7 @@ fieldset[disabled] .btn-template-primary.active {
   display: inline-block;
   width: 15px;
   height: 15px;
-  border: solid 1px #555555;
+  border: solid 1px #808282;
   vertical-align: top;
   margin-top: 2px;
   margin-left: 5px;
@@ -929,7 +929,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 12px;
 }
 .panel.sidebar-menu .panel-body label:hover {
-  color: #555555;
+  color: #808282;
 }
 .panel.sidebar-menu ul.nav.category-menu {
   margin-bottom: 20px;
@@ -1335,7 +1335,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .team-member h3 a {
-  color: #555555;
+  color: #808282;
 }
 .team-member p.role {
   color: #999999;
@@ -1445,12 +1445,12 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 18px;
   text-transform: uppercase;
   line-height: 1.5;
-  color: #555555;
+  color: #808282;
   font-weight: 800;
   letter-spacing: 0.08em;
 }
 .box-simple h3 a {
-  color: #555555;
+  color: #808282;
 }
 .box-simple p {
   color: #999999;
@@ -1472,14 +1472,14 @@ fieldset[disabled] .btn-template-primary.active {
   border: dotted 1px #999999;
 }
 .box-simple.box-white .icon {
-  color: #555555;
+  color: #808282;
   border-color: transparent;
   font-size: 70px;
 }
 .box-simple.box-dark {
   padding: 20px;
   border: dotted 1px #999999;
-  background: #555555;
+  background: #808282;
   color: #fff;
 }
 .box-simple.box-dark .icon {
@@ -1634,7 +1634,7 @@ fieldset[disabled] .btn-template-primary.active {
 .box-image-text .content h4 {
   text-transform: uppercase;
   line-height: 1.5;
-  color: #555555;
+  color: #808282;
   font-weight: 800;
   letter-spacing: 0.08em;
 }
@@ -1763,7 +1763,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #eeeeee;
 }
 .bar.background-gray-dark {
-  background: #555555;
+  background: #808282;
 }
 .bar.background-white {
   background: #fff;
@@ -1815,7 +1815,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 -15px;
 }
 .portfolio-project .project-more h4 {
-  color: #555555;
+  color: #808282;
   text-transform: uppercase;
   margin-bottom: 0;
   text-align: left;
@@ -1837,7 +1837,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .portfolio-showcase p.lead {
-  color: #555555;
+  color: #808282;
   margin-bottom: 20px;
 }
 .portfolio-showcase p {
@@ -1863,13 +1863,13 @@ fieldset[disabled] .btn-template-primary.active {
   display: inline-block;
   width: 50px;
   height: 50px;
-  color: #555555;
+  color: #808282;
   line-height: 50px;
   border-radius: 25px;
-  border: solid 1px #555555;
+  border: solid 1px #808282;
 }
 .showcase .item h4 {
-  color: #555555;
+  color: #808282;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   line-height: 1.5;
@@ -1906,7 +1906,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #eeeeee;
 }
 .packages .package .package-header.light-gray h5 {
-  color: #555555;
+  color: #808282;
 }
 .packages .package .price {
   line-height: 120px;
@@ -1983,7 +1983,7 @@ fieldset[disabled] .btn-template-primary.active {
 #blog-homepage .post h2 a,
 #blog-listing-big .post h4 a,
 #blog-homepage .post h4 a {
-  color: #555555;
+  color: #808282;
 }
 #blog-listing-big .post h2 a:hover,
 #blog-homepage .post h2 a:hover,
@@ -2056,7 +2056,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 #blog-listing-medium .post h2 a {
-  color: #555555;
+  color: #808282;
 }
 #blog-listing-medium .post h2 a:hover {
   color: #c27baa;
@@ -2266,7 +2266,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .product .text h3 a {
-  color: #555555;
+  color: #808282;
 }
 .product .text h3 a:hover {
   text-decoration: none;
@@ -2341,7 +2341,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-radius: 40px;
   background: #ccc;
   line-height: 40px;
-  color: #555555;
+  color: #808282;
   text-align: center;
   text-decoration: none;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
@@ -2436,7 +2436,7 @@ fieldset[disabled] .btn-template-primary.active {
 #order-summary table tr.total td,
 #order-summary table tr.total th {
   font-size: 18px;
-  color: #555555;
+  color: #808282;
   font-weight: 700;
 }
 #checkout .table tbody tr td,
@@ -2505,7 +2505,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 0 0 20px;
 }
 #footer {
-  background: #555555;
+  background: #808282;
   padding: 50px 0;
   color: #999999;
 }
@@ -2562,7 +2562,7 @@ fieldset[disabled] .btn-template-primary.active {
   clear: both;
   padding: 5px 0;
   margin-bottom: 10px;
-  border-bottom: solid 1px #555555;
+  border-bottom: solid 1px #808282;
 }
 #footer .blog-entries .item .image {
   float: left;
@@ -2593,7 +2593,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 0;
 }
 #footer .social a {
-  color: #555555;
+  color: #808282;
   font-size: 25px;
   margin: 0 10px 0 0;
 }
@@ -2695,7 +2695,7 @@ fieldset[disabled] .btn-template-primary.active {
 .nav-tabs > li.active > a,
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
-  color: #555555;
+  color: #808282;
   background-color: #ffffff;
   border: 1px solid #c27baa;
   border-bottom-color: transparent;
@@ -3059,7 +3059,7 @@ fieldset[disabled] .btn-template-primary.active {
   border-bottom: none;
 }
 .navbar-default .navbar-brand {
-  color: #555555;
+  color: #808282;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -3070,11 +3070,11 @@ fieldset[disabled] .btn-template-primary.active {
   color: #777777;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #555555;
+  color: #808282;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #555555;
+  color: #808282;
   background-color: #e2c1d7;
 }
 .navbar-default .navbar-nav > .active > a,
@@ -3111,7 +3111,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #555555;
+    color: #808282;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -3131,17 +3131,17 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 .navbar-default .navbar-link {
-  color: #555555;
+  color: #808282;
 }
 .navbar-default .navbar-link:hover {
-  color: #555555;
+  color: #808282;
 }
 .navbar-default .btn-link {
-  color: #555555;
+  color: #808282;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
-  color: #555555;
+  color: #808282;
 }
 .navbar-default .btn-link[disabled]:hover,
 fieldset[disabled] .navbar-default .btn-link:hover,
@@ -3154,7 +3154,7 @@ body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
-  color: #555555;
+  color: #808282;
 }
 a {
   color: #c27baa;
@@ -3189,7 +3189,7 @@ hr {
 }
 .breadcrumb > li + li:before {
   content: ">\00a0";
-  color: #555555;
+  color: #808282;
 }
 .breadcrumb > .active {
   color: #999999;
