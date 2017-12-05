@@ -9,4 +9,4 @@ banner = "img/banners/banner-2.jpg"
 
 Robert's blog post about how GDPR began
 
-......
+......*******
