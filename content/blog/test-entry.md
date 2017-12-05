@@ -8,3 +8,5 @@ banner = "img/banners/banner-2.jpg"
 ## Warren & Brandeis: The Right to Curate an Identity
 
 Robert's blog post about how GDPR began
+
+......
