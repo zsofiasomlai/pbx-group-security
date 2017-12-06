@@ -21,4 +21,4 @@ phases:
       - cd pbx-group-security && ls public
       - cd pbx-group-security && aws s3 sync --acl "public-read" --sse "AES256" public/ s3://pbx-group-security.com-cdn --exclude 'post'
       - aws configure set preview.cloudfront true
-      - aws cloudfront create-invalidation --distribution-id E3K53GHHL4D0LE --paths /index.html / /page/*
+      - aws cloudfront create-invalidation --distribution-id E3K53GHHL4D0LE --paths /index.html / /page/* /css/* /blog/*
