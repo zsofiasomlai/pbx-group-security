@@ -1,6 +1,6 @@
 ++++
 title = "Head of Risk and Compliance"
-
+date = "2017-12-06"
 banner = "img/banners/banner-2.jpg"
 
 ## Head of Risk and Compliance
