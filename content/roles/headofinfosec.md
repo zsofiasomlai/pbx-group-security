@@ -1,7 +1,7 @@
 ---
 title: "Head of InfoSec"
 date: "2017-12-06"
-banner: "img/banners/banner-2.jpg"
+banner: "static/img/banner2.jpg"
 ---
 
  ## Head of InfoSec
