@@ -1,20 +1,24 @@
 +++
 title = "The Moonpig Data Breach of 2015"
 date = "2017-12-06"
-tags = ["Data Protection", "breach"]
-categories = ["Data Protection"]
-banner = "img/banners/banner-1.jpg"
+tags = ["GDPR", "Data Protection"]
+categories = ["GDPR", "Data Protection"]
+banner = "img/banners/banner-2.jpg"
 +++
+## The Moonpig Data Breach of 2015
+
 In January 2015, MoonPig was publicly shamed for not having taken the security of customer data seriously.  Headlines screamed, “3 million customers’ personal information is not secure.”  The security flaw could have enabled potential hackers to place orders, view parts of credit card details and obtain personal information from customer accounts.  MoonPig was given ample warning, and the negative publicity could easily have been avoided.
+
 ## Background
 In August 2013, Paul Price, a mobile app developer, informed MoonPig that he had found a flaw in their systems.  He discovered the bug while checking the security settings of code in MoonPig’s Android and iOS applications.  When submitting requests to the website through its app, he found he could access any account information with just a customer ID.  No authentication was required.  He highlighted the risk and was assured by MoonPig that they would “get right on it’. 
+
 ## Public shaming
 More than a year later, on 5 January 2015, Price saw the glitch was still in place and decided to go public on his blog, Paul’s Blog, http://www.ifc0nfig.com/MoonPig-vulnerability/.  He unpicked the code line by code line, exposed the flaws in the code, and posted it.  On 6 January 2015 the story was covered by the Guardian, Daily Mirror, and Daily Mail.  The negative publicity forced MoonPig to act.]
 Paul Price told the Guardian;
 The industry standard is usually within 90 days, I gave them 13 months. I then gave them an extra four months and still no fix. It was at this point I decided to go public with my findings.
 He posted a timeline of contact with MoonPig:
 
-| Date              | Action           
+| Date              | Action                                                                |
 | ----------------- |:---------------------------------------------------------------------:| 
 | 18 August 2013    | Initial contact made with MoonPig; “after a few emails back and forth,|
 |                   | their reasoning was legacy code and they’ll “get right on it.”        |
@@ -36,7 +40,6 @@ By highlighting that Funky Pigeon had resolved the issue within one week, the Gu
 ## MoonPigs response
 MoonPig posted a statement on its website, saying;
 We are aware of the claims made this morning regarding the security of customer data within our Apps.  We can assure our customers that all password and payment information is and has always been safe.  The security of your shopping experience at MoonPig is extremely important to us and we are investigating the detail behind today’s report as a priority.  As a precaution, our Apps will be unavailable for a time whilst we conduct these investigations and we will work to resume a normal service as soon as possible.  The desktop and mobile websites are unaffected.
-
 
 ## Keyboard warriors and news get to work
 Fuelled by the news of a scandal, techies and reporters started digging.  It was reported that MoonPig was actively recruiting for an IT Security Officer and that the vacancy was removed on the day the news broke, creating more negative publicity.  Former employees starting telling of their experiences with MoonPig and security.
