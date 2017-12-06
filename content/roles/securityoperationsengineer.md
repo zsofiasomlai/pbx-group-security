@@ -1,7 +1,8 @@
 ++++
 title = "Security Operations Engineer"
-
+date = "2017-12-06"
 banner = "img/banners/banner-2.jpg"
+++++
 
 ## Security Operations Engineer
 
