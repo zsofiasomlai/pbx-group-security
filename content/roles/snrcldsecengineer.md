@@ -1,8 +1,8 @@
-++++
-title = "Senior Cloud Security Engineer"
-date = "2017-12-06"
-banner = "img/banners/banner-2.jpg"
-++++
+---
+title: "Senior Cloud Security Engineer"
+date: "2017-12-06"
+banner:"img/banners/banner-2.jpg"
+---
 
 ## Senior Cloud Security Engineer
 
