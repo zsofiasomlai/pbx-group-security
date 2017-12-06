@@ -22,9 +22,9 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Roles"
+    identifier = "role"
+    url  = "/roles/"
     weight = 3
 
 [[menu.main]]
@@ -37,32 +37,26 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/photobox"
     pre = "<i class='fa fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "Facebook"
-    url = "http://facebook.com"
-    pre = "<i class='fa fa-2x fa-facebook'></i>"
-
+    
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
-    url = "http://twitter.com"
+    url = "https://twitter.com/PBG_Security"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:your@email.com"
+    url = "mailto:project-cx@photobox.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "Photobox Group Security"
+    defaultKeywords = ["photobox", "security", "blog"]
+    defaultDescription = "Welcome to Photobox Group Security's hub"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -85,19 +79,23 @@ paginate = 10
     #?Enable the contact form by entering your Formspree.io email
     email = "project-cx@photobox.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Photobox Group Security is the team responsible for securing magic moments for customers of our brands.</p>"
+    copyright = "Copyright (c) 2017, Photobox Group Security; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "2 January 2006"
+    date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
+    logo = "img/pbx-gs-logo.png"
     address = """<p><strong>Photobox Group Security</strong>
-        <br>Unit 7 Metal Box Factory
+        <br>Unit 7, Metal Box Factory
         <br>30 Great Guildford Street
         <br>London
         <br>SE1 0HS
-      </p>"""
+        <br>England
+      </p>
+      """
+    latitude = "51.50462899999999"
+    longitude = "-0.09706600000004073"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
@@ -105,7 +103,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at project-cx@photobox.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at project-cx@photobox.com</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -135,10 +133,10 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonials"
-    subtitle = "Here's what the team has to say about working at Photobox"
+    subtitle = "Here’s what the team has to say about working at Photobox"
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to see more?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
@@ -146,7 +144,7 @@ paginate = 10
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -155,5 +153,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Our blog"
+    subtitle = "Read our latest blog posts here"
