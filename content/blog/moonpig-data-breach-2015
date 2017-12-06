@@ -16,20 +16,12 @@ In August 2013, Paul Price, a mobile app developer, informed MoonPig that he had
 More than a year later, on 5 January 2015, Price saw the glitch was still in place and decided to go public on his blog, Paul’s Blog, http://www.ifc0nfig.com/MoonPig-vulnerability/.  He unpicked the code line by code line, exposed the flaws in the code, and posted it.  On 6 January 2015 the story was covered by the Guardian, Daily Mirror, and Daily Mail.  The negative publicity forced MoonPig to act.]
 Paul Price told the Guardian;
 The industry standard is usually within 90 days, I gave them 13 months. I then gave them an extra four months and still no fix. It was at this point I decided to go public with my findings.
+
 He posted a timeline of contact with MoonPig:
 
-| Date              | Action                                                                |
-| ----------------- |:---------------------------------------------------------------------:| 
-| 18 August 2013    | Initial contact made with MoonPig; “after a few emails back and forth,|
-|                   | their reasoning was legacy code and they’ll “get right on it.”        |
-| ----------------- |:---------------------------------------------------------------------:| 
-| 26 September 2014 | Follow up email; issue still not resolved.  MoonPig reset the deadline|
-|                   | to fix the glitch “before Christmas.”                                 |
-| ----------------- |:---------------------------------------------------------------------:| 
-| 5 January 2015    | Vulnerability still exists.  Despite ample time given to MoonPig to   |
-|                   | fix the issues.                                                       | 
-| ----------------- |:---------------------------------------------------------------------:|
-
+18 August 2013 - Initial contact made with MoonPig; “after a few emails back and forth, their reasoning was legacy code and they’ll “get right on it.”
+26 September 2014 - Follow up email; issue still not resolved.  MoonPig reset the deadline to fix the glitch “before Christmas.”   
+5 January 2015 - Vulnerability still exists.  Despite ample time given to MoonPig to fix the issues.
 
 The Guardian went on to report that Price had found a security gap at MoonPig’s main competition, Funky Pigeon.
 
