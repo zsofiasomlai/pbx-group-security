@@ -16,7 +16,7 @@
                 <!-- *** TESTIMONIALS CAROUSEL *** -->
 
                 <ul class="owl-carousel testimonials same-height-row">
-                    {{ range .Site.Data.testimonials }}
+                    {{ range.Site.Data.testimonials }}
                     <li class="item">
                         <div class="testimonial same-height-always">
                             <div class="text">
@@ -26,7 +26,7 @@
                                 <div class="icon"><i class="fa fa-quote-left"></i>
                                 </div>
                                 <div class="name-picture">
-                                    <img class="" alt="" src="{{ .avatar | absURL }}">
+                                    <img class="" alt="" src="{{ .avatar }}">
                                     <h5>{{ .name }}</h5>
                                     <p>{{ .position }}</p>
                                 </div>
