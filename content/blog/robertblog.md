@@ -1,5 +1,6 @@
 ---
 title: "Warren & Brandeis – The Right to Curate an Identity"
+image: "static/img/Mrs-Warrens-Profession.jpg"
 date: "2017-12-04"
 tags: ["GDPR", "Data Protection"]
 categories: ["GDPR", "Data Protection"]
@@ -9,6 +10,7 @@ banner: "static/img/banner2.jpg"
 ## Warren & Brandeis: The Right to Curate an Identity
 
 ### Mrs Warren’s Profession
+
 - No, not THAT Mrs Warren.
 - Our Mrs Warren was a hostess and the problem started with what Mr Warren perceived as unwelcome and intrusive reportage on his wife’s “at Homes” and his daughter’s wedding. 
 - The sensational and salacious coverage outraged Warren and he consulted Brandeis on the matter of privacy and the law. 
@@ -75,11 +77,11 @@ Warren and Brandeis wrote their seminal article in the 1890s and much of what co
 ### Further reading
 
 The article is available on several sites (note: each contains a different set of typographical errors which is bizarre)
-•	http://groups.csail.mit.edu/mac/classes/6.805/articles/privacy/Privacy_brand_warr2.html
-•	http://www.cs.cornell.edu/~shmat/courses/cs5436/warren-brandeis.pdf
+- http://groups.csail.mit.edu/mac/classes/6.805/articles/privacy/Privacy_brand_warr2.html
+- http://www.cs.cornell.edu/~shmat/courses/cs5436/warren-brandeis.pdf
 
 Discussion/analysis available here
-•	http://carneades.pomona.edu/2015-Law/24.WarrenBrandeis.html
-•	https://inpropriapersona.com/the-right-to-privacy-by-warren-and-brandeis/
-•	http://www.brandeis.edu/now/2013/july/privacy.html
+-	http://carneades.pomona.edu/2015-Law/24.WarrenBrandeis.html
+-	https://inpropriapersona.com/the-right-to-privacy-by-warren-and-brandeis/
+-	http://www.brandeis.edu/now/2013/july/privacy.html
 
