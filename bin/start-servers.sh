@@ -6,4 +6,8 @@ cd ../hugo-worktree master
 hugo
 cd public
 
-/pbx-group-security/node_modules/.bin/browser-sync start --server --no-open reload --files="*.*"
+/pbx-group-security/node_modules/.bin/browser-sync \
+    start --server          \
+    --no-open               \
+    reload --files="*.*"    \
+    --reload-delay=200
