@@ -11,7 +11,8 @@ class Api_Hugo
     @.folder_Hugo   = @.folder_Root.path_Combine '../hugo-worktree'
 
   add_Routes: ()=>
-    @.router.get  '/hugo/update'       , @.files
+    @.router.get   '/hugo/update'       , @.files
+    @.router.post  '/hugo/update'       , @.files
     @.router
 
   files: (req,res)=>
