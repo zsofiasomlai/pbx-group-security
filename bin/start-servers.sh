@@ -1,5 +1,8 @@
 echo "Starting both servers"
 
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
 git pull origin master:master
 git pull origin live-reload:live-reload
 
