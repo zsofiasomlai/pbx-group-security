@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/photobox/pbx-group-security/issues"
   },
-  "homepage": "https://github.com/photobox/pbx-group-security#readme"
+  "homepage": "https://github.com/photobox/pbx-group-security#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "fluentnode": "^0.7.1"
+  }
 }
