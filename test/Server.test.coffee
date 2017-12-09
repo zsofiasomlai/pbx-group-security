@@ -15,7 +15,7 @@ describe 'Server', ->
 
 
   it 'constructor', ->
-    expected_Port = process.env.PORT || 3000
+    expected_Port = process.env.PORT || 3113
     Server.assert_Is_Function()
     using new Server(), ->
       assert_Is_Null @.server
@@ -50,6 +50,7 @@ describe 'Server', ->
   # Test functions
 
   it 'test Api_Hugo', (done)->
+    @.timeout 3000
     using server, ->
       @.setup_Server()
       @.run(true)

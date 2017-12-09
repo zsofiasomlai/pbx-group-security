@@ -1,5 +1,7 @@
 express     = require 'express'
 
+String::exec = '..'.start_Process_Capture_Console_Out   # alias to run bash commands
+
 class Api_Hugo
   constructor: (options)->
     @.options       = options || {}
@@ -9,14 +11,18 @@ class Api_Hugo
     @.folder_Hugo   = @.folder_Root.path_Combine 'hugo'
 
   add_Routes: ()=>
-    @.router.get  '/hugo/files'       , @.files
+    @.router.get  '/hugo/update'       , @.files
     @.router
 
   files: (req,res)=>
-    process.chdir @.folder_Root;    # ensure we are in the correct folder
-    'git'.start_Process_Capture_Console_Out 'status', (data)->
+    process.chdir @.folder_Hugo;    # ensure we are in the correct folder
+    'git'.exec 'pull','origin','master', (git_pull)->
+      #'hugo'.exec (hugo)->
+        data =
+          git_pull: git_pull
+        console.log data
+       #   hugo    : hugo
+
         res.json data
-        #folder_Hugo: @.folder_Root
-        #folders    : @.folder_Hugo.folders().folder_Names()
 
 module.exports = Api_Hugo
