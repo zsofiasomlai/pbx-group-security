@@ -5,4 +5,5 @@ coffee src/start-server.coffee &
 cd ../hugo-worktree master
 hugo
 cd public
-browser-sync start --server --no-open
+
+/pbx-group-security/node_modules/.bin/browser-sync start --server --no-open

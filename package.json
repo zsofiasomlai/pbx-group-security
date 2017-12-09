@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/photobox/pbx-group-security#readme",
   "dependencies": {
+    "browser-sync": "^2.18.13",
     "coffee-script": "^1.12.7",
     "express": "^4.16.2",
     "fluentnode": "^0.7.1"
