@@ -20,6 +20,10 @@
 
                 <div class="row">
 
+                    {{ if .Params.banner }}
+                    <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
+                    {{ end }}
+
                     <!-- *** LEFT COLUMN *** -->
 
                     <div class="col-md-9" id="blog-post">

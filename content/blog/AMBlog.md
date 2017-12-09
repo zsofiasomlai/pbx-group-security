@@ -1,8 +1,9 @@
 ---
-title: "Summary of The International Comparative Guide: Cybersecurity 2018"
-date: "2017-12-04"
-tags: ["GDPR", "Data Protection"]
-categories: ["GDPR", "Data Protection"]
+title       : "Summary of The International Comparative Guide: Cybersecurity 2018"
+date        : "2017-12-04"
+tags        : ["GDPR", "Data Protection"]
+categories  : ["GDPR", "Data Protection"]
+banner      : /img/page-2.jpg
 ---
 
 ## A Summary of three articles in The International Comparative Legal Guide: Cybersecurity 2018, and their relevance to Photobox Group Security

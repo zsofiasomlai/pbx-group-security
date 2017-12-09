@@ -1,9 +1,11 @@
-+++
-title = "The Moonpig Data Breach of 2015"
-date = "2017-12-06"
-tags = ["GDPR", "Data Protection"]
-categories = ["GDPR", "Data Protection"]
-+++
+---
+title       : "The Moonpig Data Breach of 2015"
+date        : "2017-12-06"
+tags        : ["GDPR", "Data Protection"]
+categories  : ["GDPR", "Data Protection"]
+banner      : /img/page-3.jpg
+---
+
 ## The Moonpig Data Breach of 2015
 
 In January 2015, MoonPig was publicly shamed for not having taken the security of customer data seriously.  Headlines screamed, “3 million customers’ personal information is not secure.”  The security flaw could have enabled potential hackers to place orders, view parts of credit card details and obtain personal information from customer accounts.  MoonPig was given ample warning, and the negative publicity could easily have been avoided.
