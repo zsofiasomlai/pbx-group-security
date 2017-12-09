@@ -1,5 +1,5 @@
 ---
-title: "this is a test (edited in GitHub 3)"
+title: "Dynamic content updates"
 ---
  
 This is a content test..... 
