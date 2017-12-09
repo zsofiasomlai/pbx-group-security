@@ -3,13 +3,11 @@ echo "Starting both servers"
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
-gic checkout master
-git pull origin -f master:master
-gic checkout live-reload
-git pull origin -f live-reload:live-reload
+git checkout master
+git pull origin master:master
 
-echo "all done"
-exit 0
+git checkout live-reload
+git pull origin live-reload:live-reload
 
 coffee src/start-server.coffee &
 
