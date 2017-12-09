@@ -8,7 +8,7 @@ class Api_Hugo
     @.router        = express.Router()
     @.app           = @.options.app
     @.folder_Root   = (wallaby?.localProjectDir || __dirname.path_Combine('../..'))
-    @.folder_Hugo   = @.folder_Root.path_Combine 'hugo'
+    @.folder_Hugo   = @.folder_Root.path_Combine '../hugo-worktree'
 
   add_Routes: ()=>
     @.router.get  '/hugo/update'       , @.files
