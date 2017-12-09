@@ -1,3 +1,5 @@
 echo "Starting both servers"
 pwd
-coffee src/start-server
+ls
+ls src
+coffee src/start-server.coffee
