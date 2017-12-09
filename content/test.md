@@ -2,7 +2,7 @@
 title: "Title goes here"
 ---
  
-This is a content test.....
+This is a content test!
 
 **more**
 
