@@ -13,8 +13,10 @@ class Api_Hugo
     @.router
 
   files: (req,res)=>
-      res.json
-        folder_Hugo: @.folder_Root
-        folders    : @.folder_Root.folders().folder_Names()
+    process.chdir @.folder_Root;    # ensure we are in the correct folder
+    'git'.start_Process_Capture_Console_Out 'status', (data)->
+        res.json data
+        #folder_Hugo: @.folder_Root
+        #folders    : @.folder_Hugo.folders().folder_Names()
 
 module.exports = Api_Hugo

@@ -54,7 +54,6 @@ describe 'Server', ->
       @.setup_Server()
       @.run(true)
       @.get_JSON '/hugo/files', (data)->
-        #data.folder_Hugo.assert_Folder_Exists()
         console.log data
         done()
 
