@@ -17,11 +17,10 @@ class Api_Hugo
   files: (req,res)=>
     process.chdir @.folder_Hugo;    # ensure we are in the correct folder
     'git'.exec 'pull','origin','master', (git_pull)->
-      #'hugo'.exec (hugo)->
+      'hugo'.exec (hugo)->
         data =
           git_pull: git_pull
-        console.log data
-       #   hugo    : hugo
+          hugo    : hugo
 
         res.json data
 
