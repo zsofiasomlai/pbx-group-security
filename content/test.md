@@ -2,13 +2,11 @@
 title: "Dynamic content updates"
 ---
  
-This is a content test..... Hello world!!!!
+This is a content test.....
 
 **more**
 
 updated dynamically
 
-- aa
-- bbb
-- ccc
+- test 123
 - another idea
