@@ -1,5 +1,5 @@
 ---
-title: "this is a test (edited in GitHub 2)"
+title: "this is a test (edited in GitHub 3)"
 ---
  
 This is a content test..... 
