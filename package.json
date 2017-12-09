@@ -1,0 +1,19 @@
+{
+  "name": "live-reload",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --require coffee-script/register --recursive test/*.coffee"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photobox/pbx-group-security.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/photobox/pbx-group-security/issues"
+  },
+  "homepage": "https://github.com/photobox/pbx-group-security#readme"
+}
