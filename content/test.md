@@ -1,5 +1,5 @@
 ---
-title: "Dynamic content updates"
+title: "Title goes here"
 ---
  
 This is a content test.....
