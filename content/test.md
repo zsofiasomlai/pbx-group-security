@@ -1,5 +1,5 @@
 ---
-title: "this is a test (hello Sarah)"
+title: "this is a test"
 ---
  
 This is a content test..... 
