@@ -1,4 +1,5 @@
-weight: 4
-name: "Blog"
-icon: "fa fa-lightbulb-o"
+weight     : 4
+name       : "Blog"
+icon       : "fa fa-lightbulb-o"
+link       : '/blog'
 description: "Group Security Blog"
