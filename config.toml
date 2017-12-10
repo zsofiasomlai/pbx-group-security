@@ -24,7 +24,7 @@ paginate = 10
 [[menu.main]]
     name = "Roles"
     identifier = "role"
-    url  = "/roles/index/"
+    url  = "/roles/"
     weight = 3
 
 [[menu.main]]
