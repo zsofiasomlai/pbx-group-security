@@ -24,7 +24,7 @@ Resources and Technologies available:
 
 # NOTE: Issues can NOT be remediated in hours
 
-![Scenario] img/SOC Engineer Scenario.png
+![Scenario] (http://pbx-group-security/static/img/SOCScenario.png)
 
 ## Practical Exercise
-![Practical] pbx-group-security/static/img/SOC Practical.png
+![Practical] (http://pbx-group-security/static/img/SOCPractical.png)
