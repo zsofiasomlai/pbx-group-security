@@ -10,9 +10,9 @@ The following challenges should take no longer than 30 - 45 minutes. Complete th
 
 ## Theoretical Exercise
 #### Evaluation rules of engagement
-Objective: Understand and contain issue(s) without any pushes to production
+##### Objective: Understand and contain issue(s) without any pushes to production
 
-Pick up to three of the scenarios provided;
+###### Pick up to three of the scenarios provided;
 
 * Provide the answer in an analog format (paper or whiteboard)
 * You can use any technology you want (ideally ones you have experience with) and any Group Security team size
@@ -20,7 +20,7 @@ Pick up to three of the scenarios provided;
 * Who would you talk to?
 * What actions would you take to contain and remediate issue(s)?
 
-Resources and Technologies available:
+###### Resources and Technologies available:
 
 * Techops, Webops and Dev teams
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks and DarkTrace
