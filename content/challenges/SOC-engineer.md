@@ -4,7 +4,7 @@ Date : 2017-12-11
 ---
 # How to apply
 
-Complete the challenges listed here and submit your answer using a github repo. Once you have documented your solution, send a link to your repo to project-cx@photobox.com.
+The following challenges should take no longer than 30 - 45 minutes. Complete the challenges and submit your answer using a github repo. Once you have documented your solution, send a link to your repo to project-cx@photobox.com.
 
 # SOC Engineer Challenges
 
@@ -34,3 +34,5 @@ Resources and Technologies available:
 
 ![Practical](https://pbx-group-security.com/img/SOCPractical.png)
 
+## Bonus Exercise
+Tell us about your ideal challenge - let us know what your ideal challenge to showcase your skills looks like and complete this challenge. The only rule is that this should be challenging!
