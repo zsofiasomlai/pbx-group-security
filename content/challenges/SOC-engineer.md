@@ -27,4 +27,4 @@ Resources and Technologies available:
 ![Scenario] img/SOC Engineer Scenario.png
 
 ## Practical Exercise
-![Practical] img/SOC Practical.png
+![Practical] pbx-group-security/static/img/SOC Practical.png
