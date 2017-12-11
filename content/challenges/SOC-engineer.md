@@ -8,7 +8,7 @@ The following challenges should take no longer than 30 - 45 minutes. Complete th
 
 # SOC Engineer Challenges
 
-## Theoretical Exercise
+## * Theoretical Exercise
 #### Evaluation rules of engagement
 Objective: Understand and contain issue(s) without any pushes to production
 
@@ -30,9 +30,9 @@ Resources and Technologies available:
 ![Scenario](https://pbx-group-security.com/img/SOCScenario.png)
 
 
-## Practical Exercise
+## * Practical Exercise
 
 ![Practical](https://pbx-group-security.com/img/SOCPractical.png)
 
-## Bonus Exercise
+## * Bonus Exercise
 Tell us about your ideal challenge - let us know what your ideal challenge to showcase your skills looks like and complete this challenge. The only rule is that this should be challenging!
