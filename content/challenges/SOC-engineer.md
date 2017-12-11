@@ -23,9 +23,9 @@ Resources and Technologies available:
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks and DarkTrace
 
 #### NOTE: Issues can NOT be remediated in hours
-Image: ![Scenario](pbx-group-security/static/img/SOCScenario.png "Scerario")
+Image: ![Scenario](https://pbx-group-securit.com/img/SOCScenario.png)
 
 
 ## Practical Exercise
-Image: ![Practical](pbx-group-security/static/img/SOCPractical.png "Practical")
+Image: ![Practical](https://pbx-group-security.com/img/SOCPractical.png)
 
