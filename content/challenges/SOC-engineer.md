@@ -30,9 +30,12 @@ The following challenges should take no longer than 30 - 45 minutes. Complete th
 ![Scenario](https://pbx-group-security.com/img/SOCScenario.png)
 
 
+
 ## Practical Exercise
 
 ![Practical](https://pbx-group-security.com/img/SOCPractical.png)
+
+
 
 ## Bonus Exercise
 Tell us about your ideal challenge - let us know what your ideal challenge to showcase your skills looks like and complete this challenge. The only rule is that this should be challenging!
