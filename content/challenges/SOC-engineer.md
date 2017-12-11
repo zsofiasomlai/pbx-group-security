@@ -1,5 +1,6 @@
 ---
 Title: SOC Engineer Challenge
+Date : 2017-12-11
 ---
 # How to apply
 
@@ -23,7 +24,7 @@ Resources and Technologies available:
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks and DarkTrace
 
 #### NOTE: Issues can NOT be remediated in hours
-Image: ![Scenario](https://pbx-group-securit.com/img/SOCScenario.png)
+Image: ![Scenario](https://pbx-group-security.com/img/SOCScenario.png)
 
 
 ## Practical Exercise
