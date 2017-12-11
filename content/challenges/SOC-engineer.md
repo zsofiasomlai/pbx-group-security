@@ -6,7 +6,9 @@ Date : 2017-12-11
 
 The following challenges should take no longer than 30 - 45 minutes. Complete the challenges and submit your answer using a github repo. Once you have documented your solution, send a link to your repo to project-cx@photobox.com.
 
+
 ## SOC Engineer Challenges
+
 
 ### Theoretical Exercise
 #### Evaluation rules of engagement
