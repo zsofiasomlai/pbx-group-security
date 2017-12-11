@@ -39,7 +39,7 @@ paginate = 10
     name = "GitHub"
     url = "https://github.com/photobox"
     pre = "<i class='fa fa-2x fa-github'></i>"
-    
+
 [[menu.topbar]]
     weight = 3
     name = "Twitter"
@@ -152,6 +152,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "Our blog"
     subtitle = "Read our latest blog posts here"
