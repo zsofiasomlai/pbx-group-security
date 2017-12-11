@@ -18,17 +18,14 @@ One of the things I've learned is that it is easier to collaborate internally, b
 
 I expect every Group Security team member to write blog posts about what they do, and post them here. Just check that your blogs contain NO proprietary information, no customer data, no internal passwords or keys, etc. 
 
-This blog will be where we communicate. At our weekly meetings, Group Security should start to see the things we discuss at the meetings appear on the blogs. 
+This blog will be where we communicate. Group Security should start to see items discussed at our weekly meetings appearing in blog posts. 
 
-Another great advantage of this blog is that it will allow us to reach a much wider community. If there's a problem and we share it here, we access a much wider network of expertise and advice than is available in-house. If you're struggling with a Kabana dashboard, post the issues in a blog and wait for the advice to roll in!
+Another great advantage of this blog is that it will allow us to reach a much wider community. If there's a problem and we share it here, we access a much wider network of expertise and advice than is available in-house. If you're struggling with a Kanban dashboard, post the issues in a blog and wait for the advice to roll in!
 
-The blog will help the recruitment process by demonstrating that we are open in a very visible and quantifiable way. At the moment, we can say we are open, but until we start sharing more information in a public forum such as this blog, we are not really open. It's only when you share the data that people can see that message in action. Potential candidates will see that the company empowers and allows the team to do this, and they'll think, "That's the company I want to work for". Hopefully this blog will lead us to one or two recruitment success stories. It's a win-win.
+The blog will help the recruitment process by demonstrating that we are open in a very visible and quantifiable way. At the moment, we can say we are open, but until we start sharing more information in a public forum such as this blog, we are not really open. It's only when you share data that people can see our openness in action. Potential candidates will see that the company empowers and allows the team to do this, and they'll think, "That's the company I want to work for". Hopefully, this blog will lead us to one or two recruitment success stories. 
 
-The question is: can we get it to work, and get every team member to write posts about what they do?
+The question is: can we get it to work, and will every team member write posts about what they do?
 
-
-
-Candidates who saw one of these posts--will see the open culture in action and will apply as a result of this. 
 
 
 
