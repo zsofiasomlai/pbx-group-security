@@ -13,6 +13,7 @@ Complete the challenges listed here and submit your answer using a github repo. 
 Objective: Understand and contain issue(s) without any pushes to production
 
 Pick up to three of the scenarios provided
+
 * Provide the answer in an analog format (paper or whiteboard)
 * You can use any technology you want (ideally ones you have experience with) and any Group Security team size
 * Describe what you would do and how you would act (ideally as diagram)
@@ -20,13 +21,16 @@ Pick up to three of the scenarios provided
 * What actions would you take to contain and remediate issue(s)?
 
 Resources and Technologies available:
+
 * Techops, Webops and Dev teams
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks and DarkTrace
 
 #### NOTE: Issues can NOT be remediated in hours
-Image: ![Scenario](https://pbx-group-security.com/img/SOCScenario.png)
+
+![Scenario](https://pbx-group-security.com/img/SOCScenario.png)
 
 
 ## Practical Exercise
-Image: ![Practical](https://pbx-group-security.com/img/SOCPractical.png)
+
+![Practical](https://pbx-group-security.com/img/SOCPractical.png)
 
