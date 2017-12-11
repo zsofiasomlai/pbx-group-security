@@ -1,7 +1,10 @@
+---
+title: "We need your help"
+banner: "static/img/Photoboxgroup_wearehiringRGB.png"
+date: "2017-12-11"
+---
 
-
-
-How can you help? Group Security Recruitment Process
+## How can you help? Group Security Recruitment Process
 
 Group Security is currently recruiting for six new senior positions and a number of short-term contractors.
 We really need your help; the best candidates will be candidates who you already know, who you feel will be an amazing fit for the role, for our culture, and for the work we're trying to do in Photobox Group Security.
