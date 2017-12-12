@@ -1,7 +1,7 @@
 ---
 title       : "Why join Photobox Group Security?"
 date        : "2017-12-11"
-tags        : ["Photobox", "Team", "Why Photobox"]
+tags        : ["Photobox", "Team", "Why Photobox", "CISO"]
 categories  : ["Recruitment"]
 banner      : /img/page-2.jpg
 ---
