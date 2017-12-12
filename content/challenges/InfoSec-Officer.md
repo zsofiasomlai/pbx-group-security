@@ -32,15 +32,18 @@ The following challenges should take no longer than 30 - 45 minutes. Complete th
 
 ##### Monday - Malicious Communication
 The firewall has detected a communication from a client to a malicious website. The site is listed as a malicious site. Only one client is affected.
-What has happend and what should be done to handle the issue?
+
+- What has happend and what should be done to handle the issue?
 
 ##### Tuesday	- GDPR Gap identified	
 A gap in GDPR compliance is identified. The company has to initiate an Identity and Access Management Project. 
-Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business and Management.
+
+- Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business and Management.
 
 ##### Wednesday	- VLAN missconfiguration identified	
 A missconfiguration is identified in the VLAN configuration. Users in the guest wifi can access internal systems.
-Handle the vulnerability by answering the key questions: 
+
+- Handle the vulnerability by answering the key questions: 
 
 - what happend? 
 - what is the cause? 
@@ -50,7 +53,8 @@ Handle the vulnerability by answering the key questions:
 
 ##### Thursday - DevOps Needs Support
 DevOps needs support to secure the AWS Platform. They want to implement a Jump-Host Architecture between the internal network and AWS Platform.
-Draft the Archtecture you would recommend to the DevOps Team, including key handling (TLS Keys for the developers to access the platform).
+
+- Draft the Archtecture you would recommend to the DevOps Team, including key handling (TLS Keys for the developers to access the platform).
 
 ##### Friday - Vulnerability in MacOS detected
 A critical Vulnerability in Java was detected and needs to be measured. The vulnerability allows attackers to execute malicious code which encrypt the local hard disk and network drives.
