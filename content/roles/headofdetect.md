@@ -42,7 +42,7 @@ You must have a strong understanding of security operations, vulnerability manag
 - Great stakeholder management and influencing skills
 - Remain calm under pressure
 
-## Tech Stack (You must be have good experience in at least one or more of the following:)
+## Tech Stack (You must be have good experience in at least one or more of the following):
 
 - ELK, Splunk, DarkTrace, SIEM
 - ML and AI
