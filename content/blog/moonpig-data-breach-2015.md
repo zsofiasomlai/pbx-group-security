@@ -1,9 +1,9 @@
 ---
 title       : "The Moonpig Data Breach of 2015"
 date        : "2018-1-2"
-tags        : ["GDPR", "Data Protection"]
-categories  : ["GDPR", "Data Protection"]
-banner      : /img/blog/page-1.jpg
+tags        : ["GDPR", "Data Protection", "Breach", "Best Practice"]
+categories  : ["CyberSecurity"]
+banner      : /img/blog/page-3.jpg
 draft       : true
 ---
 

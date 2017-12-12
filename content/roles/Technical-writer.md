@@ -1,11 +1,13 @@
 ---
-title: "Head of AppSec"
+title: "Technical Writer"
 date:  "2017-12-06"
 ---
 
-## Head of AppSec
+## Technical Writer
 
-Contract type: Permanent
+Contract type: Contractor
+
+Location: Remote
 
 Our mission is to secure the magic moments created by our customers, across all our brands. Our operating principles define what we focus on and how we make decisions. We hold ourselves accountable against these principles.
 
@@ -24,32 +26,26 @@ We have a great culture, with a very horizonal structure. We expect you to be kn
 
 ## The Role
 
-As the Head of AppSec you will work alongside the Group Security management team and ensure that any software developed by our engineers meets our overall security standards and protects our customer’s data. You will lead all AppSec activities and be the driving force behind activities such as threat modelling, security automation in our continuous integration pipeline, code reviews, security standards and our Security Champions network.
+To provide the Group Security Team with technical content creation, audio-transcribing and documentation of scenarios in real time.
 
 ## What will you do?
 
-- Work with many functional teams you will ensure that PhotoBox Group’s applications stay at the highest security level
-- Support development teams to carry out application security reviews
-- Provide expert advice and consultancy to software and platform engineering on risk assessment, threat modelling and fixing vulnerabilities
-- Lead app security projects to ensure timely completion of efforts
-- Drive security into engineering’s systems development life cycle to ensure that security is built in and considered
-- Support security policies and procedures
-- Evaluate new and emerging security products and technologies
-- Collaborate with engineering, testing, and operations groups
+- Support the operations team with the documentation of incident response
+- Content creation, copy writing, copy editing, proofreading
 
 ## Who are you?
 
-- Strong development background in application engineering/architecture
-- Great stakeholder management and influencing skills
-- Developer training and curriculum development
-- Have a deep understanding and hands on experience of secure software development practices including threat modelling, secure design principles, secure coding, code analysis, security testing and AppSec automation etc.
+- Excellent written and spoken English
+- Able to multi-task
+- Proactive and reactive
+- The ability to work indipendantly and collaborate with the team and wider business
+- Personable and able to build relationships
 
 ## Tech Stack (you must be proficient in at least one of the following)
 
-- OWASP, SAST, DAST, IAST, WAF
-- TDD, BDD, Test DSLs
-- Ability to fix code and work directly with developers
-- Applicants must have right to work in EU (we will not provide visa sponsorship)
+- JIRA
+- GitHub
+- Office programmes
 
 ## Why else would I be interested?
 

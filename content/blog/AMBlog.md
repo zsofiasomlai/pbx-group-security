@@ -2,7 +2,7 @@
 title       : "Summary of The International Comparative Guide: Cybersecurity 2018"
 date        : "2017-12-04"
 tags        : ["GDPR", "Data Protection"]
-categories  : ["GDPR", "Data Protection"]
+categories  : ["CyberSecurity"]
 banner      : /img/blog/page-2.jpg
 ---
 
