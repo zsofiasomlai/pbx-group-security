@@ -11,4 +11,4 @@ The content also can have attributes, which are written into the front matter. E
 So for everyone that has to save some assets in the static directory, please keep in mind to:
 
 - Save all your images in the directory corresponding to your content type. For example, if your blog entry has and image or an avatar, save it in 'static/img/blog'.
-- Then in whatever front matter or content that refers to that image, just write '/img/blog/<your file.jpg>'
+- Then in whatever front matter or content that refers to that image, just write '/img/blog/your_file_name.jpg'
