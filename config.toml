@@ -28,9 +28,15 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
+    name = "Challenges"
+    identifier = "challenges"
+    url  = "/challenges/"
     weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/page/contact/"
+    weight = 5
 
 # Top bar social links menu
 
