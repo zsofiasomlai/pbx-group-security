@@ -4,7 +4,7 @@ Date : 2017-12-11
 ---
 # How to apply
 
-The following challenges should take no longer than 30 - 45 minutes. Complete the challenges and submit your answer using a github repo. Once you have documented your solution, send a link to your repo to project-cx@photobox.com.
+The following challenges should take no longer than 30 - 45 minutes. Complete the challenges and submit your entry using our online platform at https://jobs.posterxxl.com.
 
 
 ## Information Security Officer
@@ -31,42 +31,52 @@ The following challenges should take no longer than 30 - 45 minutes. Complete th
 #### NOTE: Issues can NOT be remediated in hours
 
 ##### Monday - Malicious Communication
-The firewall detect a communication from a client to a malicious website. The site is listed as a malicious sites. Only one client is affected.
-What was happend and what should be done to handle the issue?
+The firewall has detected a communication from a client to a malicious website. The site is listed as a malicious site. Only one client is affected.
 
-##### Tuesday	- GDPR Gap was identified	
-A GAP for GDPR compliance was identified. The company has to initiate an Identity and Access Management Project. 
-Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business and Management
+- What has happend and what should be done to handle the issue?
+
+##### Tuesday	- GDPR Gap identified	
+A gap in GDPR compliance is identified. The company has to initiate an Identity and Access Management Project. 
+
+- Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business and Management.
 
 ##### Wednesday	- VLAN missconfiguration identified	
-A Missconfiguration was identified in the VLAN configuration. Users in the guest wifi cann access internal systems.
-Handle the vulnerability by the key questions: - what is happend? -why it is happends? - what is affected? -what is the (possible) damage? -which short time and long time measures should be implement?"
+A missconfiguration is identified in the VLAN configuration. Users in the guest wifi can access internal systems.
+
+- Handle the vulnerability by answering the key questions: 
+
+- what happend? 
+- what is the cause? 
+- what has been affected? 
+- what is the (possible) damage? 
+- which short term and long term measures should be implemented?
 
 ##### Thursday - DevOps Needs Support
-DevOps needs support by securing the AWS Platform. The want to implement a Jump-Host Architecture between the internal network and AWS Platform.
-Draft the Archtecture you will recommend to the DevOps Team including key handling (TLS Keys for the developers to access the platform)."
+DevOps needs support to secure the AWS Platform. They want to implement a Jump-Host Architecture between the internal network and AWS Platform.
+
+- Draft the Archtecture you would recommend to the DevOps Team, including key handling (TLS Keys for the developers to access the platform).
 
 ##### Friday - Vulnerability in MacOS detected
-A critical Vulnerability in Java was detected and needs to measure. 
-The vulnerability allows attackers to execute malicious code which encrypt the local hard disk and network drives.
+A critical Vulnerability in Java was detected and needs to be measured. The vulnerability allows attackers to execute malicious code which encrypt the local hard disk and network drives.
 Key questions are: 
+
 - who is affected? 
-- Has this vulnerability been exploited? 
-- which measures for risk mitigation are possible?"
+- has this vulnerability been exploited? 
+- which measures for risk mitigation are possible?
 
 ### Practical Exercise
 
 #### Task 1	
-Create a Risk Dashboard for CEO with the information they should be usefull for him
+Create a Risk Dashboard for the CEO with information they would be usefull for them.
 
 #### Task 2	
-Define an Architecture for an secure internal Network. You have two Sites. At one site you have clients, servers and printers. At the other site data center, clients, four types of printers which are controlled by a thrid party contractor (with internet access).
+Define an architecture for an secure internal network. You have two sites, one has clients, servers and printers. The other  has site data center, clients, four types of printers which are controlled by a thrid party contractor (with internet access).
 
 #### Task 3	
-Create a paragraph of a acceptable use police how to handle business smartphones
+Create a paragraph of a acceptable use police how to handle business smartphones.
 
 #### Task 4	
-show how to secure the access to a webserver
+Show how to secure access to a webserver.
 
 #### Task 5	
 How would you define a system for risk rating?

@@ -1,11 +1,12 @@
 ---
-title: "Information Security Officer"
+title: "Information Security Officer (Germany)"
 date: "2017-12-06"
 ---
 
 ## Information Security Officer
 
 Contract type: Permanent
+Location: Munich, Germany
 
 Our mission is to secure the magic moments created by our customers, across all our brands. Our operating principles define what we focus on and how we make decisions. We hold ourselves accountable to these principles.
 
@@ -65,4 +66,4 @@ Quite simply, you don’t like standing still. You are passionate about working 
 ## How to apply
 To submit your application for this role you will be required to undertake a theoretical and practical challenge. This helps us to identify your suitability and experience level. Each challenge should take no longer than 10 - 15 minutes to complete, however, in order to highlight your key skills, you may take longer than the suggested time if you wish.
 
-[Click here to access the challenges](https://pbx-group-security/content/challenges/InfoSec-Officer.md "Click here to access the application challenges")
+[Click here to access the challenges](https://pbx-group-security.com/challenges/infosec-officer/) "Click here to access the application challenges")
