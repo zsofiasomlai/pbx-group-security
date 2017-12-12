@@ -3,7 +3,7 @@ title       : "Why join Photobox Group Security?"
 date        : "2017-12-11"
 tags        : ["Photobox", "Team", "Why Photobox", "CISO"]
 categories  : ["Recruitment"]
-banner      : /img/page-2.jpg
+banner      : /img/blog/page-2.jpg
 ---
 
 Photobox represents a really good opportunity for security professionals who want to make a difference, who want to take their ideas to the next level.

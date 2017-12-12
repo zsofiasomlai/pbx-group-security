@@ -1,7 +1,7 @@
 ---
 title: "Head of SecOps"
 date: "2017-12-06"
-banner: "static/img/banner-2.jpg"
+banner: "/img/banners/2.jpg"
 ---
 
 ## Head of SecOps

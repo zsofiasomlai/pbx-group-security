@@ -1,6 +1,6 @@
 ---
 title: "We need your help"
-banner: "static/img/Photoboxgroup_wearehiringRGB.png"
+banner: "/img/blog/Photoboxgroup_wearehiringRGB.png"
 date: "2017-12-11"
 ---
 

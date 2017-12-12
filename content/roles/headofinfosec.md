@@ -3,9 +3,9 @@ title: "Head of InfoSec"
 date: "2017-12-06"
 ---
 
- ## Head of InfoSec
+## Head of InfoSec
 
- Contract type: Permanent 
+Contract type: Permanent 
 
 Our mission is to secure the magic moments created by our customers, across all our brands. Our operating principles define what we focus on and how we make decisions. We hold ourselves accountable against these principles.
  
