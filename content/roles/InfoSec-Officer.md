@@ -6,6 +6,7 @@ date: "2017-12-06"
 ## Information Security Officer
 
 Contract type: Permanent
+
 Location: Munich, Germany
 
 Our mission is to secure the magic moments created by our customers, across all our brands. Our operating principles define what we focus on and how we make decisions. We hold ourselves accountable to these principles.
