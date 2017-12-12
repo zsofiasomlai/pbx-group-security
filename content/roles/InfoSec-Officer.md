@@ -24,11 +24,19 @@ We have a great culture, with a very horizonal structure. We expect you to be kn
 
 ## The Role
 
-TBC.
+Support all elements of information security in the provision of external services and internal information security requirements.
 
 ## What will you do?
 
-TBC
+- In association with the Head of Information Security and the wider Group Security team you will create and maintain an overall security architecture
+- Ensure that all necessary security policies and procedures are established and maintained in relation to the on-going service operation
+- Ensure on-going compliance with InfoSec standards
+- Act as company contact and representative for all third party audits
+- Support strategic security planning to achieve business goals by prioritising defence initiatives and co-ordinating the evaluation, deployment, and management of current and future security technologies
+- Support development and communication of security strategies to the Operational Team and all other key stakeholders, including Partners and Clients, as required
+- Support development, implementation, maintenance and oversight for enforcement of policies, procedures and associated plans for all system and information security requirements based on industry-standard best practices. Recommend and implement changes in security policies and practices in accordance with changes in legislation
+- Maintain the security incident process such that all stakeholders understand and perform their duties when an incident occurs
+- Support penetration testing of all systems in order to identify system vulnerabilities
 
 ## Who are you?
 
