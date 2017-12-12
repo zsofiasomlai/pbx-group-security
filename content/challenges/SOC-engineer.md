@@ -29,8 +29,7 @@ The following challenges should take no longer than 30 - 45 minutes. Complete th
 
 #### NOTE: Issues can NOT be remediated in hours
 
-![Scenario](https://pbx-group-security.com/img/SOCScenario.png)
-
+{{< figure src="/img/SOCScenario.png" title="" width="847px" >}}
 
 
 ### Practical Exercise
