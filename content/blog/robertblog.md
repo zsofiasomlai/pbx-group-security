@@ -1,6 +1,6 @@
 ---
 title: "Warren & Brandeis – The Right to Curate an Identity"
-banner: "/img/Mrs-Warrens-Profession cropped.jpg"
+banner: "/img/blog/Mrs-Warrens-Profession cropped.jpg"
 date: "2017-12-04"
 tags: ["GDPR", "Data Protection"]
 categories: ["GDPR", "Data Protection"]
