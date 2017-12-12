@@ -36,3 +36,5 @@ I believe in a professional organisation that can deliver repeatable, high quali
 Fundamentally, why should you join our team? You're one of us! A rebel, you want to do things differently. You have great ideas and you want a workplace where your ideas can come to life. 
 
 To be clear: everyone in the team is not expected to be a Duracell bunny, accelerating at maximum speed. The balance and effectiveness of the team lies within its multi-cultural, multi-experienced, and multi-personality composition.  
+
+*Dinis Cruz, CISO, Photobox Group*
