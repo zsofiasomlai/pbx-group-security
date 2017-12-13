@@ -34,9 +34,14 @@ paginate = 10
     weight = 4
 
 [[menu.main]]
+    name = "Dev"
+    url  = "/page/dev/"
+    weight = 5
+
+[[menu.main]]
     name = "Contact"
     url  = "/page/contact/"
-    weight = 5
+    weight = 6
 
 # Top bar social links menu
 
