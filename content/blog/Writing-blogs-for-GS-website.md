@@ -1,7 +1,7 @@
 ---
 title       : "Writing blogs for GS website"
 date        : "2017-12-11"
-banner      : "/img/blog/blog-recent-2.jpg"
+banner      : "/img/blog/page-2.jpg"
 ---
 
 ## Why write blog posts for the Photobox Group Security website?
