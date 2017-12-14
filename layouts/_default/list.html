@@ -24,7 +24,7 @@
                             <p>{{ .Content }}</p>
                             <ul>
                                 {{ range .Data.Pages }}
-                                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                <li><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Permalink }}</li>
                                 {{ end }}
                             </ul>
                         </div>
