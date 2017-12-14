@@ -66,4 +66,5 @@ Quite simply, you don’t like standing still. You are passionate about working 
 ## How to apply
 To submit your application for this role you will be required to undertake a theoretical and practical challenge. This helps us to identify your suitability and experience level. Each challenge should take no longer than 10 - 15 minutes to complete, however, in order to highlight your key skills, you may take longer than the suggested time if you wish.
 
-[Click here to access the challenges - update link to challenge page](https://pbx-group-security.com/challenges/infosec-officer/ "Click here to access the application challenges - update link to challenge page")
+[Click here to access the challenges - update link to challenge page]({{< ref "challenges/InfoSec-Officer.md" >}} "Click here to access the application challenges - update link to challenge page")
+
