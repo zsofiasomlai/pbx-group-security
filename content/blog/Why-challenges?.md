@@ -1,6 +1,6 @@
 ---
 title: "Why challenges?"
-banner: "/img/blog/Photoboxgroup_wearehiringRGB.png"
+banner: "static/img/Photoboxgroup_blogRGB.png"
 date: "2017-12-11"
 ---
 
