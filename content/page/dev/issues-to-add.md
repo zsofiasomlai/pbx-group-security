@@ -26,3 +26,4 @@ when going to GitHub will break the dev 'zone' or mojo)
 # Items added to GitHub
 
  - [Create pages 'How to apply', 'How to use GitHub to submit challenges responses'](https://github.com/photobox/pbx-group-security/issues/98)
+- [Consolidate assets to decrease loading times](https://github.com/photobox/pbx-group-security/issues/99)
