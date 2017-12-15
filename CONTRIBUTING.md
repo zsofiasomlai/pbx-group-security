@@ -16,4 +16,9 @@ So for everyone that has to save some assets in the static directory, please kee
 Useful tips for your writing:
 - whenever you need to link to another document in the site, you can use a shortcode `ref`.
   For example, you are writing a blog entry, and want to reference in your markdown to another document on the site in `roles`. Then you simple use somthing like this: `[View this]({{< ref "roles/headofinfosec.md" >}})`. In this way you generate the correct link to whatever url this file haves.
+ - use `categories` and `tags` wisely. Normally they will represent different concepts, with categories being more broader and tags  more specific. Use a list, using square brackets, because you tend to add labels as time goes on and you have better classification of your data. An example of this is:
+ ```
+tags: ["GDPR", "Data Protection"]
+categories: ["CyberSecurity"]
+```
   
