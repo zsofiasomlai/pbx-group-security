@@ -6,6 +6,7 @@ themesDir = "./"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = 10
+disqusShortname = "pbx-group-security-com"
 
 [menu]
 
