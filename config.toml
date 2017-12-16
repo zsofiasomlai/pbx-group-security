@@ -111,15 +111,6 @@ paginate = 10
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
-# Enable or disable top bar with social icons
-[params.topbar]
-    enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at project-cx@photobox.com</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
-
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
