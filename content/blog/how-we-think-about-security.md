@@ -10,7 +10,7 @@ Our group of companies provide an incredible service for our customers, we work 
 
 Every day we produce tens of thousands of unique and complex items, we ingest millions of photos into our sites and store them, we support hundreds of colleagues in multiple sites across Europe, our data set is at petabyte scale and we add terabytes more every day.
 
-Our own technology enables every aspect of what we do for customers, from our web sites to our factories we rely on our engineering teams to build, maintain and evolve our services to cope with our growing customer base, the pace of our product evolution and out ever changing manufacturing capabilities.
+Our own technology enables every aspect of what we do for customers, from our web sites to our factories we rely on our engineering teams to build, maintain and evolve our services to cope with our growing customer base, the pace of our product evolution and our ever changing manufacturing capabilities.
 
 We are not your usual eCommerce business.
 
