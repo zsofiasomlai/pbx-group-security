@@ -6,6 +6,16 @@ themesDir = "./"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = 10
+disqusShortname = "pbx-group-security-com"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-111337742-1"
+
+ignoreFiles = [ "^\\.#", "^\\#", "^\\.*.swp" ]
+
+[social]
+twitter = "pbg_security"
+twitter_domain = "pbg_security"
+facebook = ""
 
 [menu]
 
@@ -68,6 +78,7 @@ paginate = 10
     author = "Photobox Group Security"
     defaultKeywords = ["photobox", "security", "blog"]
     defaultDescription = "Welcome to Photobox Group Security's hub"
+    ghRepo = "https://github.com/photobox/pbx-group-security/"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"

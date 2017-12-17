@@ -4,6 +4,7 @@ banner: "/img/blog/Mrs-Warrens-Profession cropped.jpg"
 date: "2017-12-04"
 tags: ["GDPR", "Data Protection"]
 categories: ["GDPR", "Data Protection"]
+author: Robert Grace
 ---
 
 ## Warren & Brandeis: The Right to Curate an Identity

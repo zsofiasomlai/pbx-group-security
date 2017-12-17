@@ -28,6 +28,8 @@
 
                         <div id="post-content">
                           {{ .Content }}
+
+			  {{ partial "edit-link.html" . }}
                         </div>
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
