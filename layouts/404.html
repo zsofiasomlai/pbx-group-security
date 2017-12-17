@@ -40,7 +40,9 @@
             <!-- /.container -->
         </div>
         <!-- /#content -->
-	{{ template "_internal/google_analytics.html" . }}
+	{{ if not .Site.BuildDrafts }}
+	  {{ template "_internal/google_analytics.html" . }}
+	{{ end }}
         {{ partial "footer.html" . }}
 
     </div>
