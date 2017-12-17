@@ -24,14 +24,16 @@ The Security team are now working with our Engineering and Product teams to ensu
 
 We are working closely with authorities and regulators in multiple territories to ensure our compliance is transparent and to preserve our customers trust.
 
-We agreed a framework that enabls us to assess and progress our efforts in these areas:
+We agreed a framework that enables us to assess and progress our efforts in these areas:
 
   - Preserve customer **Trust** & comply with relevant regulation 
   - **Prevent** security crisis by adopting a multi-defence security model 
   - Create a digital Immune System to **Detect** and Respond to security incidents
   - **Enable** the group via modern Risk function and secure development practices
   - **Educate** our customers, security team and brands through innovation and creativity
-  
- If this sounds like your kind of thing then get in touch, we're hiring...
+
+Our new approach puts security at the heart of everything we do, from our architecture to our testing to our manufacturing.
+
+If this sounds like your kind of thing then get in touch, we're hiring...
 
 *Richard Orme, CTO, Photobox Group*
