@@ -1,0 +1,8 @@
+<td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+<td>{{ .Params.contract_type }}</td>
+<td>{{ .Params.location }}</td>
+<td>
+    {{ if .Params.apply_link}}
+    <a href="{{ .Params.apply_link }}">here</a>
+    {{ end }}
+</td>
