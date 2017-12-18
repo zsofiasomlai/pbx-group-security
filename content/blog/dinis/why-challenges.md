@@ -1,7 +1,7 @@
 ---
-title: "Why challenges?"
-banner: "static/img/Photoboxgroup_blogRGB.png"
-date: "2017-12-11"
+title   : Why challenges?
+banner  : /img/Photoboxgroup_blogRGB.png
+date    : 2017-12-11
 ---
 
 ## Why challenges?

@@ -1,7 +1,7 @@
 ---
-title: "We need your help"
-banner: "/img/blog/Photoboxgroup_wearehiringRGB.png"
-date: "2017-12-11"
+title   : We need your help
+banner  : /img/blog/Photoboxgroup_wearehiringRGB.png
+date    : 2017-12-11
 ---
 
 ## How can you help? Group Security Recruitment Process
