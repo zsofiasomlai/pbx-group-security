@@ -43,10 +43,10 @@ facebook = ""
     url  = "/challenges/"
     weight = 4
 
-[[menu.main]]
-    name = "Dev"
-    url  = "/page/dev/"
-    weight = 5
+#[[menu.main]]
+#    name = "Dev"
+#    url  = "/page/dev/"
+#    weight = 5
 
 [[menu.main]]
     name = "Contact"

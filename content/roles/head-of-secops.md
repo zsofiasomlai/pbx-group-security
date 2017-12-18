@@ -1,7 +1,9 @@
 ---
-title: "Head of SecOps"
-date: "2017-12-06"
-banner: "/img/banners/2.jpg"
+title         : Head of SecOps
+date          : 2017-12-06
+contract_type : Permanent
+location      : London, Paris, Valencia or Munich
+apply_Link    : https://www.linkedin.com/jobs/view/528089127/
 ---
 
 ## Head of SecOps
@@ -43,7 +45,9 @@ Working alongside the group security senior management team, you will be respons
 - Relevant experience in a 1000+ FTE Enterprise
 - Excellent communication skills with teams at all levels across the business
 
-## Tech Stack (you must be proficient in at least one of the following:)
+## Tech Stack
+
+You must be have good experience in at least one or more of the following:
 
 - Devops, SRE, Beyond Corp
 - AWS, Azure, Kubernetes, CI/CD pipeline

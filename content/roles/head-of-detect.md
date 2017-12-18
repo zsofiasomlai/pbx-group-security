@@ -1,6 +1,9 @@
 ---
-title: "Head of Detect"
-date: "2017-12-06"
+title         : Head of Detect
+date          : 2017-12-06
+contract_type : Permanent
+location      : London, Paris, Valencia or Munich
+apply_Link    : https://www.linkedin.com/jobs/view/528052483/
 ---
 
 ## Head of Detect
@@ -42,7 +45,9 @@ You must have a strong understanding of security operations, vulnerability manag
 - Great stakeholder management and influencing skills
 - Remain calm under pressure
 
-## Tech Stack (You must be have good experience in at least one or more of the following):
+## Tech Stack
+
+You must be have good experience in at least one or more of the following:
 
 - ELK, Splunk, DarkTrace, SIEM
 - ML and AI

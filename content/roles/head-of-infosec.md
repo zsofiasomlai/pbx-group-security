@@ -1,6 +1,9 @@
 ---
-title: "Head of InfoSec"
-date: "2017-12-06"
+title         : Head of InfoSec
+date          : 2017-12-06
+contract_type : Permanent
+location      : London, Paris, Valencia or Munich
+apply_Link    : https://www.linkedin.com/jobs/view/528061818
 ---
 
 ## Head of InfoSec
@@ -53,7 +56,7 @@ You will be responsible for driving the Group’s enterprise security and risk m
 - Strong knowledge of secure engineering principles 
 - Calm under pressure 
 
-## Tech Stack 
+## Tech Stack
 
 - Significant experience in multiple areas of Technology and Security (wide knowledge set required) 
 - Applicants must have a valid EU work permit (we will not provide visa sponsorship) 

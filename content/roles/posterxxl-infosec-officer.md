@@ -1,6 +1,9 @@
 ---
-title: "Information Security Officer (Germany)"
-date: "2017-12-06"
+title         : "PosterXXL Information Security Officer"
+date          : 2017-12-06
+contract_type : Permanent
+location      : Munich
+apply_Link    : mailto:project-cx@photobox.com
 ---
 
 ## Information Security Officer
@@ -52,7 +55,9 @@ Support all elements of information security in the provision of external servic
 - High degree of independent work
 - German and English fluently in spoken and written
 
-## Tech Stack Experience across the following areas is desirable:
+## Tech Stack
+
+You must be have good experience in at least one or more of the following:
 
 - TBC
 
