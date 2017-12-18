@@ -17,7 +17,7 @@ We are not your usual eCommerce business.
 
 It's not surprising that our old model of regular pen-tests, risk steering committees etc... wasn't working, it couldn't keep up with the pace of change; we were applying waterfall approaches to modern agile delivery. Our approach of applying rules and constraints on enormous complexity after it had been created was limiting our ability to deliver, we decided to rip up our old security playbook and start again.
 
-We are buildng a security capability that can engage with all aspects of the business to enable and educate the organisation, creating security champions in all teams - security is becoming a part of everyone's job.
+We are building a security capability that can engage with all aspects of the business to enable and educate the organisation, creating security champions in all teams - security is becoming a part of everyone's job.
 
 We are implementing and creating advanced tools utilising AI to enhance our ability to detect anomalous behaviours across our technology estate, from our consumer facing websites to our colleagues devices.
 
