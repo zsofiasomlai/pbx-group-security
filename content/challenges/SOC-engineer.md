@@ -73,25 +73,25 @@ Explain the kind of dashboard that you would  create and how you would use them 
 
 ### Practical Exercise
 
-#### Task 1	
+##### Task 1	
 Use a free log service (loggly) or ELK stack (elastic) to create dashboards
 
-#### Task 2	
+##### Task 2	
 Create EC2 instance or container instances and load with a vulnerable website
 
 - Generate traffic (manually or with tool)
 - Create cloudwatch alerts & cloudtrail dashboards that show alerts
 
-#### Task 3	
+##### Task 3	
 Create Lambda function to;
 
 - Show a list of running instances (all regions and metadata)
 - Stop EC2 instances that have not been accessed for a period of time or have a low CPU usage
 
-#### Task 4	
+##### Task 4	
 Setup an Elastic (ELK) Stack, feed logs from task 3 and create a dashboard
 
-#### Task 5	
+##### Task 5	
 Create all tasks via cloudformation and run from CLI
 
 - Use click templates or CLI
