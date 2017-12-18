@@ -1,7 +1,7 @@
 ---
 title         : HPerl Security Developer
 date          : 2017-18-06
-contract_type : Permanent/contract
+contract_type : Contractor
 location      : London, Paris, Valencia or Munich
 ---
 
