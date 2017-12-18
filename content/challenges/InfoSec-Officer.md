@@ -66,19 +66,19 @@ Key questions are:
 
 ### Practical Exercise
 
-#### Task 1	
+##### Task 1	
 Create a Risk Dashboard for the CEO with information they would be usefull for them.
 
-#### Task 2	
+##### Task 2	
 Define an architecture for an secure internal network. You have two sites, one has clients, servers and printers. The other  has site data center, clients, four types of printers which are controlled by a thrid party contractor (with internet access).
 
-#### Task 3	
+##### Task 3	
 Create a paragraph of a acceptable use police how to handle business smartphones.
 
-#### Task 4	
+##### Task 4	
 Show how to secure access to a webserver.
 
-#### Task 5	
+##### Task 5	
 How would you define a system for risk rating?
 
 ### Bonus Exercise
