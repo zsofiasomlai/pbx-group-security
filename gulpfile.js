@@ -1,7 +1,9 @@
-var gulp = require('gulp');
-var concat = require('gulp-concat');
-var uglify = require('gulp-uglify');
-var minify = require('gulp-minify-css');
+const gulp = require('gulp');
+const concat = require('gulp-concat');
+const uglify = require('gulp-uglify');
+const minify = require('gulp-minify-css');
+const image = require('gulp-image');
+
 
 /* Try to keep order of .js files:
  * jquery lib
@@ -44,5 +46,11 @@ gulp.task('css', function(){
    .pipe(gulp.dest('static/css/'));
 });
 
-gulp.task('default',['js','css'],function(){
+gulp.task('images', function(){ 
+    gulp.src('src/images/**')
+    .pipe(image())
+    .pipe(gulp.dest('static/img'))
+});
+
+gulp.task('default',['js','css','images'],function(){
 });
