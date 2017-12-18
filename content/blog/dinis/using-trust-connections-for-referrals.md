@@ -4,8 +4,6 @@ date        : "2017-12-15"
 banner      : "/img/blog/page-2.jpg"
 ---
 
-## Using trust connections for referrals
-
 Part of our recruitment process is to get referrals from the candidates. Referrals are very effective tools to evaluate the talent, because we're leveraging a trust relationship between both parties; between the candidate & the people they know, and between the candidate and the person who reviews them. I would like to see how effective that could be. 
 
 Each candidate needs to find out how they are connected to us via other people. And we can help with that, using graph-based mappings. Is there someone in the Photobox Technology Group, or wider, who personlly knows the candidate? If there is a second degree connection, ideally that contact should meet the candidate in person.
