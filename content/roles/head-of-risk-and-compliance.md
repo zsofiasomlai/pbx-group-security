@@ -1,6 +1,9 @@
 ---
-title: "Head of Risk and Compliance"
-date:  "2017-12-06"
+title         : Head of Risk and Compliance
+date          : 2017-12-06
+contract_type : Permanent
+location      : London, Paris, Valencia or Munich
+apply_Link    : https://www.linkedin.com/jobs/view/528089152
 ---
 
 ## Head of Risk and Compliance
@@ -44,7 +47,9 @@ As Head of Risk and Compliance you will work alongside the Group Security manage
 - Educated to degree level (or equivalent)
 
 
-## Tech Stack Experience across the following areas is desirable)
+## Tech Stack
+
+You must be have good experience in at least one or more of the following:
 
 - GRC, ISMS, GDPR, PCI, ISO 27001
 - Security Policies, Risk Management

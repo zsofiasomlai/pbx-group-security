@@ -22,38 +22,69 @@
                     <main>
                         <div>
                             <p>{{ .Content }} </p>
+                            
+                            <h2>Permanent Positions</h2>
+                            <table class="table">
+                                <thead>
+                                <tr>
+                                    <th> Role           </th>
+                                    <th> Contract Type  </th>
+                                    <th> Location       </th>
+                                    <th> Apply          </th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {{ range where .Data.Pages "Params.contract_type" "Permanent" }}
+                                    <tr>
+                                        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+                                        <td>{{ .Params.contract_type }}</td>
+                                        <td>{{ .Params.location }}</td>
+                                        <td>
+                                            {{ if .Params.apply_link}}
+                                            <a href="{{ .Params.apply_link }}">here</a>
+                                            {{ end }}
+                                        </td>
 
-                            <hr/>
+                                    </tr>
+                                    {{ end }}
+                                </tbody>
 
-                            <ul>
-                                {{ range .Data.Pages }}
+                            </table>
 
-                                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                            <h2>Contract Positions</h2>
+
+                            <table class="table">
+                                <thead>
+                                <tr>
+                                    <th> Role           </th>
+                                    <th> Contract Type  </th>
+                                    <th> Location       </th>
+                                    <th> Apply          </th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {{ range where .Data.Pages "Params.contract_type" "Contractor" }}
+                                <tr>
+                                    <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+                                    <td>{{ .Params.contract_type }}</td>
+                                    <td>{{ .Params.location }}</td>
+                                    <td>
+                                        {{ if .Params.apply_link}}
+                                        <a href="{{ .Params.apply_link }}">here</a>
+                                        {{ end }}
+                                    </td>
+
+                                </tr>
                                 {{ end }}
-                            </ul>
+                                </tbody>
+
+                            </table>
+
+
                         </div>
                     </main>
 
                     <hr/>
-
-                    <!-- /.col-md-9 -->
-
-                    <!-- *** LEFT COLUMN END *** -->
-
-                    <!-- *** RIGHT COLUMN ***  -->
-
-                    <div class="col-md-3">
-
-                        <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "sidebar.html" . }}
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
-                    </div>
-                    <!-- /.col-md-3 -->
-
-                    <!-- *** RIGHT COLUMN END *** -->
 
                 </div>
                 <!-- /.row -->

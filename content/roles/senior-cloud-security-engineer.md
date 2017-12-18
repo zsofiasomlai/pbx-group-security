@@ -1,7 +1,9 @@
 ---
-title : "Senior Cloud Security Engineer"
-date  : "2017-12-06"
-banner: "/img/banners/banner-2.jpg"
+title         : Senior Cloud Security Engineer
+date          : 2017-12-06
+contract_type : Permanent
+location      : London, Paris, Valencia or Munich
+apply_Link    : https://www.linkedin.com/jobs/view/528076691
 ---
 
 ## Senior Cloud Security Engineer
@@ -48,7 +50,9 @@ You will work with the Head of SecOps and Head of AppSec, and ultimately be resp
 - Relevant experience in 1000+ FTE Enterprise
 - Calm under pressure
 
-## Tech Stack (You'll have experience with the following:)
+## Tech Stack
+
+You must be have good experience in at least one or more of the following:
 
 - Advanced AWS or Azure Security knowledge
 - CI, CD, Bash, Kubernetes, AppDynamics

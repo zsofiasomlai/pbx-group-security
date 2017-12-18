@@ -1,15 +1,10 @@
 ---
-title: "Technical Writer"
-date:  "2017-12-06"
+title         : Technical Writer
+date          : 2017-12-06
+contract_type : Contractor
+location      : Remote
+apply_Link    : mailto:project-cx@photobox.com
 ---
-
-## Technical Writer
-
-Contract type: Contractor
-
-Location: Remote
-
-
 
 ## The Role
 
@@ -33,7 +28,9 @@ To provide the CISO and his security team with wide-ranging technical writing su
 - Personable and able to build relationships
 - Willing to learn new skills, particularly new technical skills, as required
 
-## Tech Stack (you must be proficient in at least one of the following)
+## Tech Stack
+
+You must be have good experience in at least one or more of the following:
 
 - JIRA
 - GitHub

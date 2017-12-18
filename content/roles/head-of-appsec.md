@@ -1,9 +1,9 @@
 ---
 title         : Head of AppSec
-date          :  2017-12-06
+date          : 2017-12-06
 contract_type : Permanent
-location      : London, Paris, Valencia, Munich
-apply_Link    : https://linkedin.com/aaa
+location      : London, Paris, Valencia or Munich
+apply_Link    : https://www.linkedin.com/jobs/view/528048707/
 ---
 
 ## The Role
@@ -28,7 +28,9 @@ As the Head of AppSec you will work alongside the Group Security management team
 - Developer training and curriculum development
 - Have a deep understanding and hands on experience of secure software development practices including threat modelling, secure design principles, secure coding, code analysis, security testing and AppSec automation etc.
 
-## Tech Stack (you must be proficient in at least one of the following)
+## Tech Stack
+
+You must be proficient in at least one of the following:
 
 - OWASP, SAST, DAST, IAST, WAF
 - TDD, BDD, Test DSLs

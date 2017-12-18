@@ -1,6 +1,9 @@
 ---
-title: "Security Operations Engineer"
-date: "2017-12-06"
+title         : Security Operations (SOC) Engineer
+date          : 2017-12-06
+contract_type : Contractor
+location      : London
+apply_Link    : mailto:project-cx@photobox.com
 ---
 
 ## Security Operations Engineer
@@ -42,7 +45,9 @@ The role requires you to have previous experience of working in a SOC, along wit
 - Programming experience (Python, JavaScript or Bash)
 - Creation of dashboards using Kibana, Grafana or Nagios
 
-## Tech Stack Experience across the following areas is desirable:
+## Tech Stack
+
+You must be have good experience in at least one or more of the following:
 
 - AlertLogic and AlienVault or Elastic Stack/ELK
 - AWS, Akamai, WAF, Lambda
