@@ -3,7 +3,7 @@ title       : "Summary of The International Comparative Guide: Cybersecurity 201
 date        : "2017-12-04"
 tags        : ["GDPR", "Data Protection"]
 categories  : ["CyberSecurity"]
-banner      : /img/blog/page-2.jpg
+banner      : /img/blog/hacker-1944688_960_720.jpg
 ---
 
 ## A Summary of three articles in The International Comparative Legal Guide: Cybersecurity 2018, and their relevance to Photobox Group Security
