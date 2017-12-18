@@ -3,7 +3,7 @@ title       : "How We Think About Security"
 date        : "2017-12-17"
 tags        : ["Photobox", "Team", "Why Photobox", "CTO"]
 categories  : ["Recruitment"]
-banner      : img/blog/blog_think_sec.png
+banner      : /img/blog/blog_think_sec.png
 ---
 
 Our group of companies provide an incredible service for our customers, we work in a special space for them, helping them create something unique; a snapshot of a time and a place perhaps, the capturing of a memory, the gift that shows someone else how much they care for them. They trust us to be there for them and to protect those magical and intimate moments, it's something we are proud to take very seriously.
