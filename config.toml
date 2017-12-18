@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://pbx-group-security.com"
 
 title = "Photobox Group Security"
 theme = "./layouts"
