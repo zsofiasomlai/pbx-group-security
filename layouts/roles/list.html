@@ -22,7 +22,7 @@
                     <main>
                         <div>
                             <p>{{ .Content }} </p>
-                            
+
                             <h2>Permanent Positions</h2>
                             <table class="table">
                                 <thead>
@@ -35,18 +35,10 @@
                                 </thead>
                                 <tbody>
                                 {{ range where .Data.Pages "Params.contract_type" "Permanent" }}
-                                    <tr>
-                                        <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-                                        <td>{{ .Params.contract_type }}</td>
-                                        <td>{{ .Params.location }}</td>
-                                        <td>
-                                            {{ if .Params.apply_link}}
-                                            <a href="{{ .Params.apply_link }}">here</a>
-                                            {{ end }}
-                                        </td>
-
-                                    </tr>
-                                    {{ end }}
+                                  <tr>
+                                      {{ partial "roles/contract_td.html" . }}
+                                  </tr>
+                                {{ end }}
                                 </tbody>
 
                             </table>
@@ -65,21 +57,12 @@
                                 <tbody>
                                 {{ range where .Data.Pages "Params.contract_type" "Contractor" }}
                                 <tr>
-                                    <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
-                                    <td>{{ .Params.contract_type }}</td>
-                                    <td>{{ .Params.location }}</td>
-                                    <td>
-                                        {{ if .Params.apply_link}}
-                                        <a href="{{ .Params.apply_link }}">here</a>
-                                        {{ end }}
-                                    </td>
-
+                                    {{ partial "roles/contract_td.html" . }}
                                 </tr>
                                 {{ end }}
                                 </tbody>
 
                             </table>
-
 
                         </div>
                     </main>
