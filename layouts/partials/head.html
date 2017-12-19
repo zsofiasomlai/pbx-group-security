@@ -59,11 +59,7 @@
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
   <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="{{ .Title }}" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ .URL }}/" />
-  <meta property="og:image" content="{{ .Site.Params.logo }}" />
-
+  {{ template "_internal/opengraph.html" . }}
   <!-- Twitter card -->
   {{ template "_internal/twitter_cards.html" . }}
 
