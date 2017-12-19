@@ -1,6 +1,7 @@
 ---
 title: "Positions available"
 banner: "/img/pbx-gs/pbx-gs-logo.png"
+images: ["/img/blog/Photoboxgroup_wearehiringRGB.png"]
 ---
 
 Please see below our open positions.
