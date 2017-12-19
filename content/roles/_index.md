@@ -1,7 +1,8 @@
 ---
-title: "Positions available"
-banner: "/img/pbx-gs/pbx-gs-logo.png"
-images: ["/img/blog/Photoboxgroup_wearehiringRGB.png"]
+title       : "Join a modern Security team"
+banner      : "/img/pbx-gs/pbx-gs-logo.png"
+image       : "/img/blog/Photoboxgroup_wearehiringRGB.png"
+description : "Our  approach puts security at the heart of everything we do, from our architecture to our testing to our manufacturing. If this sounds like your kind of thing then get in touch, we’re hiring."
 ---
 
 Please see below our open positions.
