@@ -2,6 +2,8 @@
 title   : Why challenges?
 banner  : /img/Photoboxgroup_blogRGB.png
 date    : 2017-12-11
+images  : ["/img/Photoboxgroup_blogRGB.png"]
+author      : Dinis Cruz
 ---
 
 ## Why challenges?

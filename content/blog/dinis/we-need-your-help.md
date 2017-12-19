@@ -2,6 +2,8 @@
 title   : We need your help
 banner  : /img/blog/Photoboxgroup_wearehiringRGB.png
 date    : 2017-12-11
+images  : ["/img/blog/Photoboxgroup_wearehiringRGB.png"]
+author      : Dinis Cruz
 ---
 
 ## How can you help? Group Security Recruitment Process

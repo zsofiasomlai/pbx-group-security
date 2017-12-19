@@ -4,6 +4,8 @@ date        : "2017-12-04"
 tags        : ["GDPR", "Data Protection"]
 categories  : ["CyberSecurity"]
 banner      : /img/blog/hacker-1944688_960_720.jpg
+images      : ["/img/blog/hacker-1944688_960_720.jpg"]
+author      : Ann-Marie Grace
 ---
 
 ## A Summary of three articles in The International Comparative Legal Guide: Cybersecurity 2018, and their relevance to Photobox Group Security

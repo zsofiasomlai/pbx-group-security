@@ -2,6 +2,8 @@
 title       : "Writing blogs for GS website"
 date        : "2017-12-11"
 banner      : "/img/blog/page-2.jpg"
+images      : ["/img/blog/page-2.jpg"]
+author      : Dinis Cruz
 ---
 
 ## Why write blog posts for the Photobox Group Security website?
