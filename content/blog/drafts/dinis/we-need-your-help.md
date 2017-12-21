@@ -6,7 +6,7 @@ images  : ["/img/blog/Photoboxgroup_wearehiringRGB.png"]
 author      : Dinis Cruz
 ---
 
-## How can you help with the Group Security Recruitment Process?
+## How can you help with the Group Security recruitment process?
 
 Group Security is currently recruiting for six new senior positions and a number of short-term contractors.
 We really need your help; the best candidate could be a candidate you already know, who you feel will be an amazing fit for the role, for our culture, and for the work we're trying to do in Photobox Group Security.
