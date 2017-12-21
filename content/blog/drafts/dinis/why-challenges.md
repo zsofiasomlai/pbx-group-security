@@ -22,5 +22,5 @@ The challenges will allow you to shine. Some candidates will react very quickly 
 ## Have fun
 The challenges should be fun; you should enjoy them, as well as learn from them. Even if they don't make it to the end of the selection process, hopefully the challenges will allow your explore the gaps in your skill set and show you why this job may not be the right one for you at this moment in time.
 
-## How can we manage the challenge of the challenges? 
+## How we manage the challenge of the challenges? 
 This process allows us to learn what other people have done and how our own recruitment process can improve. In Photobox Group Security we believe in openness, and this open discussion of our recruitment process is an example of that culture in action. 
