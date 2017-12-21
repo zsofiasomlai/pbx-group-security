@@ -1,5 +1,5 @@
 ---
-weight     : 2
+weight     : 1
 name       : "We're Hiring"
 icon       : "fa fa-globe"
 link       : '/roles'
