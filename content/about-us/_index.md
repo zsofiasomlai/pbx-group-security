@@ -10,7 +10,6 @@ Photobox Group Security is the team responsible for securing magic moments for c
 
 On this site we will aim to showcase why the Photobox Group is a great place to work, feature our latest thinking on the blog as well as post the current openings. So if we’ve managed to convince you, take a look at the challenges and get in touch!  
 
-
 #### Our Way of Working 
 It takes a particular kind of spirit to work in the PhotoBox Group. It’s not for everyone. For a start, we’re a place for self starters and free thinkers. We thrive on each other’s passion for delivering amazing customer experiences, never standing still and constantly challenging the status quo. We look for new and better ways to consistently deliver results and wow customers.
 
@@ -23,13 +22,12 @@ We’re at an exciting time in our evolution. We’re growing up but not growing
 #### Our Values 
 We believe in each other: anything is possible here because we value and support each other. We do our best work when everyone has a voice and we create an environment where we can fail fast and learn quickly. 
 We shake things up: looking for new ways to deliver exceptional products and services to our customers. We challenge the status quo and each other - creating, exploring, learning, growing.
+
 We win together: by building relationships, collaborating and tapping into the imagination and expertise of everyone, across our family of brands, we create amazing experiences.
+
 We make magic happen: we go all-out to create moments that wow, surprise and warm the hearts of our customers and each other. This is our business.
 	
-
-#### About Photobox Group
-Photobox Group is Europe’s leading digital consumer service for personalised products and gifts and parent of the [Photobox](https://www.photobox.co.uk/), [Moonpig](https://www.moonpig.com/), [Hofmann](https://www.hofmann.es/) and [posterXXL](https://www.posterxxl.de) brands.
+#### About [Photobox Group](http://group.photobox.com/)
+[Photobox Group](http://group.photobox.com/) is Europe’s leading digital consumer service for personalised products and gifts and parent of the [Photobox](https://www.photobox.co.uk/), [Moonpig](https://www.moonpig.com/), [Hofmann](https://www.hofmann.es/) and [posterXXL](https://www.posterxxl.de) brands.
 
 From photobooks and unique artwork to the very latest personalised apparel, gifts and greeting cards, the Group’s products enable customers across 15 countries to share memories, celebrate great moments and inject personal expression into their everyday lives. The Group generated revenue of £288.5m in the fiscal year ending 30 April 2016.
-
-Website: http://group.photobox.com/ 
