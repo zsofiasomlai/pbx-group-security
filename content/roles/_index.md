@@ -7,7 +7,7 @@ description : "Our  approach puts security at the heart of everything we do, fro
 
 Please see below our open positions.
 
-Here is some of our thoughts on why you should join our team:
+Here are some of the reasons you should join our team:
 
 * [How we think about Security](/blog/2017/12/17/how-we-think-about-security/)
 * [Why join Photobox Group Security](/roles/why-photobox.md)
