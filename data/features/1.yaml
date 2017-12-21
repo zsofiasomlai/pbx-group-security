@@ -1,5 +1,5 @@
 weight     : 1
 name       : "Why work at Photobox"
 icon       : "fa fa-desktop"
-link       : 'roles/why-photobox.md'
+link       : '/why-photobox.md'
 description: "We like to shake things up; look for new ways to deliver exceptional products and services to our customers; and challenge the status quo and each other. It’s about creating, exploring, learning, and growing."
