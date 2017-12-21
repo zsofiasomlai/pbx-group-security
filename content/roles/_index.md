@@ -5,7 +5,7 @@ image       : "/img/blog/Photoboxgroup_wearehiringRGB.png"
 description : "Our  approach puts security at the heart of everything we do, from our architecture to our testing to our manufacturing. If this sounds like your kind of thing then get in touch, we’re hiring."
 ---
 
-Please see below our open positions.
+We are recruiting for the following new roles within the Photobox Group Security team. 
 
 Here are some of the reasons you should join our team:
 
