@@ -106,7 +106,7 @@ facebook = ""
     #?Enable the contact form by entering your Formspree.io email
     email = "project-cx@photobox.com"
 
-    about_us = "<p>About Photobox Group<br>Photobox Group is Europe’s leading digital consumer service for personalised products and gifts and parent of the Photobox, Moonpig, Hofmann and posterXXL brands.<p>
+    about_us = "<p>About Photobox Group<br>Photobox Group is Europe's leading digital consumer service for personalised products and gifts and parent of the Photobox, Moonpig, Hofmann and posterXXL brands.<p>"
     copyright = "Copyright (c) 2017, Photobox Group Security; all rights reserved."
 
     # Format dates with Go's time formatting
