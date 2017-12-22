@@ -11,6 +11,7 @@ author      : Ann-Marie Grace
 ## A Summary of three articles in The International Comparative Legal Guide: Cybersecurity 2018, and their relevance to Photobox Group Security
 
 The general thrust of the articles in the guide seems to endorse the approach of the Photobox Group to Security, particularly the following practices:
+
 - Assessing the fluid, evolving nature of cybersecurity
 - Understanding the importance of openness and sharing information to develop and adopt best practice
 - Acknowledging that good security is about risk management spanning technology, people, and processes
@@ -115,3 +116,7 @@ Business continuity provisions
 ### Article 3: Directors and Officers’ liability for Data Breach
 
 Interesting piece on shareholder derivative lawsuits. These are claims brought against a shareholder or shareholders on behalf of a company. Usually the defendants are executive officers or directors of a company, and the claim is to enforce a corporate right that the company itself has not enforced (a duty of care has been breached and the company has suffered harm as a result). The article gives examples of suits in US following immense data breaches (Wyndham 2014, Target 2013 etc.)
+
+### References:
+
+[Cybersecurity Laws and Regulations 2018](https://iclg.com/practice-areas/cybersecurity-laws-and-regulations)
