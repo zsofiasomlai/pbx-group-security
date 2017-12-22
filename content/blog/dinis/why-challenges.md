@@ -12,7 +12,7 @@ Why are we asking the applicants to take up the various challenges we've devised
 
 Our challenges will highlight the opportunities and advantages of working with Photobox Security Group. They should represent what we do on a daily basis, and give you a feel for the job you will do. We want to avoid the horror stories from other corporations, who use irrelevant challenges that focus on knotty intellectual, problem-solving capabilities that are worlds away from the realities of the job being advertised.
 
-CVs aren't always a good reflection of a person's capabilities. CVs can be exaggerated and they don't always show a person's true potential. CVs can make it hard for recruiters to make a fair assessment. We view these challenges as a fair way for you to demonstrate your skills and experience.
+CVs aren't always a good reflection of a person's capabilities. They can be exaggerated, they don't always show a person's true potential and can make it hard for recruiters to make a fair assessment. We view these challenges as a fair way for you to demonstrate your skills and experience.
 
 Interviews should give the opportunity to discuss a project of which everyone has some experience. This is where the challenges come in: when candidates excel at particular challenges, at interview stage we then have something tangible to discuss; your thoughts and reactions to the challenges.
 
