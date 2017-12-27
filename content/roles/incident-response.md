@@ -18,9 +18,9 @@ apply_Link    : mailto:project-cx@photobox.com
 - Computer Security Incident Response
 - Data Recovery, Deletion and Destruction
 - Supporting the CISO as and when required
-- Ad hoc analysis
 - Contributing to cybersecurity sucess metrics with the aim to continuously improve the Group Security function
 - Mentoring and knowledge sharing with the wider team/business
+- Ad hoc analysis
 
 ## Who are you?
 
