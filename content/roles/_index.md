@@ -12,3 +12,6 @@ Here are some of the reasons you should join our team:
 * [How we think about Security](/blog/2017/12/17/how-we-think-about-security/)
 * [Why join Photobox Group Security](/roles/why-photobox/)
 * [Why Challenges](/blog/2017/12/11/why-challenges/)
+
+### How does the Photobox Group Secuirty recruitment process work?
+![recruitment process](pbx-group-security/static/img/blog/Pbx_Security_Infographic_Amendments_Screen72ppp.jpg)
