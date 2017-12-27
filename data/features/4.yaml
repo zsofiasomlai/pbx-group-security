@@ -2,4 +2,4 @@ weight     : 4
 name       : "Blog"
 icon       : "fa fa-lightbulb-o"
 link       : '/blog'
-description: "Check out our blog for latest news and knowledge sharing of lessons learned, from intelligent infrastructure to securing product CI pipelines, infusing the security culture across organisations activities and giving back to the community."
+description: "Check out our blog for the latest news from the security team and knowledge sharing of lessons learned, from intelligent infrastructure to securing product CI pipelines, infusing the security culture across organisations activities and giving back to the community."
