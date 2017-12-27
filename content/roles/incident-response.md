@@ -8,8 +8,9 @@ apply_Link    : mailto:project-cx@photobox.com
 
 ## The Role
 
-You will be responsible for reviewing, validating, classifying, and responding to security events, as they happen, as well as analysing network traffic events, investigating intrusion attempts and performing in-depth analysis of exploits and attacks. You will also participate in incident reporting, from initial response to triage, to determining remediation actions and escalation paths.
-Providing direction and support to less experienced security staff to orient them and increase their understanding of more complex security analysis and design will be a key part of this role.
+- You will be responsible for reviewing, validating, classifying, and responding to security events, as they happen, as well as analysing network traffic events, investigating intrusion attempts and performing in-depth analysis of exploits and attacks. 
+- You will also participate in incident reporting, from initial response to triage, to determining remediation actions and escalation paths.
+- Providing direction and support to less experienced security staff to increase their understanding of more complex security analysis and design will be a key part of this role.
 
 ## What will you do?
 
