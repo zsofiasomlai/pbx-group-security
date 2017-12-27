@@ -2,6 +2,7 @@
 title       : "About Us"
 banner      : "/img/pbx-gs/pbx-gs-logo.png"
 image       : "/img/blog/Photoboxgroup_wearehiringRGB.png"
+url         : "/about-us"
 description : "Photobox Group Security is the team responsible for securing magic moments for customers of our brands."
 ---
 
