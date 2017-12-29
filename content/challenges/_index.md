@@ -9,5 +9,3 @@ See the [Why Challenges?](/blog/2017/12/11/why-challenges/) blog post for more t
 
 ### Challenges
 
-### How does the Photobox Group Secuirty recruitment process work?
-![recruitment process](/img/blog/Pbx_Security_Infographic_Amendments_Screen72ppp.jpg)
