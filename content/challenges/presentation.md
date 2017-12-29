@@ -2,8 +2,6 @@
 Title: All roles - Presentation or Blog
 Date : 2017-12-29
 ---
-# Create a presentation or blog post
-
 Create a blog post or presentation about a technical or business related book you have read recently which inspired you.
 
 ## Book suggestions:
