@@ -10,4 +10,4 @@ The graph based schema should include the following components:
 - Challenges
 - Interviews
 
-Submit your files using a github repsository or [email us](mailto:project-cx@photobox.com)
+Submit your files using a GitHub repository or [email us](mailto:project-cx@photobox.com)
