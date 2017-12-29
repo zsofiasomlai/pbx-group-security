@@ -1,5 +1,5 @@
 ---
-Title: All roles - Inspirational tech leader
+Title: All roles - Inspirational Tech Leader
 Date : 2017-12-29
 ---
 Describe three inspirational tech leaders who you'd like to work for. They must be alive today.
