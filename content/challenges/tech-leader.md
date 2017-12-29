@@ -7,4 +7,4 @@ Describe three inspirational tech leaders who you'd like to work for. They must 
 - Tell us why you'd like to work for them
 - Create a graph showing how you could get a job offer to work for them
 
-Submit your files using a github repsository or email project-cx@photobox.com
+Submit your files using a github repsository or [email us](mailto:project-cx@photobox.com)
