@@ -16,6 +16,8 @@ CVs aren't always a good reflection of a person's capabilities. They can be exag
 
 Interviews should give the opportunity to discuss a project of which everyone has some experience. This is where the challenges come in: when candidates excel at particular challenges, at interview stage we then have something tangible to discuss; your thoughts and reactions to the challenges.
 
+/img/Photoboxgroup_blogRGB.png
+
 ## Show us how you shine
 The challenges will allow you to shine. Some candidates will react very quickly under pressure, where others will want time to reflect and do some research. We aren't necessarily looking for someone who has all the answers straight away, but for someone who is driven to find the answers. If you need more time, even a couple of days, as long as the quality of your output is really good, you're the person we're looking for. 
 
