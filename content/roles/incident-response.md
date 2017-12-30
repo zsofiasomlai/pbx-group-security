@@ -1,5 +1,5 @@
 ---
-title         : InfoSec Incident Responder
+title         : IT Security Incident Response Analyst
 date          : 2017-12-27
 contract_type : Contractor
 location      : London, UK
@@ -8,19 +8,22 @@ apply_Link    : mailto:project-cx@photobox.com
 
 ## The Role
 
-- You will be responsible for reviewing, validating, classifying, and responding to security events, as they happen, as well as analysing network traffic events, investigating intrusion attempts and performing in-depth analysis of exploits and attacks. 
-- You will also participate in incident reporting, from initial response to triage, to determining remediation actions and escalation paths.
-- Providing direction and support to less experienced security staff to increase their understanding of more complex security analysis and design will be a key part of this role.
+The purpose of the IT Security Incident Response Analyst role is to investigate security incidents that have been triaged and escalated by the first level staff of the Photobox Security Operations Center. 
+
+This includes performing in-depth analysis of indicators of compromise, reviewing relevant security data, contacting impacted end users, and implementing remediation actions.
 
 ## What will you do?
 
-- Digital investigations incorporating Computer and Network Forensic investigations
-- Computer Security Incident Response
-- Data Recovery, Deletion and Destruction
-- Supporting the CISO as and when required
-- Contributing to cybersecurity sucess metrics with the aim to continuously improve the Group Security function
-- Mentoring and knowledge sharing with the wider team/business
-- Ad hoc analysis
+- Act as subject matter expert on various aspects of IT Security in the Global Security Operations Center 
+- Coordinate response to security incidents, mitigation of risk and remediation 
+- Advise Photobox Business Units on remediation of security incidents 
+
+## Position Purpose 
+
+- Perform IT Security Incident Response life cycle (preparation; detection and analysis, containment, eradication and recovery; post-incident activity)
+- Assesses IT risks and analyze potential mitigation strategies to reduce IT Security exposure (Use Cases, Scenarios) 
+- Detailed analyses of various security event sources (FW, IDS, PROXY, AD etc.) Acts as the interface with other IT and business departments regarding IT security incidents 
+- Collaborates with other security teams in the global IT Security organization in Photobox
 
 ## Who are you?
 
