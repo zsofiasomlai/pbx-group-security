@@ -6,23 +6,6 @@ location      : London, Paris, Valencia or Munich
 apply_Link    : https://www.linkedin.com/jobs/view/528052483/
 ---
 
-## Head of Detect
-
-Contract type: Permanent
-
-Our mission is to secure the magic moments created by our customers, across all our brands. Our operating principles define what we focus on and how we make decisions. We hold ourselves accountable against these principles.
-
-1. We are enablers for the organisation, not blockers
-2. We drive transparency and accountability in risk management
-3. We minimise vulnerabilities
-4. We hack ourselves first
-5. We educate and empower our internal stakeholders and developers
-6: We contribute to adding financial value.
-
-## Why join Photobox Group Security?
-PhotoBox Group Security is a trusted, high-energy, empowered and proactive team. If you are looking for a place to make a difference, apply your security knowledge, learn a lot, be part of a highly productive team, and are able to work collaboratively with all parts of the business, this is the place for you.
-We have a great culture, with a very horizontal structure. We expect you to be knowledgeable, trustworthy, empowered, friendly, focused, and responsible.
-
 ## The Role
 As the Head of Detect you will support the Group Security function in incident response activities, provide situational awareness, be responsible for leading initiatives associated with incident response findings, and provide guidance and coordination for incident response efforts including triage, evaluation, coordination, and executive reporting.
 
