@@ -42,8 +42,3 @@ We do not wish to use recruitment agencies for this role.
 ## Why else would you be interested?
 
 Quite simply, you don’t like standing still. You are passionate about working on different and ambitious projects from Day 1 - otherwise you’ll be bored! You thrive on working with people from different nationalities, different cultures and languages. You want to work within a successful and recognised company, but you also want the freedom to bring forward your own solutions and to make your own impact. You want to work somewhere where people really are on first name terms and where they genuinely want to help and challenge each other to learn, be better and more innovative every day. Most importantly, you want to work in a business where spreading joy is the mission and where we all have fun making it happen.
-
-## How to apply
-To submit your application for this role you will be required to undertake a theoretical and practical challenge. This helps us to identify your suitability and experience level. Each challenge should take no longer than 10 - 15 minutes to complete, however, in order to highlight your key skills, you may take longer than the suggested time if you wish.
-
-We are working on this challange will update soon
