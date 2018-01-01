@@ -8,7 +8,10 @@ apply_Link    : https://www.linkedin.com/jobs/view/528089152
 
 ## The Role
 
-As Head of Risk and Compliance you will work alongside the Group Security management team and act as an ambassador for PhotoBox Group’s compliance culture and standards, enabling the highest standards of compliance with GDPR and PCI. You will provide an advisory role for regulatory aspects across the whole business while creating a modern risk culture, powered by real-time risk visualisation and monitoring....
+As Head of Risk and Compliance you will work alongside the Group Security management team and act as an
+ambassador for PhotoBox Group’s compliance culture and standards, enabling the highest standards of
+compliance with GDPR and PCI. You will provide an advisory role for regulatory aspects across the whole
+business while creating a modern risk culture, powered by real-time risk visualisation and monitoring.
 
 ## What will you do?
 
