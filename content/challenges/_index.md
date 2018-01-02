@@ -7,5 +7,5 @@ page)
 
 See the [Why Challenges?](/blog/2017/12/11/why-challenges/) blog post for more thoughts on the concept of challenges.
 
-### Challenges
+### Challenge
 
