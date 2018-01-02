@@ -5,15 +5,12 @@ level : ungraded
 required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+questions :
+    - "CP-FI-01: Tell me about a time when you came across questionable financial practices."
+    - "CP-FI-02: Tell me about a time when you had to explain financial concepts to various audiences. How did you communicate these concepts effectively?"
+    - "CP-FI-04: Tell me about a time when a financial error was brought to your attention. Who was responsible for the error? How did you resolve the situation?"
+
+other_questions:
+    - "CP-FI-03: Describe a time when you had to explain a complex financial concept to someone without a finance background."
+    - "CP-FI-05: Provide an example of a process/tool you created or updated that resulted in improved workflow, accuracy, or analysis."
 ---
-Pick up to three of the following questions and provide an answer using a GitHub repository.
-
-- Tell me about a time when you came across questionable financial practices.
-- Tell me about a time when you had to explain financial concepts to various audiences.
- - How did you communicate these concepts effectively?
-- Describe a time when you had to explain a complex financial concept to someone without a finance background.
-- Tell me about a time when a financial error was brought to your attention.
- - Who was responsible for the error?
- - How did you resolve the situation?
-- Provide an example of a process/tool you created or updated that resulted in improved workflow, accuracy, or analysis.
-

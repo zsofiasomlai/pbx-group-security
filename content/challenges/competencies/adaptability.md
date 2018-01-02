@@ -6,12 +6,12 @@ difficulty: medium
 skills    : Behaviour
 questions :
     - "CP-AD-01: Describe a time when you worked on a challenging cross-functional team that produced an exceptional deliverable."
+    - "CP-AD-04: Describe your most recent experience working with a virtual team."
+    - "CP-AD-05: Tell me about a time when your attempt to collaborate across teams was unsuccessful."
+
+other_questions:
     - "CP-AD-02: Describe how you have collaborated with others outside of your immediate team to resolve a critical issue."
     - "CP-AD-03: Tell me about a time when you experienced conflict with a team member."
-other_questions:
-    - Describe your most recent experience working with a virtual team.
-     - What were the challenges you faced and how did you work through them?
-    - Tell me about a time when your attempt to collaborate across teams was unsuccessful.
 
 not_clearly_demonstrated:
     - Was unable or unwilling to adjust to changing situations

@@ -5,7 +5,8 @@ type  : for-candidate
 challenges:
     - challenges/competencies/adaptability.md
     - challenges/competencies/trusted-advisor.md
-    - challenges/competencies/adaptability.md
+    - challenges/competencies/finance.md
+    - challenges/hard/graph-schema.md
     - inspirational-security.md
     - interesting-example.md
     - challenges/hard/graph-schema.md
