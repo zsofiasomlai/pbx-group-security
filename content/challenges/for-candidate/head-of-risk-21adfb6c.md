@@ -9,6 +9,4 @@ challenges:
     - challenges/easy/inspirational-security.md
     - challenges/hard/interesting-example.md
     - challenges/standards/CBEST_CREST.md
-
 ---
-
