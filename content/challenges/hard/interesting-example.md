@@ -1,9 +1,10 @@
 ---
-title   : An interesting example
-date    : 2018-01-01
-level   : hard
-type    : written
-skills  : research, passion
+title       : An interesting example
+date        : 2018-01-01
+level       : two
+required    : yes
+difficulty  : hard
+skills      : research, passion
 ---
 
 Describe something (technology related) cool and intersting that you've done recently 

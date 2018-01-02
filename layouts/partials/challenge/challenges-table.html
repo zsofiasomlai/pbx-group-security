@@ -1,0 +1,21 @@
+<table class="table">
+    <thead>
+        <th>title</th>
+        <th>level</th>
+        <th>required</th>
+        <th>difficulty</th>
+        <th>skills</th>
+    </thead>
+    {{ range .Data.Pages }}
+        {{ if ne .Params.hide true }}
+
+            <tr>
+                <td><a href="{{ .Permalink }}">{{ .Title }}</a> </td>
+                <td>{{ .Params.level }}</td>
+                <td>{{ if .Params.required }} yes {{else}} no {{end}}</td>
+                <td>{{ .Params.difficulty }}</td>
+                <td>{{ .Params.skills }}</td>
+            </tr>
+        {{ end }}
+    {{ end }}
+</table>
