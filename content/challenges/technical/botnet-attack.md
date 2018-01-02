@@ -1,16 +1,17 @@
 ---
-title       : AWS Root Key
+title       : Botnet Attack
 date        : 2018-01-01
 level       : TBC
-required    :
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
 
-A legacy SVN server is found to be exposed on the internet Review of the source code identifies a number of secrets:
+A distributed botnet (from multiple IPs) is hitting one of our websites and is creating new accounts at a rate of 4 per second.
 
-- Usernames and passwords of production DBs and Servers
-- AWS key Upon review, the AWS key is active and has root privileges
+- Each hour 15k new accounts are created
+- Usernames contain an unusual ‘fiction-based’ text (i.e. from books)
+- Each new account has some impact on the back-end due to automated actions and workflows (i.e. auto-creation of albums and insertion into CRM tools)
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

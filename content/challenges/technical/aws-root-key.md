@@ -1,17 +1,16 @@
 ---
-title       : Botnet Attack
+title       : AWS Root Key
 date        : 2018-01-01
-level       : TBC
-required    :
+level       : one
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
 
-A distributed botnet (from multiple IPs) is hitting one of our websites and is creating new accounts at a rate of 4 per second.
+A legacy SVN server is found to be exposed on the internet Review of the source code identifies a number of secrets:
 
-- Each hour 15k new accounts are created
-- Usernames contain an unusual ‘fiction-based’ text (i.e. from books)
-- Each new account has some impact on the back-end due to automated actions and workflows (i.e. auto-creation of albums and insertion into CRM tools)
+- Usernames and passwords of production DBs and Servers
+- AWS key Upon review, the AWS key is active and has root privileges
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 
@@ -26,4 +25,3 @@ A distributed botnet (from multiple IPs) is hitting one of our websites and is c
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks, and DarkTrace
 
 #### NOTE: Issues can NOT be remediated in hours
-
