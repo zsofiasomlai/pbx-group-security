@@ -1,8 +1,8 @@
 ---
 title       : AWS Root Key
 date        : 2018-01-01
-level       : TBC
-required    :
+level       : one
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
@@ -25,4 +25,3 @@ A legacy SVN server is found to be exposed on the internet Review of the source 
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks, and DarkTrace
 
 #### NOTE: Issues can NOT be remediated in hours
-
