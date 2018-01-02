@@ -1,18 +1,22 @@
 ---
-title: Business Acumen
-date : 2018-01-01
-level : ungraded
+title       : Business Acumen
+area        : competency
+level       : two
 required    : required
-skills : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency
 difficulty  : easy
 questions:
     - "CP-BA-01: Describe a situation when you modified your approach on an assignment due to a change in business conditions."
+    - "CP-BA-04: What steps have you taken to become more knowledgeable and effective in your role?"
+    - "CP-BA-06: Tell me about a time when you mentored staff on how to effectively communicate complex or sensitive ideas in a manner that is easily understood. How did you communicate this change to others?"
+
+other-questions:     
     - "CP-BA-02: Describe a situation when you assessed the impact of your work from a cost-benefit or business-metric perspective."
     - "CP-BA-03: Describe a situation when you had to explain your organisation’s business strategy to a client, candidate, partner, or vendor."
-    - "CP-BA-04: What steps have you taken to become more knowledgeable and effective in your role?"
     - "CP-BA-05: Tell me about a time you used your knowledge of the organisation to get an idea approved."
-    - "CP-BA-06: Tell me about a time when you mentored staff on how to effectively communicate complex or sensitive ideas in a manner that is easily understood. How did you communicate this change to others?"
     - "CP-BA-07: Describe a situation when you had to explain your organisation’s business strategy to a client, candidate, partner, or vendor. What steps have you taken to become more knowledgeable and effective in your role?"
+
+    
 desirable :
     - Considered how their decisions could impact others before acting
     - Used cost-benefit/business metric analyses to determine business impact
