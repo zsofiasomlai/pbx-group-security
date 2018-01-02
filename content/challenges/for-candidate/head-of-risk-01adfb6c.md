@@ -6,7 +6,7 @@ challenges:
     - challenges/competencies/adaptability.md
     - challenges/competencies/finance.md
     - challenges/competencies/trusted-advisor.md
-    - challenges/easy/inspirational-security.md
-    - challenges/hard/interesting-example.md
+    - challenges/research/inspirational-security.md
+    - challenges/research/interesting-example.md
     - challenges/standards/CBEST_CREST.md
 ---

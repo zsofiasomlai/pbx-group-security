@@ -1,5 +1,5 @@
 ---
-title : new one....
+title : All Competencies
 date  : 2018-01-01
 type  : for-candidate
 challenges:

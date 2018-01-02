@@ -4,6 +4,7 @@ date        : 2018-01-02
 level       : one
 required    : yes
 difficulty  : hard
+area        : standards
 skills      : TBC
 ---
 

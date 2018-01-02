@@ -4,6 +4,7 @@ date        : 2018-01-01
 level       : two
 required    : required
 difficulty  : hard
+area        : research
 skills      : Research, Passion
 ---
 

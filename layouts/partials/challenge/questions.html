@@ -1,28 +1,39 @@
 <style>
+    .questions {
+        padding-left:10px;
+        padding-right:10px;
+        margin-top: -20px;
+
+    }
+
+    .questions .alert {
+        padding: 8px;
+    }
+
     .demonstrated ul {
         padding:10px
     }
 </style>
 
 {{ if .Params.questions }}
-    <h5>Scenarios:</h5>
+    <div class="questions">
+        <h5>Scenarios:</h5>
 
-    <p>
-        Pick one of the following scenarios and provide an answer using a GitHub repository.
-    </p>
-    {{ range .Params.questions }}
-        {{ $key   := index (split . ":")  0}}
-        {{ $value := index (split . ":")  1}}
+        <p>
+            Pick one of the following scenarios.
+        </p>
+        {{ range .Params.questions }}
+            {{ $key   := index (split . ":")  0}}
+            {{ $value := index (split . ":")  1}}
 
-        <div class="alert alert-info">
-            <small><i>{{ $key}}</i></small>
-            <br>
-            {{ $value}}
-
-            <!-- <textarea  style="width:100%; height:100px"></textarea>-->
-        </div>
-
-    {{ end}}
+            <div class="alert alert-info">
+                <small><i>{{ $key}}</i></small>
+                <br>
+                {{ $value}}
+                <!-- <textarea  style="width:100%; height:100px"></textarea>-->
+            </div>
+        {{ end}}
+    </div>
 {{ end }}
 
 {{ if eq .Params.demonstrated "aaa" }}

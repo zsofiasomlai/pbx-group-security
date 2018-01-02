@@ -4,6 +4,7 @@ date        : 2018-01-01
 level       : one
 difficulty  : medium
 skills      : Behaviour
+area        : competency
 questions   :
     - "CP-TP-01: Tell me about a time when you challenged a business initiative, based on your knowledge of best practices."
     - "CP-TA-02: Describe a time when you managed a particularly sensitive situation from an employee, client, or vendor perspective."

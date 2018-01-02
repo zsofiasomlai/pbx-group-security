@@ -6,10 +6,22 @@
 
   <style>
       .challenge-card .title {
+          border-top-left-radius: 10px;
+          border-top-right-radius: 10px;
           padding: 10px;
           color:white;
           background-color: #8fc43e;
           font-size:125%;
+      }
+
+      .challenge-card {
+          border-radius: 10px;
+          background: #F2F2F2;
+          border: 1px solid;
+          margin-bottom:20px
+      }
+      .challenge-card .content {
+          padding:10px;
       }
 
   </style>
@@ -27,7 +39,6 @@
 
         <div id="content">
             <div class="container">
-
                 <div class="row">
 
                     <div class="col-md-12" id="blog-post">
@@ -64,12 +75,11 @@
 
                                                 {{ partial "challenge/metadata-table.html" . }}
 
-                                                {{ .Content }}
-
+                                                <div class="content">
+                                                    {{ .Content }}
+                                                </div>
                                                 {{ partial "challenge/questions.html" . }}
 
-                                                <br/>
-                                                <br/>
                                             </div>
                                         {{ end }}
                                     </div>

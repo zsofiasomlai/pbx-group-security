@@ -1,18 +1,36 @@
-<!-- <h5>metadata:</h5> -->
-<div class="alert-warning">
-    <table class="table">
-        <thead>
-        <th>stage</th>
-        <th>difficulty</th>
-        <th>required</th>
-        <!--<th>skills</th>-->
-        </thead>
-        <tr>
-            <td>{{ .Params.level }}</td>
-            <td>{{ .Params.difficulty }}</td>
-            <td>{{ if .Params.required }} yes {{else}} optional {{end}}</td>
-            <!--<td>{{ .Params.skills }}</td>-->
-        </tr>
-    </table>
+<style>
+    .metadata-table .table {
+        padding: 0px;
+        margin-bottom: 0px;
+    }
+    .table-fix {
+        border: 100px;
+    }
+    .table-fix {
+        width:100%;
+        margin-left: 10px;
+        padding-top:20px
+    }
+</style>
 
+<div class="metadata-table">
+    <div class="alert-warning">
+        <table class="table _table-fix">
+            <thead>
+            <th>stage</th>
+            <th>difficulty</th>
+            <th>area</th>
+            <!--<th>skills</th>-->
+            </thead>
+            <tr>
+                <td>{{ .Params.level }}</td>
+                <td>{{ .Params.difficulty }}</td>
+                <!--<td>{{ if .Params.required }} yes {{else}} optional {{end}}</td>-->
+                <td>{{ .Params.area }}</td>
+                <!--<td>{{ .Params.skills }}</td>-->
+                <!-- <td><a href="{{.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}" target="_blank"><i class="fa fa-pencil-square-o"></i></a></td>-->
+            </tr>
+        </table>
+
+    </div>
 </div>
