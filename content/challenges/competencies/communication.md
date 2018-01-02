@@ -1,16 +1,16 @@
 ---
-title: Passionate Communication
-date : 2018-01-01
-level : ungraded
+title       : Passionate Communication
+date        : 2018-01-01
+level       : ungraded
 required    : yes
-skills : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency
 difficulty  : easy
 questions :
     - "CP-CM-01: Tell me about a time when you felt the need to personalise your messaging to connect with an audience with unique needs."
     - "CP-CM-02: Describe a situation when you spoke passionately about a topic that was an area of personal interest."
     - "CP-CM-03: Describe a situation when you improvised effectively during a presentation."
     - "CP-CM-04: Tell me about the most inspiring presentation that you have delivered, that created excitement among audience members."
-    - "CP-CM-05: What have you done to develop a positive reputation for delivering compelling presentations?"            
+    - "CP-CM-05: What have you done to develop a positive reputation for delivering compelling presentations?"
 desirable :
     - Used narratives, case examples, and client stories to support a point-of-view
     - Neutralised a sceptical or disapproving audience

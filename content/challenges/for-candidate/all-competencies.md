@@ -4,7 +4,6 @@ date  : 2018-01-01
 type  : for-candidate
 challenges:
     - challenges/competencies/adaptability.md
-    - challenges/hard/graph-schema.md
     - challenges/competencies/collaboration.md
     - challenges/competencies/customer-focus.md
     - challenges/competencies/drive-for-results.md
