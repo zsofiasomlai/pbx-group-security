@@ -1,13 +1,62 @@
-{{ range .Params.questions }}
-{{ $key   := index (split . ":")  0}}
-{{ $value := index (split . ":")  1}}
+<style>
+    .demonstrated ul {
+        padding:10px
+    }
+</style>
 
-<div class="alert alert-info">
-    {{ $key}}
-    <h5>
-         {{ $value}}
-    </h5>
-</div>
+{{ if .Params.questions }}
+    <h5>Questions:</h5>
 
-<!--<textarea  style="width:100%"></textarea>-->
-{{ end}}
+    {{ range .Params.questions }}
+        {{ $key   := index (split . ":")  0}}
+        {{ $value := index (split . ":")  1}}
+
+        <div class="alert alert-info">
+            {{ $key}}
+            <h5>
+                 {{ $value}}
+            </h5>
+            <textarea  style="width:100%; height:100px"></textarea>
+        </div>
+
+    {{ end}}
+{{ end }}
+
+{{ if .Params.demonstrated }}
+
+    <h5>What we are looking for</h5>
+
+    <table class="table demonstrated">
+        <thead>
+        <th>not clearly demonstrated</th>
+        <th>demonstrated</th>
+        <th>very clearly demonstrated</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>
+                <ul>
+                    {{ range .Params.not_clearly_demonstrated }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    {{ range .Params.demonstrated }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </td>
+            <td>
+                <ul>
+                    {{ range .Params.very_clearly_demonstrated }}
+                    <li>{{ . }}</li>
+                    {{ end }}
+                </ul>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+{{ end }}
+

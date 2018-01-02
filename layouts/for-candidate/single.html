@@ -50,23 +50,13 @@
 
                                             <div class="challenge-card">
                                                 <h4>{{.Title}}</h4>
-                                                {{ partial "challenge/metadata-table.html" . }}
-                                                <!--<table class="table">-->
-                                                    <!--<thead>-->
-                                                        <!--<th>level</th>-->
-                                                        <!--<th>type</th>-->
-                                                        <!--<th>skills</th>-->
-                                                    <!--</thead>-->
-                                                    <!--<tr>-->
-                                                        <!--<td>{{ .Params.level }}</td>-->
-                                                        <!--<td>{{ .Params.type }}</td>-->
-                                                        <!--<td>{{ .Params.skills }}</td>-->
-                                                    <!--</tr>-->
-                                                <!--</table>-->
+
 
                                                 {{ .Content }}
 
                                                 {{ partial "challenge/questions.html" . }}
+
+                                                {{ partial "challenge/metadata-table.html" . }}
                                             </div>
                                         {{ end }}
                                     </div>
