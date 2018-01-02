@@ -4,7 +4,8 @@ level       : one
 required    : yes
 area        : competency
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : medium
+
 questions :
     - "CP-CB-02: Describe a time when you proposed a major change in your work process or job duties. How did others respond to your proposal?"
     - "CP-CB-03: Describe a time when you had to complete a project in which you were provided with very little information or guidance."
