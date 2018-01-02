@@ -2,7 +2,6 @@
 title: Trusted Advisor
 date : 2018-01-01
 level : ungraded
-type   : written
 skills : Behaviour
 ---
 Pick up to three of the following questions and provide an answer using a GitHub repository.
@@ -15,7 +14,7 @@ Pick up to three of the following questions and provide an answer using a GitHub
 - Tell me about your most challenging experience when you had to influence a business leader to endorse a proposed plan of action.
 - Describe the steps you have taken to understand competitor offerings.
 - Tell me about a time when you had to communicate a complex technical issue to someone who was unfamiliar with your area of expertise.
--- How did you determine your message was understood?
+ - How did you determine your message was understood?
 - Tell me about a time when you had to apply your technical knowledge to meet business requirements.
 - Tell me about a time when your technical expertise contributed to product innovation or strategic direction
 - In your previous role, how did you establish credibility as a technical advisor?

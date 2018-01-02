@@ -2,7 +2,6 @@
 title: Planning, Organising and Executing
 date : 2018-01-01
 level : ungraded
-type   : written
 skills : Behaviour
 ---
 Pick up to three of the following questions and provide an answer using a GitHub repository.
