@@ -2,8 +2,11 @@
 title: Technical Strength
 date : 2018-01-01
 level : ungraded
-skills : Behaviour
+required    : yes
+skills : Behaviour, Mindset, Competency
+difficulty  : easy
 ---
+
 Pick up to three of the following questions and provide an answer using a GitHub repository.
 
 - Tell me about a time when you sought out a challenging technical problem.

@@ -1,10 +1,10 @@
 ---
-title       : The challenge of recruiting
+title       : The Challenge of Recruiting
 date        : 2018-01-01
 level       : three
 required    : yes
 difficulty  : hard
-skills      : leadership, team bulding
+skills      : Leadership, Team Bulding
 ---
 How would you build a high performing team?
 

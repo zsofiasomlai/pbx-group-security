@@ -2,7 +2,9 @@
 title: Business Acumen
 date : 2018-01-01
 level : ungraded
-skills : Behaviour
+required    : required
+skills : Behaviour, Mindset, Competency
+difficulty  : easy
 ---
 Pick up to three of the following questions and provide an answer using a GitHub repository.
 

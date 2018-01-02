@@ -1,5 +1,5 @@
 ---
-title       : Image Download
+title       : Log Analysis
 date        : 2018-01-01
 level       : TBC
 required    :
@@ -7,13 +7,13 @@ difficulty  : TBC
 skills      : TBC
 ---
 
-A vulnerability is discovered in an image server that allows the download of users’ images from live servers. This was created by the dev team to help debug problems in production and factories. The key questions are:
+You are given 5 GB, 50 GB or 500 GB of nginx server logs (pick the one you are most comfortable handling). These logs cover a period when we know a high level vulnerability was exposed.
 
-- Who is using this today?
-- Who knows about this?
-- Has this vulnerability been exploited?
+Your job is to:
+a) build an AWS-based infrastructure to consume, query, and visualise the data
+b) find proof if that vulnerability has been exploited (and if so, by whom)
 
-*Bonus points for providing ‘GDPR implications’ mapping of this vulnerability/incident*
+Explain the kind of dashboard that you would create and how you would use it to answer the key question(s).
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

@@ -5,7 +5,7 @@ date        : 2017-12-29
 level       : one
 required    : no
 difficulty  : easy
-skills      : industry knowledge
+skills      : Industry Knowledge
 ---
 
 Describe three inspirational tech leaders who you'd like to work for. They must be alive today.

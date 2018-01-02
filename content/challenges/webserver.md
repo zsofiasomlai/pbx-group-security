@@ -1,5 +1,5 @@
 ---
-title       : Acceptable Use Policy
+title       : Secure Webserver
 date        : 2018-01-01
 level       : TBC
 required    :
@@ -7,4 +7,4 @@ difficulty  : TBC
 skills      : TBC
 ---
 
-Create a paragraph of an acceptable use policy on how to handle business smartphones.
+Describe how you would secure access to a webserver.

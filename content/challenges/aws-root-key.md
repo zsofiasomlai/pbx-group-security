@@ -1,5 +1,5 @@
 ---
-title       : GDPR Gap
+title       : AWS Root Key
 date        : 2018-01-01
 level       : TBC
 required    :
@@ -7,9 +7,10 @@ difficulty  : TBC
 skills      : TBC
 ---
 
-A gap in GDPR compliance is identified. The company has to initiate an Identity and Access Management Project.
+A legacy SVN server is found to be exposed on the internet Review of the source code identifies a number of secrets:
 
-- Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business, and Management.
+- Usernames and passwords of production DBs and Servers
+- AWS key Upon review, the AWS key is active and has root privileges
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

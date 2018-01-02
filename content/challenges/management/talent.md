@@ -2,7 +2,9 @@
 title: Develop and Attract Talent
 date : 2018-01-01
 level : ungraded
-skills : Behaviour
+required : yes
+skills : Leadership, Mentoring, Behaviour, Mindset, Competency
+difficulty : easy
 ---
 Pick up to three of the following questions and provide an answer using a GitHub repository.
 

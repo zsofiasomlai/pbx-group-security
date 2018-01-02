@@ -2,8 +2,11 @@
 title: Value Selling
 date : 2018-01-01
 level : ungraded
-skills : Behaviour
+required    : yes
+skills : Behaviour, Mindset, Competency
+difficulty  : easy
 ---
+
 Pick up to three of the following questions and provide an answer using a GitHub repository.
 
 - Describe a situation when you connected the value of products directly to a customer’s/partner’s business and technology needs.

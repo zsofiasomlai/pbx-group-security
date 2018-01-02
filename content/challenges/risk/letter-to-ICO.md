@@ -1,5 +1,5 @@
 ---
-title     : GDPR breach notification to EU Regulator
+title     : GDPR Breach Notification to EU Regulator
 type      : challenges
 date      : 2017-12-29
 level     : one

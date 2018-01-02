@@ -1,5 +1,5 @@
 ---
-title       : GDPR Gap
+title       : DevOps Need Support
 date        : 2018-01-01
 level       : TBC
 required    :
@@ -7,9 +7,9 @@ difficulty  : TBC
 skills      : TBC
 ---
 
-A gap in GDPR compliance is identified. The company has to initiate an Identity and Access Management Project.
+DevOps needs support to secure the AWS Platform. They want to implement a Jump-Host Architecture between the internal network and AWS Platform.
 
-- Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business, and Management.
+- Draft the Architecture you would recommend to the DevOps Team, including key handling (TLS Keys for the developers to access the platform).
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

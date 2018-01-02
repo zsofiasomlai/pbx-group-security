@@ -1,10 +1,10 @@
 ---
-title       : An interesting example
+title       : An Interesting Example
 date        : 2018-01-01
 level       : two
-required    : yes
+required    : required
 difficulty  : hard
-skills      : research, passion
+skills      : Research, Passion
 ---
 
 Describe something (technology related) cool and intersting that you've done recently 

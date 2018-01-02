@@ -1,5 +1,5 @@
 ---
-title       : Darktrace Alert
+title       : Botnet Attack
 date        : 2018-01-01
 level       : TBC
 required    :
@@ -7,11 +7,11 @@ difficulty  : TBC
 skills      : TBC
 ---
 
-DarkTrace (AI-based network IDS) raises an alert caused by the download of an unknown executable by a user with administrator privileges. Further analysis of DarkTrace logs for the affected device shows unusual network activity.
+A distributed botnet (from multiple IPs) is hitting one of our websites and is creating new accounts at a rate of 4 per second.
 
-Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business, and Management.
-
-*Bonus points for mapping what could be the possible malicious and non-malicious (benign) root cause of this incident*
+- Each hour 15k new accounts are created
+- Usernames contain an unusual ‘fiction-based’ text (i.e. from books)
+- Each new account has some impact on the back-end due to automated actions and workflows (i.e. auto-creation of albums and insertion into CRM tools)
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

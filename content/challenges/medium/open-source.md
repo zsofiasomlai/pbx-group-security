@@ -4,7 +4,7 @@ date        : 2018-01-01
 level       : one
 required    : yes
 difficulty  : medium
-skills      : write argument
+skills      : Debate, Logical Thinking, Influencing
 ---
 
 Write a business, technical and moral case:

@@ -1,5 +1,5 @@
 ---
-title       : Botnet Attack
+title       : Image Download
 date        : 2018-01-01
 level       : TBC
 required    :
@@ -7,11 +7,13 @@ difficulty  : TBC
 skills      : TBC
 ---
 
-A distributed botnet (from multiple IPs) is hitting one of our websites and is creating new accounts at a rate of 4 per second.
+A vulnerability is discovered in an image server that allows the download of users’ images from live servers. This was created by the dev team to help debug problems in production and factories. The key questions are:
 
-- Each hour 15k new accounts are created
-- Usernames contain an unusual ‘fiction-based’ text (i.e. from books)
-- Each new account has some impact on the back-end due to automated actions and workflows (i.e. auto-creation of albums and insertion into CRM tools)
+- Who is using this today?
+- Who knows about this?
+- Has this vulnerability been exploited?
+
+*Bonus points for providing ‘GDPR implications’ mapping of this vulnerability/incident*
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

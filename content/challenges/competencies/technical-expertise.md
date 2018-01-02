@@ -2,8 +2,11 @@
 title: Product and Technology Expertise
 date : 2018-01-01
 level : ungraded
-skills : Behaviour
+required    : yes
+skills : Behaviour, Mindset, Competency
+difficulty  : easy
 ---
+
 Pick up to three of the following questions and provide an answer using a GitHub repository.
 
 - Describe a situation when you gave advice on a transition to a new platform or technology.

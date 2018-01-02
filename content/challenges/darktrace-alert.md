@@ -1,5 +1,5 @@
 ---
-title       : AWS Root Key
+title       : Darktrace Alert
 date        : 2018-01-01
 level       : TBC
 required    :
@@ -7,10 +7,11 @@ difficulty  : TBC
 skills      : TBC
 ---
 
-A legacy SVN server is found to be exposed on the internet Review of the source code identifies a number of secrets:
+DarkTrace (AI-based network IDS) raises an alert caused by the download of an unknown executable by a user with administrator privileges. Further analysis of DarkTrace logs for the affected device shows unusual network activity.
 
-- Usernames and passwords of production DBs and Servers
-- AWS key Upon review, the AWS key is active and has root privileges
+Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business, and Management.
+
+*Bonus points for mapping what could be the possible malicious and non-malicious (benign) root cause of this incident*
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 
