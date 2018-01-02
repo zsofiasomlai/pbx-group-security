@@ -1,9 +1,10 @@
 ---
-title: Trusted Advisor
-date : 2018-01-01
-level : ungraded
-skills : Behaviour
-questions:
+title       : Trusted Advisor
+date        : 2018-01-01
+level       : one
+difficulty  : medium
+skills      : Behaviour
+questions   :
     - "CP-TP-01: Tell me about a time when you challenged a business initiative, based on your knowledge of best practices."
     - "CP-TA-02: Describe a time when you managed a particularly sensitive situation from an employee, client, or vendor perspective."
     - "CP-TA-03: Describe a situation when you applied your expertise to address or resolve a challenging problem."
@@ -18,7 +19,6 @@ other_questions:
     - In your previous role, how did you establish credibility as a technical advisor?
 
 ---
-Pick up to three of the following questions and provide an answer using a GitHub repository.
 
 
 

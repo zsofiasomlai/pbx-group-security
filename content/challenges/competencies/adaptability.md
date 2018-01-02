@@ -1,7 +1,8 @@
 ---
 title     : Adaptability
 date      : 2018-01-01
-level     : ungraded
+level     : one
+difficulty: medium
 skills    : Behaviour
 questions :
     - "CP-AD-01: Describe a time when you worked on a challenging cross-functional team that produced an exceptional deliverable."
@@ -31,4 +32,3 @@ very_clearly_demonstrated:
     - Skilfully timed change actions based on an understanding of both organisational and environmental conditions
 ---
 
-Pick up to three of the following questions and provide an answer using a GitHub repository.

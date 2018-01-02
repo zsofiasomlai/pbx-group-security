@@ -5,42 +5,37 @@
 </style>
 
 {{ if .Params.questions }}
-    <h5>Questions:</h5>
+    <h5>Scenarios:</h5>
 
+    <p>
+        Pick up to three of the following scenarios and provide an answer using a GitHub repository.
+    </p>
     {{ range .Params.questions }}
         {{ $key   := index (split . ":")  0}}
         {{ $value := index (split . ":")  1}}
 
         <div class="alert alert-info">
-            {{ $key}}
-            <h5>
-                 {{ $value}}
-            </h5>
-            <textarea  style="width:100%; height:100px"></textarea>
+            <small><i>{{ $key}}</i></small>
+            <br>
+            {{ $value}}
+
+            <!-- <textarea  style="width:100%; height:100px"></textarea>-->
         </div>
 
     {{ end}}
 {{ end }}
 
-{{ if .Params.demonstrated }}
+{{ if eq .Params.demonstrated "aaa" }}
 
     <h5>What we are looking for</h5>
 
     <table class="table demonstrated">
         <thead>
-        <th>not clearly demonstrated</th>
-        <th>demonstrated</th>
-        <th>very clearly demonstrated</th>
+        <th>ideal</th>
+        <th>bonus points</th>
         </thead>
         <tbody>
         <tr>
-            <td>
-                <ul>
-                    {{ range .Params.not_clearly_demonstrated }}
-                    <li>{{ . }}</li>
-                    {{ end }}
-                </ul>
-            </td>
             <td>
                 <ul>
                     {{ range .Params.demonstrated }}

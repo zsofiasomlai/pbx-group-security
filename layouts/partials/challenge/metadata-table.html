@@ -1,20 +1,18 @@
 <!-- <h5>metadata:</h5> -->
-<div class="alert alert-warning">
+<div class="alert-warning">
+    <table class="table">
+        <thead>
+        <th>stage</th>
+        <th>difficulty</th>
+        <th>required</th>
+        <!--<th>skills</th>-->
+        </thead>
+        <tr>
+            <td>{{ .Params.level }}</td>
+            <td>{{ .Params.difficulty }}</td>
+            <td>{{ if .Params.required }} yes {{else}} optional {{end}}</td>
+            <!--<td>{{ .Params.skills }}</td>-->
+        </tr>
+    </table>
 
-    <div class="challenge-card">
-        <table class="table">
-            <thead>
-            <th>level</th>
-            <th>required</th>
-            <th>difficulty</th>
-            <th>skills</th>
-            </thead>
-            <tr>
-                <td>{{ .Params.level }}</td>
-                <td>{{ if .Params.required }} yes {{else}} no {{end}}</td>
-                <td>{{ .Params.difficulty }}</td>
-                <td>{{ .Params.skills }}</td>
-            </tr>
-        </table>
-    </div>
 </div>

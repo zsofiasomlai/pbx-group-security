@@ -5,9 +5,11 @@
 
 
   <style>
-      .challenge-card h4 {
+      .challenge-card .title {
           padding: 10px;
-          background-color: #c2ddcc;
+          color:white;
+          background-color: #8fc43e;
+          font-size:125%;
       }
 
   </style>
@@ -27,15 +29,24 @@
             <div class="container">
 
                 <div class="row">
-
+ 
                     <div class="col-md-12" id="blog-post">
 
-                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
-
+                        <h3>Hi candidate '{{ .Title }}' </h3>
                         <div id="post-content">
+
                             {{ with .Site.GetPage "page" "challenges/_text/_intro.md" }}{{ .Content }}{{ end }}
 
                             {{ .Content }}
+                            <ul>
+                                {{ range .Params.challenges }}
+                                    {{ with $.Site.GetPage "page" . }}
+                                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                    {{ end }}
+                                {{ end }}
+                            </ul>
+                            {{ with .Site.GetPage "page" "challenges/_text/_how_to_submit.md" }}{{ .Content }}{{ end }}
+
                         </div>
                         <h3>Challenges</h3>
                             <div>
@@ -49,14 +60,16 @@
                                         {{ with $.Site.GetPage "page" . }}
 
                                             <div class="challenge-card">
-                                                <h4>{{.Title}}</h4>
+                                                <div class="title">#{{ add $index 1 }}: {{.Title}}</div>
 
+                                                {{ partial "challenge/metadata-table.html" . }}
 
                                                 {{ .Content }}
 
                                                 {{ partial "challenge/questions.html" . }}
 
-                                                {{ partial "challenge/metadata-table.html" . }}
+                                                <br/>
+                                                <br/>
                                             </div>
                                         {{ end }}
                                     </div>

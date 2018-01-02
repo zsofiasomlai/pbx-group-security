@@ -4,13 +4,11 @@ date  : 2018-01-01
 type  : for-candidate
 challenges:
     - challenges/competencies/adaptability.md
-    - challenges/medium/open-source.md
     - challenges/competencies/trusted-advisor.md
-    - challenges/hard/graph-schema.md
+    - challenges/competencies/adaptability.md
     - inspirational-security.md
     - interesting-example.md
-    - tech-leader.md
-    - recruiting.md
+    - challenges/hard/graph-schema.md
 
 ---
 

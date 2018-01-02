@@ -7,7 +7,7 @@ difficulty  : hard
 skills      : Research, Passion
 ---
 
-Describe something (technology related) cool and intersting that you've done recently 
+Describe something technology related that you've done recently that is cool and interesting:
 
 - Why did you do it?
 - What did you learn?
