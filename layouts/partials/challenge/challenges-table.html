@@ -8,7 +8,7 @@
         <th>skills</th>
         <th></th>
     </thead>
-    {{ range .Data.Pages }}
+    {{ range sort .Data.Pages ".Params.title" }}
         {{ if ne .Params.hide true }}
 
             <tr>
