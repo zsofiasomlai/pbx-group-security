@@ -5,10 +5,19 @@ level : ungraded
 required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+questions :
+    - "CP-CF-01: Describe a time when you had difficulty determining the needs of a customer to provide them with a product or service that met their expectations."
+    - "CP-CF-02: Tell me about a time when you fell short of meeting a customer's needs."
+    - "CP-CF-03: Describe the strategies you have used to gather information that increased your understanding of current and future customer needs."
+    - "CP-CF-04: Provide an example of a time when you initiated a change in a process or policy to improve the quality of customer service."
+desirable :
+    - Took responsibility for solving customer concerns in a timely manner
+    - Used strategic approaches to determine customer needs and meet their expectations
+    - Sought to improve the quality of services, products, and processes
+    - Used feedback systems to meet customer requirements and expectations
+bonus points :
+    - Acted as an advocate to resolve customer concerns
+    - Integrated customer needs and expectations into the development and delivery of services or products
+    - Improved the quality of services, products, and processes
+    - Established and used feedback systems to meet customer requirements and expectations
 ---
-Pick up to three of the following questions and provide an answer using a GitHub repository.
-
-- Describe a time when you had difficulty determining the needs of a customer to provide them with a product or service that met their expectations.
-- Tell me about a time when you fell short of meeting a customer's needs.
-- Describe the strategies you have used to gather information that increased your understanding of current and future customer needs.
-- Provide an example of a time when you initiated a change in a process or policy to improve the quality of customer service.
