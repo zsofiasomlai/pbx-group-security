@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+
+  <style>
+      .challenge-card h4 {
+          padding: 10px;
+          background-color: #c2ddcc;
+      }
+
+  </style>
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    <div class="col-md-12" id="blog-post">
+
+                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
+
+                        <div id="post-content">
+                            {{ with .Site.GetPage "page" "challenges/_text/_intro.md" }}{{ .Content }}{{ end }}
+
+                            {{ .Content }}
+                        </div>
+                        <h3>Challenges</h3>
+                            <div>
+                            {{ range $index, $element :=.Params.challenges}}
+
+                                {{ if modBool $index 3 }}
+                                    </div>
+                                    <div  class="row">
+                                {{ end }}
+                                    <div class="col-md-4">
+                                        {{ with $.Site.GetPage "page" . }}
+                                            <div class="challenge-card">
+                                                <h4>{{.Title}}</h4>
+                                                <table class="table">
+                                                    <thead>
+                                                        <th>level</th>
+                                                        <th>type</th>
+                                                        <th>skills</th>
+                                                    </thead>
+                                                    <tr>
+                                                        <td>{{ .Params.level }}</td>
+                                                        <td>{{ .Params.type }}</td>
+                                                        <td>{{ .Params.skills }}</td>
+                                                    </tr>
+                                                </table>
+                                                {{ .Content }}
+                                            </div>
+                                        {{ end }}
+                                    </div>
+                            {{ end }}
+                        </div>
+
+                        {{ with .Site.GetPage "page" "challenges/_text/_end.md" }}{{ .Content }}{{ end }}
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

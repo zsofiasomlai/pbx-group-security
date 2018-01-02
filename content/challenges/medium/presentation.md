@@ -1,6 +1,9 @@
 ---
-Title: All roles - Presentation or Blog
-Date : 2017-12-29
+title: Presentation or Blog
+date : 2017-12-29
+level  : medium
+type   : written
+skills : research
 ---
 Create a blog post or presentation about a technical or business-related book you have read recently which inspired you.
 
@@ -13,5 +16,3 @@ Create a blog post or presentation about a technical or business-related book yo
 - **The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future** by Dr Kevin Kelly
 - **Future Crimes: Inside the Digital Underground and the Battle For Our Connected World** by Marc Goodman
 - **EU General Data Protection Regulation (GDPR): An Implementation and Compliance Guide** by IT Governance Privacy Team (Author)
-
-Submit your files using a GitHub repository or [email us](mailto:project-cx@photobox.com)

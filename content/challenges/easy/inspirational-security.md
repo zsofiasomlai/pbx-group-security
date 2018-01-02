@@ -1,6 +1,9 @@
 ---
-Title: All roles - Inspirational security
-Date : 2018-01-01
+title: Inspirational security
+tate : 2018-01-01
+level  : easy
+type   : written
+skills : industry knowledge
 ---
 Describe three companies who understand security and inspire you
 
