@@ -1,0 +1,13 @@
+{{ range .Params.questions }}
+{{ $key   := index (split . ":")  0}}
+{{ $value := index (split . ":")  1}}
+
+<div class="alert alert-info">
+    {{ $key}}
+    <h5>
+         {{ $value}}
+    </h5>
+</div>
+
+<!--<textarea  style="width:100%"></textarea>-->
+{{ end}}

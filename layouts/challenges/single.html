@@ -15,6 +15,7 @@
 
         {{ partial "breadcrumbs.html" . }}
 
+
         <div id="content">
             <div class="container">
 
@@ -32,9 +33,14 @@
 
                         <div id="post-content">
 
+                            {{ .Content }}
                             {{ partial "challenge/metadata-table.html" . }}
 
-                            {{ .Content }}
+
+
+                            {{ partial "challenge/questions.html" . }}
+
+
                         </div>
                         <hr>
                         <a href="/challenges">Back to all challenges</a>
