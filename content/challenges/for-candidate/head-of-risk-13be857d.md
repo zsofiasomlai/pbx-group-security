@@ -1,5 +1,5 @@
 ---
-title : Head of risk (13be857d)
+title : Head of Risk (13be857d)
 date  : 2018-01-01
 type  : for-candidate
 challenges:
@@ -10,5 +10,4 @@ challenges:
     - challenges/hard/interesting-example.md
     - challenges/standards/CBEST_CREST.md
 
----
 
