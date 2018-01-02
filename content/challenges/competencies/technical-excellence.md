@@ -2,7 +2,6 @@
 title: Technical Excellence
 date : 2018-01-01
 level : ungraded
-type   : written
 skills : Behaviour
 ---
 Pick up to three of the following questions and provide an answer using a GitHub repository.
@@ -13,5 +12,5 @@ Pick up to three of the following questions and provide an answer using a GitHub
 - Tell me about a time when you sought out a challenging technical problem.
 - Tell me about a time when you mentored others in your area of technical expertise.
 - Tell me about a time when you had to learn a new technology.
--- What did you do to gain expertise?
+ - What did you do to gain expertise?
 

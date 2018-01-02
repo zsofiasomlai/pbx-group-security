@@ -2,7 +2,7 @@
 title       : Business Acumen
 date        : 2018-01-01
 required    : no
-level       : tbd
+level       : ungraded
 difficulty  : tbd
 skills      : Behaviour
 ---
