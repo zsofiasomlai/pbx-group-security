@@ -7,7 +7,7 @@ required    : no
 difficulty  : easy
 skills      : Industry Knowledge
 ---
-Describe three companies who understand security and inspire you
+Describe three companies who understand security and inspire you:
 
 - what do they do that's great?
 - how can it be replicated?
