@@ -13,12 +13,12 @@ other_questions:
     - "CP-AD-02: Describe how you have collaborated with others outside of your immediate team to resolve a critical issue."
     - "CP-AD-03: Tell me about a time when you experienced conflict with a team member."
 
-desirable :
+desirable:
     - Responded efficiently to changing demands and circumstances
     - Functioned effectively in ambiguous situations
     - Maintained a constructive attitude in times of stress
     - Skilfully timed change actions based on an understanding of organisational conditions
-bonus points:
+bonus_points:
     - Took immediate steps to incorporate the change into their work stream
     - Viewed change and ambiguity as opportunities for organisational improvement
     - Maintained a constructive attitude in times of stress and encouraged others to do so

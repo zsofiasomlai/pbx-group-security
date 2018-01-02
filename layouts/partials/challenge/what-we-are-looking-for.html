@@ -1,0 +1,39 @@
+<style>
+    .desirable {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+</style>
+
+{{ if .Params.desirable }}
+
+    <div class="desirable">
+        <hr>
+        <h5>What we are looking for</h5>
+
+        <table class="table demonstrated">
+            <thead>
+            <th>desirable</th>
+            <th>bonus points</th>
+            </thead>
+            <tbody>
+            <tr>
+                <td>
+                    <ul>
+                        {{ range .Params.desirable }}
+                        <li>{{ . }}</li>
+                        {{ end }}
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        {{ range .Params.bonus_points }}
+                        <li>{{ . }}</li>
+                        {{ end }}
+                    </ul>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+{{ end }}
