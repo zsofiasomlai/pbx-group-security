@@ -47,21 +47,26 @@
                                 {{ end }}
                                     <div class="col-md-4">
                                         {{ with $.Site.GetPage "page" . }}
+
                                             <div class="challenge-card">
                                                 <h4>{{.Title}}</h4>
-                                                <table class="table">
-                                                    <thead>
-                                                        <th>level</th>
-                                                        <th>type</th>
-                                                        <th>skills</th>
-                                                    </thead>
-                                                    <tr>
-                                                        <td>{{ .Params.level }}</td>
-                                                        <td>{{ .Params.type }}</td>
-                                                        <td>{{ .Params.skills }}</td>
-                                                    </tr>
-                                                </table>
+                                                {{ partial "challenge/metadata-table.html" . }}
+                                                <!--<table class="table">-->
+                                                    <!--<thead>-->
+                                                        <!--<th>level</th>-->
+                                                        <!--<th>type</th>-->
+                                                        <!--<th>skills</th>-->
+                                                    <!--</thead>-->
+                                                    <!--<tr>-->
+                                                        <!--<td>{{ .Params.level }}</td>-->
+                                                        <!--<td>{{ .Params.type }}</td>-->
+                                                        <!--<td>{{ .Params.skills }}</td>-->
+                                                    <!--</tr>-->
+                                                <!--</table>-->
+
                                                 {{ .Content }}
+
+                                                {{ partial "challenge/questions.html" . }}
                                             </div>
                                         {{ end }}
                                     </div>
