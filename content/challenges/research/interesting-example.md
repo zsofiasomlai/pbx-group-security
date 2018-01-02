@@ -3,7 +3,7 @@ title       : An Interesting Example
 date        : 2018-01-01
 level       : two
 required    : required
-difficulty  : hard
+difficulty  : medium
 area        : research
 skills      : Research, Passion
 ---
