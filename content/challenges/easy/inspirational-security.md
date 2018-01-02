@@ -1,9 +1,12 @@
 ---
-title: Inspirational security
-tate : 2018-01-01
-level  : easy
-type   : written
-skills : industry knowledge
+title       : Inspirational security
+type        : challenges
+date        : 2018-01-01
+level       : one
+required    : no
+difficulty  : easy
+
+skills      : industry knowledge
 ---
 Describe three companies who understand security and inspire you
 

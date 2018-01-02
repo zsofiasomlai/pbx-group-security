@@ -1,9 +1,11 @@
 ---
-Title   : Inspirational Tech Leader
-Date    : 2017-12-29
-level   : easy
-type    : written
-skills  : industry knowledge
+title       : Inspirational Tech Leader
+type        : challenges
+date        : 2017-12-29
+level       : one
+required    : no
+difficulty  : easy
+skills      : industry knowledge
 ---
 
 Describe three inspirational tech leaders who you'd like to work for. They must be alive today.

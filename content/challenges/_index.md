@@ -1,5 +1,5 @@
 ---
-title: "Recruitment Challenges"
+title  : "Recruitment Challenges"
 ---
 
 Please see below the links to the challenges that we have created for the different roles (we are adding more every day, so if the role you want to apply for is not there, keep an eye on this

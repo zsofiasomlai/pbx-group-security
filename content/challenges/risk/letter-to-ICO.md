@@ -1,0 +1,26 @@
+---
+title     : GDPR breach notification to EU Regulator
+type      : challenges
+date      : 2017-12-29
+level     : one
+required  : yes
+difficulty: medium
+skills    : GDPR knowledge
+tags      : GDPR
+---
+
+Write an GDPR breach notification letter to one of the EU Regulator (for example ICO in the UK) with a breach notification for (at least) one of the following scenarios:
+
+ - 1024 PhotoBooks and cards sent to the wrong recipient
+ - Customer's Usernames and Passwords available to download in S3 bucket (via exposed API key and Secret)
+ - HR system exposed sensitive employee data to internal employees
+ - Non-opted in customers received marketing communications
+ - ... Another scenario that you have personal/professional experience in....
+
+### Notes
+
+ - You have creative license to expand the chosen scenarios
+ - You can chose an EU Regulator from one of the four companies the Photobox Group operates
+   (UK, France, Spain and Germany)
+ - It would be very interesting to see the same scenario sent to multiple regulators, where the
+   differences between then would be highlighted
