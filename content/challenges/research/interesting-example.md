@@ -1,7 +1,7 @@
 ---
 title       : An Interesting Example
 date        : 2018-01-01
-level       : two
+level       : one
 required    : required
 difficulty  : medium
 area        : research
