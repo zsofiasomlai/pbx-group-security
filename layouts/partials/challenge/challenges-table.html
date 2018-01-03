@@ -1,4 +1,9 @@
-<table class="table">
+{{ $filter_by := $.Scratch.Get "level" }}
+
+<div class="alert alert-warning">
+    Level: {{ $filter_by }}
+</div>
+<table class="table table-condensed table-">
     <thead>
         <th>title</th>
         <th>level</th>
@@ -10,16 +15,17 @@
     </thead>
     {{ range sort .Data.Pages ".Params.title" }}
         {{ if ne .Params.hide true }}
-
-            <tr>
-                <td><a href="{{ .Permalink }}">{{ .Title }}</a> </td>
-                <td>{{ .Params.level }}</td>
-                <td>{{ .Params.area }}</td>
-                <td>{{ if .Params.required }} yes {{else}} no {{end}}</td>
-                <td>{{ .Params.difficulty }}</td>
-                <td>{{ .Params.skills }}</td>
-                <td><a href="{{.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}" target="_blank"><i class="fa fa-pencil-square-o"></i></a></td>
-            </tr>
+            {{ if eq .Params.level $filter_by }}
+                <tr>
+                    <td><a href="{{ .Permalink }}">{{ .Title }}</a> </td>
+                    <td>{{ .Params.level }}</td>
+                    <td>{{ .Params.area }}</td>
+                    <td>{{ if .Params.required }} yes {{else}} no {{end}}</td>
+                    <td>{{ .Params.difficulty }}</td>
+                    <td>{{ .Params.skills }}</td>
+                    <td><a href="{{.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}" target="_blank"><i class="fa fa-pencil-square-o"></i></a></td>
+                </tr>
+            {{ end }}
         {{ end }}
     {{ end }}
 </table>

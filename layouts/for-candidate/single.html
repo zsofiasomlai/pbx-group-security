@@ -3,15 +3,17 @@
 
   {{ partial "head.html" . }}
 
+  {{ partial "css/print-fixes.html" }}
 
   <style>
+
       .challenge-card .title {
-          border-top-left-radius: 10px;
+          border-top-left-radius : 10px;
           border-top-right-radius: 10px;
-          padding: 10px;
-          color:white;
-          background-color: #8fc43e;
-          font-size:125%;
+          padding                : 10px;
+          color                  : white;
+          background-color       : #8fc43e;
+          font-size              : 125%;
       }
 
       .challenge-card {
@@ -50,17 +52,27 @@
 
                             {{ .Content }}
                             <ul>
+
                                 {{ range .Params.challenges }}
                                     {{ with $.Site.GetPage "page" . }}
-                                    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                                    <li>
+                                        <span class="hidden-print">
+                                            <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                        </span>
+                                        <span class="visible-print">
+                                            {{ .Title }}
+                                        </span>
+
+                                    </li>
                                     {{ end }}
                                 {{ end }}
+
                             </ul>
                             {{ with .Site.GetPage "page" "challenges/_text/_how_to_submit.md" }}{{ .Content }}{{ end }}
 
                         </div>
                         <h3>Challenges</h3>
-                            <div>
+                        <div>
                             {{ range $index, $element :=.Params.challenges}}
 
                                 {{ if modBool $index 3 }}
@@ -73,7 +85,9 @@
 
                                             <div class="challenge-card">
                                                 <div class="title">#{{ add $index 1 }}: {{.Title}}
-                                                    <a href="{{$.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}" target="_blank"><i class="fa fa-pencil-square-o"></i></a>
+                                                    <span class="hidden-print">
+                                                        <a href="{{$.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}" target="_blank"><i class="fa fa-pencil-square-o"></i></a>
+                                                    </span>
                                                 </div>
 
                                                 {{ partial "challenge/metadata-table.html" . }}
@@ -88,17 +102,17 @@
                                     </div>
                             {{ end }}
                         </div>
-
-                        {{ with .Site.GetPage "page" "challenges/_text/_end.md" }}{{ .Content }}{{ end }}
-
+                        <span class="hidden-print">
+                            {{ with .Site.GetPage "page" "challenges/_text/_end.md" }}{{ .Content }}{{ end }}
+                        </span>
 
                     </div>
                 </div>
                 {{ partial "edit-link.html" . }}
             </div>
         </div>
-
         {{ partial "footer.html" . }}
+
 
     </div>
     <!-- /#all -->

@@ -21,20 +21,11 @@
 
                 <div class="row">
 
-                    {{ if .Params.banner }}
-                    <img src="{{ .Params.banner }}" class="img-responsive" alt="">
-                    {{ end }}
-
-                    <!-- *** LEFT COLUMN *** -->
-
-                    <div class="col-md-9" id="blog-post">
-
-                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}{{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
+                    <div class="col-md-8" id="blog-post">
 
                         <div id="post-content">
 
                             {{ .Content }}
-
 
                             {{ partial "challenge/questions.html"               . }}
                             {{ partial "challenge/metadata-table.html"          . }}
@@ -58,7 +49,7 @@
 
                     <!-- *** RIGHT COLUMN *** -->
 
-                    <div class="col-md-3">
+                    <div class="col-md-4">
 
                         <!-- *** MENUS AND WIDGETS *** -->
 
