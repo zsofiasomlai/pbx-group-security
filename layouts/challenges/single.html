@@ -25,10 +25,11 @@
 
                         <div id="post-content">
 
+                            {{ partial "challenge/metadata-table.html"          . }}
+                            <br>
                             {{ .Content }}
 
                             {{ partial "challenge/questions.html"               . }}
-                            {{ partial "challenge/metadata-table.html"          . }}
                             {{ partial "challenge/what-we-are-looking-for.html" . }}
 
 

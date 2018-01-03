@@ -25,6 +25,7 @@
                     <main>
                         <div>
                             <p>{{ .Content }}</p>
+
                             {{ if eq .Params.Title "Pages for candidates" }}
                                 <ul>
                                     {{ range sort .Data.Pages ".Params.title" }}
@@ -34,6 +35,7 @@
                                     {{ end }}
                                 </ul>
                             {{ else }}
+                                <h3>All challenges (by stage)</h3>
                                 {{ $.Scratch.Set "level" "one" }}
                                 {{ partial "challenge/challenges-table.html" . }}
                                 {{ $.Scratch.Set "level" "two" }}
