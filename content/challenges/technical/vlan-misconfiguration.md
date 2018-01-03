@@ -1,19 +1,20 @@
 ---
-title       : Image Download
-date        : 2018-01-01
+title       : VLAN Misconfiguration Identified
 level       : TBC
-required    :
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
 
-A vulnerability is discovered in an image server that allows the download of users’ images from live servers. This was created by the dev team to help debug problems in production and factories. The key questions are:
+A misconfiguration is identified in the VLAN configuration. Users in the guest wifi can access internal systems.
 
-- Who is using this today?
-- Who knows about this?
-- Has this vulnerability been exploited?
+- Handle the vulnerability by answering the key questions:
 
-*Bonus points for providing ‘GDPR implications’ mapping of this vulnerability/incident*
+  - What happened?
+  - What is the cause?
+  - What has been affected?
+  - What is the (possible) damage?
+  - Which short term and long term measures should be implemented?
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

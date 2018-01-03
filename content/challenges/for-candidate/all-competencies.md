@@ -29,7 +29,7 @@ challenges:
 ---
 
 
-### Personal message
+## All competencies
 
-.....
+(to help debug questions)
 

@@ -1,6 +1,5 @@
 ---
 title       : Botnet Attack
-date        : 2018-01-01
 level       : TBC
 area        : technical
 difficulty  : TBC

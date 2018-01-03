@@ -1,6 +1,5 @@
 ---
 title       : AWS Root Key
-date        : 2018-01-01
 level       : one
 area        : technical
 difficulty  : TBC

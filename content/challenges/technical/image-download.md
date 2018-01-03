@@ -1,15 +1,18 @@
 ---
-title       : Malicious Communication
-date        : 2018-01-01
+title       : Image Download
 level       : TBC
-required    :
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
 
-The firewall has detected a communication from a client to a malicious website. The site is listed as a malicious site. Only one client is affected.
+A vulnerability is discovered in an image server that allows the download of users’ images from live servers. This was created by the dev team to help debug problems in production and factories. The key questions are:
 
-- What has happened and what should be done to handle the issue?
+- Who is using this today?
+- Who knows about this?
+- Has this vulnerability been exploited?
+
+*Bonus points for providing ‘GDPR implications’ mapping of this vulnerability/incident*
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 
@@ -24,3 +27,4 @@ The firewall has detected a communication from a client to a malicious website. 
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks, and DarkTrace
 
 #### NOTE: Issues can NOT be remediated in hours
+

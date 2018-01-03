@@ -1,19 +1,14 @@
 ---
-title       : Log Analysis
-date        : 2018-01-01
+title       : Malicious Communication
 level       : TBC
-required    :
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
 
-You are given 5 GB, 50 GB or 500 GB of nginx server logs (pick the one you are most comfortable handling). These logs cover a period when we know a high level vulnerability was exposed.
+The firewall has detected a communication from a client to a malicious website. The site is listed as a malicious site. Only one client is affected.
 
-Your job is to:
-a) build an AWS-based infrastructure to consume, query, and visualise the data
-b) find proof if that vulnerability has been exploited (and if so, by whom)
-
-Explain the kind of dashboard that you would create and how you would use it to answer the key question(s).
+- What has happened and what should be done to handle the issue?
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 
@@ -28,4 +23,3 @@ Explain the kind of dashboard that you would create and how you would use it to 
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks, and DarkTrace
 
 #### NOTE: Issues can NOT be remediated in hours
-

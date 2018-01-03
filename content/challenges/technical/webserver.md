@@ -1,8 +1,7 @@
 ---
 title       : Secure Webserver
-date        : 2018-01-01
 level       : TBC
-required    :
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---

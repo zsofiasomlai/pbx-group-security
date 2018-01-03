@@ -1,21 +1,16 @@
 ---
-title       : VLAN Misconfiguration Identified
-date        : 2018-01-01
+title       : Darktrace Alert
 level       : TBC
-required    :
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
 
-A misconfiguration is identified in the VLAN configuration. Users in the guest wifi can access internal systems.
+DarkTrace (AI-based network IDS) raises an alert caused by the download of an unknown executable by a user with administrator privileges. Further analysis of DarkTrace logs for the affected device shows unusual network activity.
 
-- Handle the vulnerability by answering the key questions:
+Describe how you would proceed to achieve the same understanding in TechOps, DevOps, Business, and Management.
 
-  - What happened?
-  - What is the cause?
-  - What has been affected?
-  - What is the (possible) damage?
-  - Which short term and long term measures should be implemented?
+*Bonus points for mapping what could be the possible malicious and non-malicious (benign) root cause of this incident*
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

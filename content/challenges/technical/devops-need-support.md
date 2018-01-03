@@ -1,18 +1,14 @@
 ---
-title       : Vulnerability in MacOS Detected
-date        : 2018-01-01
+title       : DevOps Need Support
 level       : TBC
-required    :
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
 
-A critical Vulnerability in Java was detected and needs to be measured. The vulnerability allows attackers to execute malicious code which encrypt the local hard disk and network drives.
-Key questions are:
+DevOps needs support to secure the AWS Platform. They want to implement a Jump-Host Architecture between the internal network and AWS Platform.
 
-- Who is affected?
-- Has this vulnerability been exploited?
-- Which measures for risk mitigation are possible?
+- Draft the Architecture you would recommend to the DevOps Team, including key handling (TLS Keys for the developers to access the platform).
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 

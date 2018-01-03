@@ -1,15 +1,18 @@
 ---
-title       : DevOps Need Support
-date        : 2018-01-01
+title       : Log Analysis
 level       : TBC
-required    :
+area        : technical
 difficulty  : TBC
 skills      : TBC
 ---
 
-DevOps needs support to secure the AWS Platform. They want to implement a Jump-Host Architecture between the internal network and AWS Platform.
+You are given 5 GB, 50 GB or 500 GB of nginx server logs (pick the one you are most comfortable handling). These logs cover a period when we know a high level vulnerability was exposed.
 
-- Draft the Architecture you would recommend to the DevOps Team, including key handling (TLS Keys for the developers to access the platform).
+Your job is to:
+a) build an AWS-based infrastructure to consume, query, and visualise the data
+b) find proof if that vulnerability has been exploited (and if so, by whom)
+
+Explain the kind of dashboard that you would create and how you would use it to answer the key question(s).
 
 **Objective: Understand and contain issue(s) without any pushes to production**
 
