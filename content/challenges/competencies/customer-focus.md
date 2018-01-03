@@ -1,10 +1,10 @@
 ---
 title: Customer Focus
-date : 2018-01-01
+key         : CP-CF
 level : ungraded
-required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+area : Competency
 questions :
     - "CP-CF-01: Describe a time when you had difficulty determining the needs of a customer to provide them with a product or service that met their expectations."
     - "CP-CF-02: Describe the strategies you have used to gather information that increased your understanding of current and future customer needs."

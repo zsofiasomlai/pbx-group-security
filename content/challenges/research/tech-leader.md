@@ -1,11 +1,11 @@
 ---
 title       : Inspirational Tech Leader
+key         : RE-TK
 type        : challenges
-date        : 2017-12-29
 level       : one
-required    : no
 difficulty  : easy
 skills      : Industry Knowledge
+area:       : Research
 ---
 
 Describe three inspirational tech leaders who you'd like to work for. They must be alive today.

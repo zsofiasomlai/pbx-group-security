@@ -1,10 +1,10 @@
 ---
 title: Planning, Organising and Executing
-date : 2018-01-01
+key         : CP-PL
 level : ungraded
-required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+area : Competency
 questions :
     - "CP-PL-01: Describe a situation when you led a project with a geographically or functionally diverse team."
     - "CP-PL-02: Tell me about a time when you designed a process or tool to track and measure the success of a project."

@@ -1,10 +1,10 @@
 ---
 title       : Adaptability
-date        : 2018-01-01
+key         : CP-AD
 level       : one
-difficulty  : medium
+difficulty  : Medium
 skills      : Behaviour
-area        : competency
+area        : Competency
 questions   :
     - "CP-AD-01: Describe a time when you worked on a challenging cross-functional team that produced an exceptional deliverable."
     - "CP-AD-04: Describe your most recent experience working with a virtual team."

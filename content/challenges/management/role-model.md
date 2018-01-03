@@ -1,10 +1,10 @@
 ---
 title: Role Model
-date : 2018-01-01
+key : MA-RM
 level : ungraded
-required : yes
 skills : Leadership, Mentoring, Behaviour, Mindset, Competency
 difficulty : easy
+area : Management
 questions   :
     - "MA-RM-01: Tell me about a time when you set a positive example that had a significant impact on peers or direct reports."
     - "MA-RM-02: Tell me about a time when you motivated others through your commitment to delivering results."

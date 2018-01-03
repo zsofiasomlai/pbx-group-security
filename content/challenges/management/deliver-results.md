@@ -1,10 +1,10 @@
 ---
 title: Deliver Results Through Teamwork
-date : 2018-01-01
+Key : MA-DR
 level : ungraded
-required : yes
 skills : Leadership, Mentoring, Behaviour, Mindset, Competency
 difficulty : easy
+area : Management
 questions   :
     - "MA-DR-01: Tell me about a time when you had to translate an organisational strategy into concrete deliverables that resulted in positive business outcomes."
     - "MA-DR-02: Tell me about a time when your team’s workload was unbalanced. How did you prioritise and delegate the work?"

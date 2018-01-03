@@ -1,11 +1,10 @@
 ---
 title       : Finance
-date        : 2018-01-01
+key         : CP-FI
 level       : one
-required    : yes
 skills      : Behaviour, Mindset, Competency
-area        : competency
 difficulty  : medium
+area : Competency
 
 questions   :
     - "CP-FI-02: Tell me about a time when you had to explain financial concepts to various audiences. How did you communicate these concepts effectively?"
