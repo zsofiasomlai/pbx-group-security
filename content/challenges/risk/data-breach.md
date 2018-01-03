@@ -17,6 +17,7 @@ The following two sceanrios have been provided to you for the purpose of debate.
 Of these two scarios, which do you deem to be the most serious and why?
 
 **Key Questions**
+
 - Which of the above constitutes PII data?
 - Which of the above would you report to the ICO or relevant body?
 - Would you contact the customers affected in both scenarios?
