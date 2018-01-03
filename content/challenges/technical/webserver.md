@@ -2,7 +2,7 @@
 title       : Secure Webserver
 key         : TE-WS
 area        : technical
-difficulty  : TBC
+difficulty  : medium
 skills      : TBC
 ---
 
