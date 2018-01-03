@@ -2,7 +2,7 @@
 title       : Collaboration
 key         : CP-CB
 area        : competency
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency, Team Working
 difficulty  : medium
 
 questions :

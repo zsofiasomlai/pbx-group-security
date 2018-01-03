@@ -1,13 +1,15 @@
 ---
 title       : Gap Analysis
-key : RI-GA
+key         : RI-GA
 level       : TBC
 area        : risk
 difficulty  : hard
 skills      : TBC
 ---
 
-You have just joined a company and have been given the task of completing gap analysis. You can use any method or tool to carry this out.
+You have just joined a company and have been given the task of completing gap analysis.
+
+You can use any method or tool to carry this out:
 
 - What would be your preferred tool kit or method?
 - What do you need to complete this task? i.e. staff resource, budget, business support

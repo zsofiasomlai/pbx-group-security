@@ -1,7 +1,7 @@
 ---
 title       : Conversion
 key         : CP-CV
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency, Persuasion
 difficulty  : medium
 area        : competency
 
