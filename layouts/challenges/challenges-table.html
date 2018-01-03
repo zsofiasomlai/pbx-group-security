@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    {{ partial "head.html" . }}
+    <body>
+        <div id="all">
+            <header>
+              {{ partial "nav.html" . }}
+            </header>
+            {{ partial "breadcrumbs.html" . }}
+
+            <div id="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            {{ .Content }}
+                            {{ $challenges := where $.Site.Pages "Section" "challenges" }}
+                            {{ $byArea     := $challenges.GroupByParam "area" }}
+                            <table class="table">
+                                <thead>
+                                {{ range $byArea }}
+                                    <th>{{ .Key }}</th>
+                                {{ end }}
+                                </thead>
+                                <tr>
+                                    {{ range $byArea }}
+                                        <td>
+                                            {{ range .Pages }}
+                                                - {{ .Params.Title }}
+                                                <br/>
+                                            {{ end }}
+
+                                        </td>
+                                    {{ end }}
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ partial "footer.html" . }}
+        </div>
+        {{ partial "scripts.html" . }}
+    </body>
+</html>
