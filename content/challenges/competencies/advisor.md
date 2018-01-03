@@ -1,16 +1,14 @@
 ---
 title       : Trusted Advisor
 key         : CP-TA
+skills      : Behaviour, Mindset, Competency
 difficulty  : expert
-skills      : Behaviour
 area        : competency
 
-questions   :
+questions :
     - "CP-TA-01: Tell me about a time when you challenged a business initiative, based on your knowledge of best practices."
     - "CP-TA-02: Describe a time when you managed a particularly sensitive situation from an employee, client, or vendor perspective."
     - "CP-TA-03: Describe a situation when you applied your expertise to address or resolve a challenging problem."
-
-other_questions:
     - "CP-TA-04: Tell me about a time when you used your professional expertise to influence a change in organisational policy."
     - "CP-TA-05: Describe how you have successfully established credibility with others in your organisation."
     - "CP-TA-06: Tell me about your most challenging experience when you had to influence a business leader to endorse a proposed plan of action."
@@ -19,7 +17,6 @@ other_questions:
     - "CP-TA-09: Tell me about a time when you had to apply your technical knowledge to meet business requirements."
     - "CP-TA-10: Tell me about a time when your technical expertise contributed to product innovation or strategic direction."
     - "CP-TA-11: In your previous role, how did you establish credibility as a technical advisor?"
-
 desirable :
     - Worked to establish a true partnership with the client that was mutually satisfying and productive
     - Used knowledge of the business to analyse and interpret information that provided insight to others
@@ -34,10 +31,3 @@ bonus_points:
     - Enhanced their credibility by anticipating business needs and providing reasonable solutions
     - Demonstrated integrity and professionalism while handling critically sensitive, work-related
 ---
-
-
-
-
-
-
-

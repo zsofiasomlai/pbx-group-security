@@ -2,7 +2,7 @@
 title       : Planning, Organising and Executing
 key         : CP-PL
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : hard
 area        : competency
 questions :
     - "CP-PL-01: Describe a situation when you led a project with a geographically or functionally diverse team."

@@ -2,7 +2,7 @@
 title       : Drive for Results
 key         : CP-DR
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : medium
 area        : competency
 questions :
     - "CP-DR-01: Describe a time when you tried to achieve a difficult professional goal. What obstacles did you encounter that made the goal difficult?"

@@ -2,7 +2,7 @@
 title       : Develop and Attract Talent
 key         : MA-TA
 skills      : Leadership, Mentoring, Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : hard
 area        : management
 
 questions   :
