@@ -2,14 +2,14 @@
 title       : Passionate Communication
 key         : CP-PC
 required    : yes
-skills      : Behaviour, Mindset, Competency, Group Influence
+skills      : Behaviour, Mindset, Group Influence
 difficulty  : medium
 area        : competency
 
 questions :
     - "CP-CM-01: Describe a situation when you spoke passionately about a topic that was an area of personal interest."
     - "CP-CM-02: Describe a situation when you improvised effectively during a presentation."
-    - "CP-CM-03: Tell me about the most inspiring presentation that you have delivered, that created excitement among audience members."
+    - "CP-CM-03: Describe the most inspiring presentation that you have delivered, that created excitement among audience members."
 desirable :
     - Used narratives, case examples, and client stories to support a point-of-view
     - Neutralised a sceptical or disapproving audience

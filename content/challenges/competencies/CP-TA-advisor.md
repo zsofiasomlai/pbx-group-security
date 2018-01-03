@@ -1,22 +1,22 @@
 ---
 title       : Trusted Advisor
 key         : CP-TA
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset
 difficulty  : expert
 area        : competency
 
 questions :
-    - "CP-TA-01: Tell me about a time when you challenged a business initiative, based on your knowledge of best practices."
+    - "CP-TA-01: Describe a time when you challenged a business initiative, based on your knowledge of best practices."
     - "CP-TA-02: Describe a time when you managed a particularly sensitive situation from an employee, client, or vendor perspective."
     - "CP-TA-03: Describe a situation when you applied your expertise to address or resolve a challenging problem."
 other_questions :
-    - "CP-TA-04: Tell me about a time when you used your professional expertise to influence a change in organisational policy."
+    - "CP-TA-04: Describe a time when you used your professional expertise to influence a change in organisational policy."
     - "CP-TA-05: Describe how you have successfully established credibility with others in your organisation."
-    - "CP-TA-06: Tell me about your most challenging experience when you had to influence a business leader to endorse a proposed plan of action."
+    - "CP-TA-06: Describe your most challenging experience when you had to influence a business leader to endorse a proposed plan of action."
     - "CP-TA-07: Describe the steps you have taken to understand competitor offerings."
-    - "CP-TA-08: Tell me about a time when you had to communicate a complex technical issue to someone who was unfamiliar with your area of expertise. How did you determine your message was understood?"
-    - "CP-TA-09: Tell me about a time when you had to apply your technical knowledge to meet business requirements."
-    - "CP-TA-10: Tell me about a time when your technical expertise contributed to product innovation or strategic direction."
+    - "CP-TA-08: Describe a time when you had to communicate a complex technical issue to someone who was unfamiliar with your area of expertise. How did you determine your message was understood?"
+    - "CP-TA-09: Describe a time when you had to apply your technical knowledge to meet business requirements."
+    - "CP-TA-10: Describe a time when your technical expertise contributed to product innovation or strategic direction."
     - "CP-TA-11: In your previous role, how did you establish credibility as a technical advisor?"
 desirable :
     - Worked to establish a true partnership with the client that was mutually satisfying and productive

@@ -1,5 +1,5 @@
 ---
-title   : Head of Risk (01adfb6c)
+title   : Head of Risk and Compliance (01adfb6c)
 aliases : 01adfb6c
 type    : for-candidate
 

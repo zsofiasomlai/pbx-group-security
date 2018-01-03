@@ -1,7 +1,7 @@
 ---
 title       : Drive for Results
 key         : CP-DR
-skills      : Behaviour, Mindset, Competency, Results Driven
+skills      : Behaviour, Mindset, Results Driven
 difficulty  : medium
 area        : competency
 questions :

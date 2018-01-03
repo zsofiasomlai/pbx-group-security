@@ -3,7 +3,7 @@ title       : Image Download
 key         : TE-ID
 area        : technical
 difficulty  : medium
-skills      : TBC
+skills      : Situational Awareness, Data Protection, GDPR
 ---
 
 A vulnerability is discovered in an image server that allows the download of users’ images from live servers. This was created by the dev team to help debug problems in production and factories. The key questions are:

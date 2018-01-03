@@ -1,13 +1,13 @@
 ---
 title       : Planning, Organising and Executing
 key         : CP-PL
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset
 difficulty  : hard
 area        : competency
 questions :
     - "CP-PL-01: Describe a situation when you led a project with a geographically or functionally diverse team."
-    - "CP-PL-02: Tell me about a time when you designed a process or tool to track and measure the success of a project."
-    - "CP-PL-03: Tell me about a time when you had to learn a new technology. What did you do to gain expertise?"
+    - "CP-PL-02: Describe a time when you designed a process or tool to track and measure the success of a project."
+    - "CP-PL-03: Describe a time when you had to learn a new technology. What did you do to gain expertise?"
 desirable :
     - Maintained consistent and orderly work flow
     - Anticipated the need to rearrange priorities

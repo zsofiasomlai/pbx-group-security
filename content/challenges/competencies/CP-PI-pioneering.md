@@ -1,14 +1,14 @@
 ---
 title       : Pioneering
 key         : CP-PI
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset
 difficulty  : expert
 area        : competency
 
 questions :
-    - "CP-PI-01: Tell me about a time when you successfully challenged the status quo by introducing a creative approach within your team/organisation."
-    - "CP-PI-02: Tell me about a time when you had to initiate discussions with your team or other internal groups to reduce ambiguity regarding customer needs."
-    - "CP-PI-03: Tell me about a time when you pursued new ideas and innovation despite resistance or lack of support."
+    - "CP-PI-01: Describe a time when you successfully challenged the status quo by introducing a creative approach within your team/organisation."
+    - "CP-PI-02: Describe a time when you had to initiate discussions with your team or other internal groups to reduce ambiguity regarding customer needs."
+    - "CP-PI-03: Describe a time when you pursued new ideas and innovation despite resistance or lack of support."
 desirable :
     - Made a specific challenge to organisational practices
     - Persuaded peers to consider/adopt their ideas in a positive way

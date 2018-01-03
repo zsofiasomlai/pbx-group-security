@@ -1,14 +1,14 @@
 ---
 title       : Conversion
 key         : CP-CV
-skills      : Behaviour, Mindset, Competency, Persuasion
+skills      : Behaviour, Mindset, Persuasion
 difficulty  : medium
 area        : competency
 
 questions :
-    - "CP-CV-01: Tell me about a time when you exerted influence on high-level executives during a high-pressure situation. Describe the techniques you have used to subtly influence customers at all levels of an organisation."
-    - "CP-CV-02: Tell me about your most successful customer conversion experience."
-    - "CP-CV-03: Tell me about your most challenging customer conversion experience."
+    - "CP-CV-01: Describe a time when you exerted influence on high-level executives during a high-pressure situation. Describe the techniques you have used to subtly influence customers at all levels of an organisation."
+    - "CP-CV-02: Describe your most successful customer conversion experience."
+    - "CP-CV-03: Describe your most challenging customer conversion experience."
 desirable :
     - Researched competitor offerings to highlight the unique value of a product/service
     - Gathered relevant information to determine customer goals
