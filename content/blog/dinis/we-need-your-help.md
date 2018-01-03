@@ -1,8 +1,8 @@
 ---
 title   : We need your help
-banner  : /img/blog/Photoboxgroup_wearehiringRGB.png
+banner  : /img/blog/Photoboxgroup_wearehiringSquareRGB.png
 date    : 2017-12-11
-images  : ["/img/blog/Photoboxgroup_wearehiringRGB.png"]
+images  : ["/img/blog/Photoboxgroup_wearehiringSquareRGB.png"]
 author      : Dinis Cruz
 ---
 
