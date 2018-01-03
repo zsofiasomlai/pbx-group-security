@@ -2,7 +2,7 @@
 title       : Programming Experience
 key         : PR-PE
 area        : programming
-difficulty  : hard
+difficulty  : medium
 skills      : Programming, Coding, Development, AI
 ---
 
