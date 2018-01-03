@@ -1,8 +1,8 @@
 ---
 title       : Risk Rating
 date        : 2018-01-01
-level       : TBC
-required    :
+level       : TBC
+area        : risk
 difficulty  : TBC
 skills      : TBC
 ---
