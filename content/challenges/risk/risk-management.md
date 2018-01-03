@@ -1,7 +1,6 @@
 ---
 title       : Risk Management and Acceptance
 key         : RI-RM
-level       : TBC
 area        : risk
 difficulty  : hard
 skills      : TBC

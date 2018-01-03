@@ -1,6 +1,6 @@
 ---
 title       : Risk Assessment
-key : RI-RA
+key         : RI-RA
 area        : risk
 difficulty  : hard
 skills      : TBC
