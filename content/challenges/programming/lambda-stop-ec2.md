@@ -1,7 +1,7 @@
 ---
-title       : Lambda and ELK
+title       : Lambda - Stop EC2 Instances
 key         : TE-LE
-area        : technical
+area        : programming
 difficulty  : TBC
 skills      : TBC
 ---
