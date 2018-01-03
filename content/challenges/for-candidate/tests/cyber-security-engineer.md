@@ -1,5 +1,5 @@
 ---
-title : Soc-Engineer
+title : Cyber Security Engineer
 type  : for-candidate
 challenges:
     - CP-AD-adaptability.md
