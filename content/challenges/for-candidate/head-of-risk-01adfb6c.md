@@ -4,9 +4,9 @@ date  : 2018-01-01
 type  : for-candidate
 challenges:
     - adaptability.md
-    - challenges/competencies/collaboration.md
-    - challenges/competencies/finance.md
-    - challenges/research/inspirational-security.md
-    - challenges/research/interesting-example.md
-    - challenges/standards/CBEST_CREST.md
+    - collaboration.md
+    - finance.md
+    - inspirational-security.md
+    - interesting-example.md
+    - CBEST_CREST.md
 ---
