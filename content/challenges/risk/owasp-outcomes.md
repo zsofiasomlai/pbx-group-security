@@ -6,7 +6,8 @@ difficulty  : hard
 skills      : TBC
 ---
 
-Photobox Group are proud to sponsor the OWASP summit, we believe in the work that is achieved at these events and contribute towards their outcomes.
+Photobox Group are proud to sponsor the OWASP summit, we believe in the work that is achieved at
+these events and contribute towards their outcomes.
 
 Review the following outcomes and take them to the next level.
 

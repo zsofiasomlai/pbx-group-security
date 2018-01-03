@@ -3,12 +3,12 @@ title       : Risk Frameworks
 key         : RI-RF
 area        : risk
 difficulty  : medium
-skills      : TBC
+skills      : Risk Management
 ---
 
 Share an anonymised risk framework, policy and standard that you have created in a previous role
 
-This should;
+This should include details of how you:
 
-- embed risk management
-- include optimising risk processes and methodology
+- embeded risk management
+- included optimising risk processes and methodology in the workflows created
