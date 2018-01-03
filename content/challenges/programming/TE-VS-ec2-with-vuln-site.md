@@ -1,6 +1,6 @@
 ---
 title       : EC2 with Vulnerable Site
-key         : TE-LD
+key         : TE-VS
 area        : programming
 difficulty  : medium
 skills      : AWS, Scripting
