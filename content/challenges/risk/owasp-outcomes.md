@@ -1,5 +1,5 @@
 ---
-title       : Improve on OWASP summit outcomes
+title       : OWASP summit outcomes (Improve)
 key : RI-OO
 level       : TBC
 area        : risk

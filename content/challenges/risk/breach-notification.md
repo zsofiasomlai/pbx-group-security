@@ -1,10 +1,10 @@
 ---
 title     : GDPR Breach Notification to EU Regulator
-key : RI-IC
+key       : RI-BN
 level     : one
 difficulty: medium
 skills    : GDPR knowledge
-area : GDPR
+area      : risk
 ---
 
 Write an GDPR breach notification letter to one of the EU Regulator (for example ICO in the UK) with a breach notification for (at least) one of the following scenarios:

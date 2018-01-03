@@ -1,10 +1,10 @@
 ---
 title       : Acceptable Use Policy
-key : RI-AU
+key         : RI-AU
 level       : two
-area        : Risk
+area        : risk
 difficulty  : medium
-skills      : TBC
+skills      : Writing Policies
 ---
 
 Create a paragraph of an acceptable use policy on how to handle business smartphones.
