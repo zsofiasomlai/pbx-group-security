@@ -18,11 +18,16 @@
                 .challenge-area .title {
                     border-top-left-radius : 10px;
                     border-top-right-radius: 10px;
-                    padding                : 10px;
+                    padding                : 1px;
                     color                  : white;
                     background-color       : #8fc43e;
-                    font-size              : 125%;
+                    font-size              : 150%;
+                    text-align             : center;
                 }
+                .challenge-area .title .size {
+                    font-size   : 9px;
+                }
+
                 .challenge-area .difficulty {
                     font-size : 75%;
                     vertical-align: middle;
@@ -67,6 +72,9 @@
 
                                                 <div class="title">
                                                     {{ .Key }}
+                                                    <span class="size hidden-print">
+                                                        x{{ len .Pages }}
+                                                    <span>
                                                 </div>
 
                                                 <table class="table">
