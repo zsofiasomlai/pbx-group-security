@@ -2,7 +2,7 @@
 title       : Pioneering
 key         : CP-PI
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : expert
 area        : competency
 
 questions :

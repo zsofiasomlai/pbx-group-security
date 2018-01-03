@@ -3,7 +3,7 @@ title       : Finance
 key         : CP-FI
 level       : one
 skills      : Behaviour, Mindset, Competency
-difficulty  : medium
+difficulty  : expert
 area        : competency
 
 questions   :

@@ -2,7 +2,7 @@
 title       : Entrepreneurialism
 key         : CP-EN
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : expert
 area        : competency
 
 questions :

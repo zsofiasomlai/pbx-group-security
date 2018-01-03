@@ -2,7 +2,7 @@
 title       : Inspirational Leaders
 key         : RE-TL
 type        : challenges
-difficulty  : easy
+difficulty  : medium
 skills      : Industry Knowledge
 area        : research
 ---

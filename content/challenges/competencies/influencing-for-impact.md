@@ -2,7 +2,7 @@
 title       : Influencing for Impact
 key         : CP-II
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : medium
 area        : competency
 
 questions :

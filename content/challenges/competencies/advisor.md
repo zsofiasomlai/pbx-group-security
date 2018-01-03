@@ -2,7 +2,7 @@
 title       : Trusted Advisor
 key         : CP-TA
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : expert
 area        : competency
 
 questions :

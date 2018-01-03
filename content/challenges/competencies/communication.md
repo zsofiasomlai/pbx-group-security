@@ -1,9 +1,9 @@
 ---
 title       : Passionate Communication
-key         : CP-CM
+key         : CP-PC
 required    : yes
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : medium
 area        : competency
 
 questions :

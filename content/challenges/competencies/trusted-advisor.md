@@ -1,7 +1,7 @@
 ---
 title       : Trusted Advisor
 key         : CP-TA
-difficulty  : medium
+difficulty  : expert
 skills      : Behaviour
 area        : competency
 questions   :

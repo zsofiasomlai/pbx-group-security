@@ -2,7 +2,7 @@
 title       : Strategic Thinking
 key         : CP-ST
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : hard
 area        : competency
 
 questions :

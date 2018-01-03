@@ -2,7 +2,7 @@
 title       : Conversion
 key         : CP-CV
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : medium
 area        : competency
 
 questions :

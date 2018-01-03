@@ -3,7 +3,7 @@ title       : Inspirational Security
 type        : challenges
 key         : RE-IS
 level       : one
-difficulty  : easy
+difficulty  : medium
 area        : research
 skills      : Industry Knowledge
 ---

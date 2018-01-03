@@ -2,7 +2,7 @@
 title       : Judgement
 key         : CP-JU
 skills      : Behaviour, Mindset, Competency
-difficulty  : easy
+difficulty  : medium
 area        : competency
 
 questions :
