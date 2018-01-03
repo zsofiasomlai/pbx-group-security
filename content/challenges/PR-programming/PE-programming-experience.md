@@ -1,13 +1,8 @@
 ---
-title       : Lambda - Stop EC2 Instances
-key         : TE-LE
-<<<<<<< HEAD:content/challenges/technical/elk.md
-area        : technical
-difficulty  : hard
-=======
+title       : Programming Experience
+key         : PR-PE
 area        : programming
-difficulty  : high
->>>>>>> 09fcfedf21fbe26fbbe41d408310814676dbee15:content/challenges/programming/lambda-stop-ec2.md
+difficulty  : hard
 skills      : TBC
 ---
 
