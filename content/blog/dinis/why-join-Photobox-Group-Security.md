@@ -3,8 +3,8 @@ title       : "Why join Photobox Group Security?"
 date        : "2017-12-11"
 tags        : ["Photobox", "Team", "Why Photobox", "CISO"]
 categories  : ["Recruitment"]
-banner      : /img/blog/road-sign-63983_1920.jpg
-images      : ["/img/blog/road-sign-63983_1920.jpg"]
+banner      : /img/blog/Photoboxgroup_WhyJoinPbxBlogArticle_squareRGB.png
+images      : ["/img/blog/Photoboxgroup_WhyJoinPbxBlogArticle_squareRGB.png"]
 author      : Dinis Cruz
 ---
 
