@@ -1,10 +1,9 @@
 ---
 title       : GDPR Gap
-date        : 2018-01-01
-level       : TBC
-required    :
+key         : DP-GG
 difficulty  : TBC
 skills      : TBC
+area        : gdpr
 ---
 
 A gap in GDPR compliance is identified. The company has to initiate an Identity and Access Management Project.
