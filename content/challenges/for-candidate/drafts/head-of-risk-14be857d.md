@@ -1,5 +1,5 @@
 ---
-title   : Head of Risk (14be857d)
+title   : Head of Risk and Compliance (14be857d)
 aliases : 14be857d
 type    : for-candidate
 challenges:
