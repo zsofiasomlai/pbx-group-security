@@ -2,7 +2,7 @@
 title       : AWS Root Key
 key         : TE-AW
 area        : technical
-difficulty  : high
+difficulty  : hard
 skills      : TBC
 ---
 

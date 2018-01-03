@@ -1,7 +1,7 @@
 ---
 title       : CBEST and CREST
 key         : ST-CC
-difficulty  : high
+difficulty  : hard
 area        : standards
 skills      : TBC
 ---
