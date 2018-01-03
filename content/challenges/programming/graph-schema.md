@@ -1,9 +1,9 @@
 ---
-title       : Graph Based Schema
+title       : Graph-Based Schema
 key         : PR-GS
-area        : programming
 difficulty  : hard
 skills      : Graph Database, Logic, Coding
+area        : programming
 ---
 
 Create a graph based schema using nodes and codes for a recruitment based workflow.

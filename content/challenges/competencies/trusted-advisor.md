@@ -4,10 +4,12 @@ key         : CP-TA
 difficulty  : expert
 skills      : Behaviour
 area        : competency
+
 questions   :
     - "CP-TA-01: Tell me about a time when you challenged a business initiative, based on your knowledge of best practices."
     - "CP-TA-02: Describe a time when you managed a particularly sensitive situation from an employee, client, or vendor perspective."
     - "CP-TA-03: Describe a situation when you applied your expertise to address or resolve a challenging problem."
+
 other_questions:
     - "CP-TA-04: Tell me about a time when you used your professional expertise to influence a change in organisational policy."
     - "CP-TA-05: Describe how you have successfully established credibility with others in your organisation."
@@ -17,12 +19,14 @@ other_questions:
     - "CP-TA-09: Tell me about a time when you had to apply your technical knowledge to meet business requirements."
     - "CP-TA-10: Tell me about a time when your technical expertise contributed to product innovation or strategic direction."
     - "CP-TA-11: In your previous role, how did you establish credibility as a technical advisor?"
+
 desirable :
     - Worked to establish a true partnership with the client that was mutually satisfying and productive
     - Used knowledge of the business to analyse and interpret information that provided insight to others
     - Used business understanding and acumen to guide others in making informed decisions
     - Enhanced credibility by anticipating business needs
     - Demonstrated integrity and professionalism while handling sensitive, work-related matters
+
 bonus_points:
     - Established a long-term partnership with the client that was mutually satisfying and productive
     - Used extensive knowledge of the business, its competitors, and markets to analyse and interpret information that provided insight to others
