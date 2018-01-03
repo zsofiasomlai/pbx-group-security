@@ -1,11 +1,51 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
     {{ partial "head.html" . }}
+    {{ partial "css/print-fixes.html" }}
     <body>
         <div id="all">
             <header>
               {{ partial "nav.html" . }}
             </header>
+
+            <style>
+                .challenge-area {
+                    border-radius: 10px;
+                    background: #FAFAFA;
+                    border: 1px solid;
+                    margin-bottom:20px
+                }
+                .challenge-area .title {
+                    border-top-left-radius : 10px;
+                    border-top-right-radius: 10px;
+                    padding                : 10px;
+                    color                  : white;
+                    background-color       : #8fc43e;
+                    font-size              : 125%;
+                }
+                .challenge-area .difficulty {
+                    font-size : 75%;
+                    vertical-align: middle;
+                }
+                .challenge-area .key {
+                    font-size : 75%;
+                    width     : 51px;
+                    vertical-align: middle;
+                }
+                .challenge-area table {
+                    font-size: 100%;
+                    margin-bottom:0px;
+                }
+                .challenge-area table td {
+                    padding-bottom  : 2px !important;
+                    padding-top     : 2px !important;
+                    border-radius: 10px;
+                }
+
+
+
+
+            </style>
             {{ partial "breadcrumbs.html" . }}
 
             <div id="content">
@@ -15,24 +55,64 @@
                             {{ .Content }}
                             {{ $challenges := where $.Site.Pages "Section" "challenges" }}
                             {{ $byArea     := $challenges.GroupByParam "area" }}
-                            <table class="table">
-                                <thead>
-                                {{ range $byArea }}
-                                    <th>{{ .Key }}</th>
+                            {{ $len        := len $byArea }}
+                            <div>
+                            {{ range $i, $elemment := $byArea }}
+                                {{ if modBool $i 3 }}
+                                    </div>
+                                    <div class="row">
                                 {{ end }}
-                                </thead>
-                                <tr>
-                                    {{ range $byArea }}
-                                        <td>
-                                            {{ range .Pages }}
-                                                - {{ .Params.Title }}
-                                                <br/>
-                                            {{ end }}
+                                        <div class="col-xs-4">
+                                            <div class="challenge-area">
 
-                                        </td>
-                                    {{ end }}
-                                </tr>
-                            </table>
+                                                <div class="title">
+                                                    {{ .Key }}
+                                                </div>
+
+                                                <table class="table">
+                                                    <!--<thead>-->
+                                                        <!--<th>key</th>-->
+                                                        <!--<th>Title</th>-->
+                                                        <!--<th>Difficulty</th>-->
+                                                    <!--</thead>-->
+                                                    {{ range .Pages }}
+                                                        <tr>
+
+                                                            <td>{{ .Params.Title }}</td>
+                                                            <td class="difficulty">
+                                                                <span class="difficulty-{{ .Params.difficulty }}">
+                                                                    {{ .Params.difficulty }}
+                                                                </span>
+                                                            </td>
+                                                            <td class="key">{{ .Params.Key }}</td>
+                                                        </tr>
+                                                    {{ end }}
+                                                </table>
+                                            </div>
+                                        </div>
+
+                            {{ end }}
+                            </div>
+
+                            <!--<h2>Just Title</h2>-->
+                            <!--<table class="table">-->
+                                <!--<thead>-->
+                                <!--{{ range $byArea }}-->
+                                    <!--<th>{{ .Key }}</th>-->
+                                <!--{{ end }}-->
+                                <!--</thead>-->
+                                <!--<tr>-->
+                                    <!--{{ range $byArea }}-->
+                                        <!--<td>-->
+                                            <!--{{ range .Pages }}-->
+                                                <!--{{ .Params.Title }}-->
+                                                <!--<br/>-->
+                                            <!--{{ end }}-->
+
+                                        <!--</td>-->
+                                    <!--{{ end }}-->
+                                <!--</tr>-->
+                            <!--</table>-->
                         </div>
                     </div>
                 </div>
