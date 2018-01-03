@@ -4,7 +4,6 @@ aliases : 01adfb6c
 type    : for-candidate
 
 challenges:
-    - RI-JW-jira-workflow.md
     - CP-AD-adaptability.md
     - CP-CB-collaboration.md
     - CP-PL-planning.md
