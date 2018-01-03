@@ -1,10 +1,10 @@
 ---
 title: Trusted Advisor
-date : 2018-01-01
+key : CP-TA
 level : ungraded
-required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+area : Competency
 questions :
     - "CP-TA-01: Tell me about a time when you challenged a business initiative, based on your knowledge of best practices."
     - "CP-TA-02: Describe a time when you managed a particularly sensitive situation from an employee, client, or vendor perspective."

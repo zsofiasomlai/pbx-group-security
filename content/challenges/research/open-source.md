@@ -1,10 +1,10 @@
 ---
 title       : Open Source vs Proprietary Software
-date        : 2018-01-01
+Key : RE-OS
 level       : one
-required    : yes
 difficulty  : medium
 skills      : Debate, Logical Thinking, Influencing
+area : Research
 ---
 
 Write a business, technical and moral case:

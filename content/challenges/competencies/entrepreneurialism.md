@@ -1,10 +1,10 @@
 ---
 title: Entrepreneurialism
-date : 2018-01-01
+key         : CP-EN
 level : ungraded
-required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+area : Competency
 questions :
     - "CP-EN-01: Tell me about a time when you successfully challenged the opinion of a superior or a proposed strategy."
     - "CP-EN-02: Provide an example of an idea that you recommended that was not adopted. Why was it rejected?"

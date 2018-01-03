@@ -1,10 +1,9 @@
 ---
 title       : An Interesting Example
-date        : 2018-01-01
+key : RE-IS
 level       : one
-required    : required
 difficulty  : medium
-area        : research
+area        : Research
 skills      : Research, Passion
 ---
 

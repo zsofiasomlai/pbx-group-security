@@ -1,10 +1,10 @@
 ---
 title: Strategic Thinking
-date : 2018-01-01
+key         : CP-ST
 level : ungraded
-required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+area : Competency
 questions :
     - "CP-ST-01: Tell me about a time when you developed a research plan to generate strategic customer or product insights."
     - "CP-ST-02: Tell me about a time when you could anticipate a technology shift."

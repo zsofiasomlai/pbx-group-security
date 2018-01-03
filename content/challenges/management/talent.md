@@ -1,10 +1,10 @@
 ---
 title: Develop and Attract Talent
-date : 2018-01-01
+key : MA-TA
 level : ungraded
-required : yes
 skills : Leadership, Mentoring, Behaviour, Mindset, Competency
 difficulty : easy
+area : Management
 questions   :
     - "MA-TA-01: Tell me about a time when you had to give constructive feedback to a direct report that was not well received. How did you handle the situation?"
     - "MA-TA-02: Describe the steps you have taken to foster a positive team environment that encouraged your direct reports to do their best."

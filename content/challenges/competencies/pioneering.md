@@ -1,10 +1,10 @@
 ---
 title: Pioneering
-date : 2018-01-01
+key         : CP-PI
 level : ungraded
-required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+area : Competency
 questions :
     - "CP-PI-01: Tell me about a time when you successfully challenged the status quo by introducing a creative approach within your team/organisation."
     - "CP-PI-02: Tell me about a time when you had to initiate discussions with your team or other internal groups to reduce ambiguity regarding customer needs."

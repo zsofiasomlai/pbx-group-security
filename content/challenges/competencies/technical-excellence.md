@@ -1,10 +1,10 @@
 ---
 title: Technical Excellence
-date : 2018-01-01
+key         : CP-TX
 level : ungraded
-required    : yes
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
+area : Competency
 questions :
     - "CP-TX-01: Describe a situation when you sought out a new engineering or project/program management challenge beyond your role requirements."
     - "CP-TX-02: Tell me about a time when you sought out a challenging technical problem."

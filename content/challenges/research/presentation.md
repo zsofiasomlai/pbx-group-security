@@ -1,10 +1,10 @@
 ---
 title       : Presentation or Blog
-date        : 2017-12-29
+key : RE-PR
 level       : one
-required    : yes
 difficulty  : medium
 skills      : Research
+area : Research
 ---
 Create a blog post or presentation about a technical or business-related book you have read recently which inspired you.
 

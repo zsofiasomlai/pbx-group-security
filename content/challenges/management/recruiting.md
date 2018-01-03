@@ -1,10 +1,10 @@
 ---
 title       : The Challenge of Recruiting
-date        : 2018-01-01
+key: MA-CR
 level       : three
-required    : yes
 difficulty  : hard
 skills      : Leadership, Team Bulding
+area : Management
 ---
 How would you build a high performing team?
 
