@@ -4,8 +4,6 @@ aliases : 14be857d
 type    : for-candidate
 challenges:
     - CP-II-influencing-for-impact.md
-    - CP-AD-adaptability.md
-    - CP-TA-advisor.md
     - MA-TA-attract-talent.md
     - MA-RM-role-model.md
     - PR-PE-programming-experience.md
@@ -15,4 +13,9 @@ challenges:
     - SC-VD-vulnerabilities-discovered.md
     - TE-RD-risk-dashboard.md
     - RI-PI-pii-data-breach.md
+
+next_challenges:
+    - CP-AD-adaptability.md
+    - CP-TA-advisor.md
+
 ---
