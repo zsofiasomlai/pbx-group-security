@@ -24,7 +24,7 @@ desirable :
     - Enhanced credibility by anticipating business needs
     - Demonstrated integrity and professionalism while handling sensitive, work-related matters
 
-bonus points:
+bonus_points:
     - Established a long-term partnership with the client that was mutually satisfying and productive
     - Used extensive knowledge of the business, its competitors, and markets to analyse and interpret information that provided insight to others
     - Used business understanding and acumen to guide senior-level stakeholders in making informed decisions

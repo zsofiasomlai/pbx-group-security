@@ -18,7 +18,7 @@ desirable :
     - Demonstrated an active involvement in managing and coaching direct reports to identify skills gaps
     - Acted to help their direct report’s developmental needs and tracked their progress
     - Created a positive work environment that attracted talent by empowering and investing in direct reports
-bonus points:
+bonus_points:
     - Took corrective action, when necessary, and in a timely manner
     - Addressed concerns of a direct report in a tactful, considerate, and respectful manner, even when met with hostility
     - Gave assignments that were challenging and motivating to provide development opportunities and identify skill gaps for current and future roles

@@ -23,7 +23,7 @@ desirable :
     - Clearly communicated the benefits and risks of a proposed idea to others
     - Participated in activities to increase job knowledge in an area of expertise
     - Communicated information in a clear, convincing manner, at a level appropriate for the audience and occasion
-bonus points:
+bonus_points:
     - Considered how their decisions could impact the broader business, before acting, and whether they were compatible with organisational goals and objectives
     - Used cost-benefit thinking to set priorities and determine business impact
     - Clearly communicated the benefits and risks of a proposed idea to senior stakeholders and received support

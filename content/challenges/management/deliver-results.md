@@ -18,7 +18,7 @@ desirable :
     - Used a process for identifying unbalanced workloads and determining how to evenly distribute the work to others
     - Held direct reports accountable for meeting established team goals/objectives
     - Received support for an initiative by making clear connections between the initiative and broader organisational goals/strategies
-bonus points:
+bonus_points:
     - Inspired, motivated, and guided a cross-functional team toward goal accomplishments that aligned to organisational strategies
     - Created an environment that encouraged and rewarded cooperation, collective problem solving, and participative decision making
     - Developed a process for identifying unbalanced workloads and determining how to evenly distribute the work to others

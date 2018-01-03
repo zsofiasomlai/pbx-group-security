@@ -28,7 +28,7 @@ desirable :
     - Emphasised the value of the company and the customer relationship over the long term
     - Clarified how company products or services reduced costs or improved revenue
     - Clarified the connection between company technology and products and the company’s business goals/objectives
-bonus points:
+bonus_points:
     - Incorporated customer/partner feedback and POV into company value propositions
     - Built company reputation and value through the strength of their own contribution and expertise
     - Developed a vision of the company-customer relationship over time, and worked with customer to make the vision operational
