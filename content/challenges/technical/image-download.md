@@ -2,7 +2,7 @@
 title       : Image Download
 key         : TE-ID
 area        : technical
-difficulty  : TBC
+difficulty  : medium
 skills      : TBC
 ---
 

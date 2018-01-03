@@ -2,7 +2,7 @@
 title       : Log Analysis
 key         : TE-LA
 area        : technical
-difficulty  : TBC
+difficulty  : expert
 skills      : TBC
 ---
 

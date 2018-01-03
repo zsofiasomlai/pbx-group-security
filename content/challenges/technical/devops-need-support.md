@@ -2,7 +2,7 @@
 title       : DevOps Need Support
 key         : TE-DO
 area        : technical
-difficulty  : TBC
+difficulty  : medium
 skills      : TBC
 ---
 

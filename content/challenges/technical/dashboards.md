@@ -2,7 +2,7 @@
 title       : Dashboards
 key         : TE-DB
 area        : technical
-difficulty  : TBC
+difficulty  : medium
 skills      : TBC
 ---
 
