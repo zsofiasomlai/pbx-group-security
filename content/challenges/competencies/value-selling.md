@@ -1,10 +1,10 @@
 ---
-title: Value Selling
+title       : Value Selling
 key         : CP-VS
-level : ungraded
-skills : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency
 difficulty  : easy
-area : Competency
+area        : competency
+
 questions   :
     - "CP-VS-01: Describe a situation when you expressed the value of your solution in the context of long-term customer/partner needs."
     - "CP-VS-02: Tell me about a time when you successfully achieved a substantial goal that increased your organisation’s competitive advantage."

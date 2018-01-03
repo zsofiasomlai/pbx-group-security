@@ -1,11 +1,11 @@
 ---
 title       : Passionate Communication
 key         : CP-CM
-level       : ungraded
 required    : yes
 skills      : Behaviour, Mindset, Competency
 difficulty  : easy
-area : Competency
+area        : competency
+
 questions :
     - "CP-CM-01: Describe a situation when you spoke passionately about a topic that was an area of personal interest."
     - "CP-CM-02: Describe a situation when you improvised effectively during a presentation."

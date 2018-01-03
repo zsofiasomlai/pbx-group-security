@@ -1,10 +1,10 @@
 ---
-title: Influencing for Impact
+title       : Influencing for Impact
 key         : CP-II
-level : ungraded
-skills : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency
 difficulty  : easy
-area : Competency
+area        : competency
+
 questions :
     - "CP-II-01: Describe the most challenging situation that you have experienced, when you had to persuade someone to accept your point-of-view."
     - "CP-II-02: Provide an example of a relationship that you developed through networking that had a positive impact on your work."

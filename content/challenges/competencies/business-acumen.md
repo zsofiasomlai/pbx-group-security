@@ -1,10 +1,10 @@
 ---
 title       : Business Acumen
 key         : CP-BA
-level       : two
 skills      : Behaviour, Mindset, Competency
 difficulty  : easy
-area : Competency
+area        : competency
+
 questions:
     - "CP-BA-01: Describe a situation when you modified your approach on an assignment due to a change in business conditions."
     - "CP-BA-04: What steps have you taken to become more knowledgeable and effective in your role?"

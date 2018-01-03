@@ -1,8 +1,7 @@
 ---
 title       : Collaboration
 key         : CP-CB
-level       : one
-area        : Competency
+area        : competency
 skills      : Behaviour, Mindset, Competency
 difficulty  : medium
 

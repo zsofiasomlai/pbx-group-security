@@ -1,10 +1,9 @@
 ---
 title       : Trusted Advisor
 key         : CP-TA
-level       : one
 difficulty  : medium
 skills      : Behaviour
-area        : Competency
+area        : competency
 questions   :
     - "CP-TA-01: Tell me about a time when you challenged a business initiative, based on your knowledge of best practices."
     - "CP-TA-02: Describe a time when you managed a particularly sensitive situation from an employee, client, or vendor perspective."

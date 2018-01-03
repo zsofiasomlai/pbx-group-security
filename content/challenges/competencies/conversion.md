@@ -1,10 +1,10 @@
 ---
-title: Conversion
+title       : Conversion
 key         : CP-CV
-level : ungraded
-skills : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency
 difficulty  : easy
-area : Competency
+area        : competency
+
 questions :
     - "CP-CV-01: Tell me about a time when you exerted influence on high-level executives during a high-pressure situation. Describe the techniques you have used to subtly influence customers at all levels of an organisation."
     - "CP-CV-02: Tell me about your most successful customer conversion experience."

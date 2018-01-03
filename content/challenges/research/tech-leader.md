@@ -5,7 +5,7 @@ type        : challenges
 level       : one
 difficulty  : easy
 skills      : Industry Knowledge
-area:       : Research
+area        : research
 ---
 
 Describe three inspirational tech leaders who you'd like to work for. They must be alive today.

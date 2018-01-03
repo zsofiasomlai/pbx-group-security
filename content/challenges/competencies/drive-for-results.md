@@ -1,10 +1,9 @@
 ---
-title: Drive for Results
+title       : Drive for Results
 key         : CP-DR
-level : ungraded
-skills : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency
 difficulty  : easy
-area : Competency
+area        : competency
 questions :
     - "CP-DR-01: Describe a time when you tried to achieve a difficult professional goal. What obstacles did you encounter that made the goal difficult?"
     - "CP-DR-02: Describe a long-term project or assignment of which you took ownership. How did you make sure each milestone was achieved in a timely manner?"

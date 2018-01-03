@@ -1,10 +1,10 @@
 ---
-title: End-to-End Innovation
+title       : End-to-End Innovation
 key         : CP-IN
-level : ungraded
-skills : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency
 difficulty  : easy
-area : Competency
+area        : competency
+
 questions :
     - "CP-IN-01: Give an example of an idea that you suggested that led to improvements within your organisation."
     - "CP-IN-02: Tell me about a time when you identified a risk and offered a unique method of addressing the risk."

@@ -4,7 +4,7 @@ key         : CP-FI
 level       : one
 skills      : Behaviour, Mindset, Competency
 difficulty  : medium
-area : Competency
+area        : competency
 
 questions   :
     - "CP-FI-02: Tell me about a time when you had to explain financial concepts to various audiences. How did you communicate these concepts effectively?"

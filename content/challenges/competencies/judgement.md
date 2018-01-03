@@ -1,10 +1,10 @@
 ---
-title: Judgement
+title       : Judgement
 key         : CP-JU
-level : ungraded
-skills : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency
 difficulty  : easy
-area : Competency
+area        : competency
+
 questions :
     - "CP-JU-01: Describe a situation when you had to make a major decision under time constraints."
     - "CP-JU-02: Tell me about an unpopular decision you have had to make."
