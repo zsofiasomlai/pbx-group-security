@@ -1,8 +1,8 @@
 ---
 title       : "Using trust connections for referrals"
 date        : "2017-12-15"
-banner      : "/img/blog/blog_trust_connect.png"
-images      : ["/img/blog/blog_trust_connect.png"]
+banner      : "/img/blog/Photoboxgroup_ReferralsArticle_squareRGB.png"
+images      : ["/img/blog/Photoboxgroup_ReferralsArticle_squareRGB.png"]
 author      : Dinis Cruz
 ---
 
