@@ -27,8 +27,9 @@
         <th width="30%">title</th>
         <!--<th>level</th>-->
         <!--<th>required</th>-->
-        <th width="10%">difficulty</th>
         <th width="10%">key</th>
+        <th width="10%">difficulty</th>
+
         <th>skills</th>
         <th></th>
     </thead>
@@ -48,12 +49,12 @@
                     </td>
                     <!--<td>{{ .Params.level }}</td>-->
                     <!--<td>{{ if .Params.required }} yes {{else}} no {{end}}</td>-->
+                    <td>{{ .Params.key }}</td>
                     <td>
                         <span class="difficulty-{{ .Params.difficulty }}">
                             {{ .Params.difficulty }}
                         </span>
                     </td>
-                    <td>{{ .Params.key }}</td>
                     <td>{{ .Params.skills }}</td>
                     <td>
                         <div class="hidden-print">

@@ -1,6 +1,6 @@
 ---
 title       : CBEST and CREST
-level       : one
+key         : ST-CC
 required    : yes
 difficulty  : medium
 area        : standards
