@@ -1,8 +1,8 @@
 ---
 title       : Graph Based Schema
 date        : 2017-12-29
-level       : three
-required    : no
+level       : three
+area.       : programming
 difficulty  : hard
 skills      : Graph Database, Logic, Coding
 ---
