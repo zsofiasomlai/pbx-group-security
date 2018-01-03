@@ -3,8 +3,8 @@ title       : "Summary of The International Comparative Guide: Cybersecurity 201
 date        : "2017-12-04"
 tags        : ["GDPR", "Data Protection"]
 categories  : ["CyberSecurity"]
-banner      : /img/blog/hacker-1944688_960_720.jpg
-images      : ["/img/blog/hacker-1944688_960_720.jpg"]
+banner      : /img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png
+images      : ["/img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png"]
 author      : Ann-Marie Grace
 ---
 
