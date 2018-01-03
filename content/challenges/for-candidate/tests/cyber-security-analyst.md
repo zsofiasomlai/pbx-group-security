@@ -1,5 +1,5 @@
 ---
-title : Cyber Security Engineer
+title : Cyber Security Analyst
 type  : for-candidate
 challenges:
     - CP-AD-adaptability.md
