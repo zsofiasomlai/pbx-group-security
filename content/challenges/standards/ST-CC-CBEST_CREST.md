@@ -3,7 +3,7 @@ title       : CBEST and CREST
 key         : ST-CC
 difficulty  : hard
 area        : standards
-skills      : TBC
+skills      : Threat Assessment, Compliance, Cadence
 ---
 
 Define your involvement with CBEST and CREST;

@@ -3,7 +3,7 @@ title       : PII Data Breach
 key         : RI-PI
 area        : risk
 difficulty  : medium
-skills      : TBC
+skills      : Situational Awareness, Data Protection, GDPR
 ---
 
 By the nature of the business, our servers hold on to our customer's images and personal information i.e. name, address, email address, etc.
