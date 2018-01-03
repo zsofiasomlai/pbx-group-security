@@ -1,8 +1,8 @@
 ---
-title       : Lambda - Stop EC2 Instances
-key         : TE-LE
+title       : Programming Experience
+key         : PR-PE
 area        : programming
-difficulty  : high
+difficulty  : hard
 skills      : TBC
 ---
 
