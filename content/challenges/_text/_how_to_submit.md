@@ -4,4 +4,5 @@ hide    : true
 
 ### How to Submit
 
-Submit your files using a GitHub repository
+Please submit your files using a GitHub repository. You can find
+detailed instructions [here](/page/submit-using-git-repo/)
