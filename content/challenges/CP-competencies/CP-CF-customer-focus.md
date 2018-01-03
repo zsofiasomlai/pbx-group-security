@@ -1,7 +1,7 @@
 ---
 title       : Customer Focus
 key         : CP-CF
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency, Customer Focused
 difficulty  : hard
 area        : competency
 
