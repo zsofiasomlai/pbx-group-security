@@ -3,7 +3,7 @@ title       : Risk Management and Acceptance
 key         : RI-RM
 area        : risk
 difficulty  : hard
-skills      : TBC
+skills      : Situational Awareness, Risk Management, JIRA
 ---
 
 Photobox Group Security uses JIRA for risk management and acceptance.

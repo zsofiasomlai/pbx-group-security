@@ -4,7 +4,7 @@ key         : RI-GA
 level       : TBC
 area        : risk
 difficulty  : hard
-skills      : TBC
+skills      : Situational Awareness, Gap Analysis, Systems and Tools
 ---
 
 You have just joined a company and have been given the task of completing gap analysis.
