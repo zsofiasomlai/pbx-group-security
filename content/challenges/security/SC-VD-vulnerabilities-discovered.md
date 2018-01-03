@@ -8,6 +8,6 @@ skills      : Security Research
 
 What kind of vulnerabilities have you discovered in real work applications
 
- - How did you found them?
+ - How did you find them?
  - How did you report them?
- - Did you wrote tests/Pocs for them? (that the developers could use to replicate the issue)
+ - Did you write tests/PoCs that the developers could use to replicate the issue?

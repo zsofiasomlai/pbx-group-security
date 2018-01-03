@@ -6,8 +6,8 @@ difficulty  : hard
 skills      : Security Research
 ---
 
-For the bug-bounties rewards that you received:
+Tell us about bug-bounty rewards you've received:
 
- - How did you found them?
+ - How did you find them?
  - How did you report them?
- - Did you wrote tests/Pocs for them? (that the developers could use to replicate the issue)
+ - Did you write tests/PoCs that the developers could use to replicate the issue?

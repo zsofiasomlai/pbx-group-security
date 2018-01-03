@@ -9,5 +9,4 @@ challenges:
     - RE-IS-inspirational-security.md
     - RE-IR-interesting-example.md
     - ST-CC-CBEST_CREST.md
-
 ---
