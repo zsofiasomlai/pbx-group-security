@@ -2,7 +2,7 @@
 title       : Lambda and ELK
 key         : TE-LE
 area        : technical
-difficulty  : high
+difficulty  : hard
 skills      : TBC
 ---
 

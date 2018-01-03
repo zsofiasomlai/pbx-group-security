@@ -2,7 +2,7 @@
 title       : Darktrace Alert
 key         : TE-DA
 area        : technical
-difficulty  : high
+difficulty  : hard
 skills      : TBC
 ---
 

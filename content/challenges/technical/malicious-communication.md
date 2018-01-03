@@ -2,7 +2,7 @@
 title       : Malicious Communication
 key         : TE-MC
 area        : technical
-difficulty  : high
+difficulty  : hard
 skills      : TBC
 ---
 
