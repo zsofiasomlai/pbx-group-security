@@ -1,7 +1,7 @@
 ---
-title : Head of Risk (13be857d)
+title   : Head of Risk (13be857d)
 aliases : 13be857d
-type  : for-candidate
+type  :  for-candidate
 challenges:
     - CP-CB-collaboration.md
     - CP-PL-planning.md

@@ -1,7 +1,7 @@
 ---
-title : Head of Risk (14be857d)
+title   : Head of Risk (14be857d)
 aliases : 14be857d
-type  : for-candidate
+type    : for-candidate
 challenges:
     - CP-II-influencing-for-impact.md
     - CP-AD-adaptability.md
