@@ -1,6 +1,6 @@
 ---
 title       : Gap Analysis
-date        : 2018-01-03
+key : RI-GA
 level       : TBC
 area        : risk
 difficulty  : TBC

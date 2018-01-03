@@ -1,6 +1,6 @@
 ---
 title       : Improve on OWASP summit outcomes
-date        : 2018-01-03
+key : RI-OO
 level       : TBC
 area        : risk
 difficulty  : TBC

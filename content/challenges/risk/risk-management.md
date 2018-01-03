@@ -1,6 +1,6 @@
 ---
 title       : Risk Management and Acceptance
-date        : 2018-01-03
+key : RI-RM
 level       : TBC
 area        : risk
 difficulty  : TBC

@@ -1,6 +1,6 @@
 ---
 title       : Risk Assessment
-date        : 2018-01-03
+key : RI-RA
 level       : TBC
 area        : risk
 difficulty  : TBC
