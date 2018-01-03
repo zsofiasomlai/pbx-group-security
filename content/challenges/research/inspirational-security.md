@@ -1,10 +1,10 @@
 ---
 title       : Inspirational Security
 type        : challenges
-key : RE-IS
+key         : RE-IS
 level       : one
 difficulty  : easy
-area        : Research
+area        : research
 skills      : Industry Knowledge
 ---
 Describe three companies who understand security and inspire you:

@@ -1,9 +1,9 @@
 ---
-title       : An Interesting Example
-key : RE-IS
+title       : Interesting Research
+key         : RE-IR
 level       : one
 difficulty  : medium
-area        : Research
+area        : research
 skills      : Research, Passion
 ---
 
