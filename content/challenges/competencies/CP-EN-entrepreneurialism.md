@@ -1,7 +1,7 @@
 ---
 title       : Entrepreneurialism
 key         : CP-EN
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency, Forward Thinking
 difficulty  : expert
 area        : competency
 

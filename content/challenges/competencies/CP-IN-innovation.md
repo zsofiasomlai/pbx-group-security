@@ -1,7 +1,7 @@
 ---
 title       : Innovation
 key         : CP-IN
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset, Competency, Forward Thinking
 difficulty  : hard
 area        : competency
 
