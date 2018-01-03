@@ -1,6 +1,6 @@
 ---
 title       : Risk Rating
-key : RI RR
+key         : RI RR
 level       : TBC
 area        : risk
 difficulty  : TBC

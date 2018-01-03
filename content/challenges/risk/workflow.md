@@ -1,9 +1,8 @@
 ---
 title       : JIRA Workflows
 key         : RI-JW
-level       : TBC
 area        : risk
-difficulty  : TBC
+difficulty  : medium
 skills      : TBC
 ---
 

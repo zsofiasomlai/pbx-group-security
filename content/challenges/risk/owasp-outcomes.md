@@ -1,9 +1,8 @@
 ---
 title       : Improve on OWASP summit outcomes
-key : RI-OO
-level       : TBC
+key         : RI-OO
 area        : risk
-difficulty  : TBC
+difficulty  : hard
 skills      : TBC
 ---
 
