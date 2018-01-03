@@ -8,10 +8,7 @@ difficulty : easy
 questions   :
     - "MA-RM-01: Tell me about a time when you set a positive example that had a significant impact on peers or direct reports."
     - "MA-RM-02: Tell me about a time when you motivated others through your commitment to delivering results."
-    - "MA-RM-03: Describe a time when you found it challenging to lead by example."
-    - "MA-RM-04: Tell me about a time when you demonstrated to others the importance of taking accountability for business outcomes."
-    - "MA-RM-05: Tell me about a situation when you had to admit to making a mistake."
-    - "MA-RM-06: Tell me about a time when you demonstrated to others the importance of being open and respectful."
+    - "MA-RM-03: Tell me about a time when you demonstrated to others the importance of taking accountability for business outcomes."
 desirable :
     - Modelled and encouraged high standards of honesty, integrity, trust, openness, and respect for others
     - Demonstrated a sense of responsibility and commitment to achieving goals/objectives

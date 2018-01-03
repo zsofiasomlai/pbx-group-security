@@ -23,7 +23,7 @@ desirable :
     - Managed competition between individuals or groups to eliminate barriers to building partnerships
     - Provided examples of ways to improve collaborative efforts
 
-bonus points :
+bonus_points :
     - Was a critical contributor during collaborative activities
     - Initiated collaboration as a preventative measure before a problem arose
     - Anticipated and identified concerns of stakeholders to find common ground across interests

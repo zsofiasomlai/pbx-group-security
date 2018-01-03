@@ -6,12 +6,9 @@ required : yes
 skills : Leadership, Mentoring, Behaviour, Mindset, Competency
 difficulty : easy
 questions   :
-    - "MA-TA-01: Without identifying names or companies, describe the most challenging people management situation you have experienced in your role as a manager."
-    - "MA-TA-02: Describe a developmental plan that you successfully implemented with a direct report."
-    - "MA-TA-03: Tell me about a time when you had to give constructive feedback to a direct report that was not well received. How did you handle the situation?"
-    - "MA-TA-04: Tell me about a time when you identified a skill gap on your team. How did you address this issue?"
-    - "MA-TA-05: Describe the steps you have taken to foster a positive team environment that encouraged your direct reports to do their best."
-    - "MA-TA-06: Tell me about a time when you transformed a struggling team member into a major contributor."
+    - "MA-TA-01: Tell me about a time when you had to give constructive feedback to a direct report that was not well received. How did you handle the situation?"
+    - "MA-TA-02: Describe the steps you have taken to foster a positive team environment that encouraged your direct reports to do their best."
+    - "MA-TA-03: Tell me about a time when you transformed a struggling team member into a major contributor."
 desirable :
     - Took corrective action when necessary
     - Addressed concerns of a direct report in a tactful, considerate, and respectful manner

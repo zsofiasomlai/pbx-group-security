@@ -9,7 +9,7 @@ difficulty  : medium
 
 questions   :
     - "CP-FI-02: Tell me about a time when you had to explain financial concepts to various audiences. How did you communicate these concepts effectively?"
-    - "CP-FI-04: Tell me about a time when a financial error was brought to your attention. Who was responsible for the error? How did you resolve the situation?"
+    - "CP-FI-04: Tell me about a time when a financial error was brought to your attention. How did you resolve the situation?"
     - "CP-FI-05: Provide an example of a process/tool you created or updated that resulted in improved workflow, accuracy, or analysis."
 
 other_questions:
@@ -20,7 +20,7 @@ desirable :
     - Was sensitive to the impact of systems and controls on the rhythm of the business/business cycle
     - Demonstrated the ability to communicate and explain financial practices to others
     - Corrected financial errors and/or questionable financial practices in an ethical manner
-bonus points :
+bonus_points :
     - Ensured that timing, content, and communication of controls synchronised to rhythm of business needs
     - Communicated and explained complex financial practices to a wide audience
     - Recognised and corrected financial errors and/or questionable financial practices in an ethical manner
