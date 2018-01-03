@@ -2,7 +2,7 @@
 title       : Risk Management and Acceptance
 key         : RI-RM
 area        : risk
-difficulty  : TBC
+difficulty  : hard
 skills      : TBC
 ---
 

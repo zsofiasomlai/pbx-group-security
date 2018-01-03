@@ -2,7 +2,7 @@
 title       : Risk Frameworks
 key         : RI-RF
 area        : risk
-difficulty  : TBC
+difficulty  : medium
 skills      : TBC
 ---
 

@@ -1,9 +1,8 @@
 ---
 title       : Risk Assessment
 key         : RI-RA
-level       : TBC
 area        : risk
-difficulty  : TBC
+difficulty  : hard
 skills      : TBC
 ---
 

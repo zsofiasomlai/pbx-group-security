@@ -1,9 +1,9 @@
 ---
 title       : Risk Rating
-key         : RI-RR
+key         : RI RR
+area        : risk
 difficulty  : TBC
 skills      : Standards creation
-area        : risk
 ---
 
 How would you define a system for risk rating?

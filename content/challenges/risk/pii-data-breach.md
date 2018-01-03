@@ -2,7 +2,7 @@
 title       : PII Data Breach
 key         : RI-PI
 area        : risk
-difficulty  : TBC
+difficulty  : medium
 skills      : TBC
 ---
 
