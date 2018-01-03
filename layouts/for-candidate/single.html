@@ -48,7 +48,7 @@
 
                     <div class="col-md-12" id="blog-post">
 
-                        <h3>Hi candidate '{{ .Title }}' </h3>
+                        <h3>Hi '{{ .Title }}' candidate </h3>
                         <div id="post-content">
 
                             {{ with .Site.GetPage "page" "challenges/_text/_intro.md" }}{{ .Content }}{{ end }}
@@ -107,7 +107,8 @@
                             {{ end }}
                         </div>
                         <span class="hidden-print">
-                            {{ with .Site.GetPage "page" "challenges/_text/_end.md" }}{{ .Content }}{{ end }}
+                            {{ with .Site.GetPage "page" "challenges/_text/_feedback.md" }}{{ .Content }}{{ end }}
+                            {{ with .Site.GetPage "page" "challenges/_text/_help.md" }}{{ .Content }}{{ end }}
                         </span>
 
                     </div>

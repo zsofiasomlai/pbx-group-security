@@ -11,7 +11,7 @@
             <th>key</th>
             <th>difficulty</th>
             <th>area</th>
-            <!--<th>skills</th>-->
+            <th class="hidden-lg hidden-md">skills</th>
             </thead>
             <tr>
                 <td>{{ .Params.key }}</td>
@@ -22,7 +22,7 @@
                 </td>
                 <!--<td>{{ if .Params.required }} yes {{else}} optional {{end}}</td>-->
                 <td>{{ .Params.area }}</td>
-                <!--<td>{{ .Params.skills }}</td>-->
+                <td class="hidden-lg hidden-md">{{ .Params.skills }}</td>
             </tr>
         </table>
 
