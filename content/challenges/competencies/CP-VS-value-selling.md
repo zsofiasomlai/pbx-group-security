@@ -1,7 +1,7 @@
 ---
 title       : Value Selling
 key         : CP-VS
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset
 difficulty  : hard
 area        : competency
 

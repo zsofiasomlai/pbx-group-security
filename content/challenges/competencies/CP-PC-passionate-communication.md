@@ -2,7 +2,7 @@
 title       : Passionate Communication
 key         : CP-PC
 required    : yes
-skills      : Behaviour, Mindset, Competency, Group Influence
+skills      : Behaviour, Mindset, Group Influence
 difficulty  : medium
 area        : competency
 

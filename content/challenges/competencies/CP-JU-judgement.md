@@ -1,7 +1,7 @@
 ---
 title       : Judgement
 key         : CP-JU
-skills      : Behaviour, Mindset, Competency, Decision Making
+skills      : Behaviour, Mindset, Decision Making
 difficulty  : medium
 area        : competency
 

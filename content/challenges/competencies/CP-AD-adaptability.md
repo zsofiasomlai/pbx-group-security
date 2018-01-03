@@ -2,7 +2,7 @@
 title       : Adaptability
 key         : CP-AD
 difficulty  : medium
-skills      : Behaviour, Mindset, Competency, Adaptability
+skills      : Behaviour, Mindset, Adaptability
 area        : competency
 
 questions   :

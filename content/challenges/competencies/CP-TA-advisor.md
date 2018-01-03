@@ -1,7 +1,7 @@
 ---
 title       : Trusted Advisor
 key         : CP-TA
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset
 difficulty  : expert
 area        : competency
 

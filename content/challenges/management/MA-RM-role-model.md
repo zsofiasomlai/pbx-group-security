@@ -1,7 +1,7 @@
 ---
 title       : Role Model
 key         : MA-RM
-skills      : Leadership, Mentoring, Behaviour, Mindset, Competency
+skills      : Leadership, Mentoring, Behaviour, Mindset
 difficulty  : expert
 area        : management
 
