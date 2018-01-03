@@ -27,7 +27,7 @@ The following challenges should take no longer than 30 - 45 minutes. Complete th
 * Techops, Webops, and Dev teams
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landesk, and DarkTrace
 
-#### NOTE: Issues can NOT be remediated in hours
+
 
 ##### Monday - AWS Root Key
 
