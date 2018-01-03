@@ -8,14 +8,18 @@
     <div class="alert-warning">
         <table class="table">
             <thead>
-            <th>stage</th>
+            <th>key</th>
             <th>difficulty</th>
             <th>area</th>
             <!--<th>skills</th>-->
             </thead>
             <tr>
-                <td>{{ .Params.level }}</td>
-                <td>{{ .Params.difficulty }}</td>
+                <td>{{ .Params.key }}</td>
+                <td>
+                    <span class="difficulty-{{ .Params.difficulty }}">
+                        {{ .Params.difficulty }}
+                    </span>
+                </td>
                 <!--<td>{{ if .Params.required }} yes {{else}} optional {{end}}</td>-->
                 <td>{{ .Params.area }}</td>
                 <!--<td>{{ .Params.skills }}</td>-->
