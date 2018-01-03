@@ -1,7 +1,6 @@
 ---
 title       : CBEST and CREST
-date        : 2018-01-02
-level       : one
+key         : ST-CC
 required    : yes
 difficulty  : medium
 area        : standards

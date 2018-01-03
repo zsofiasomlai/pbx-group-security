@@ -1,11 +1,10 @@
 ---
 title       : Industry Awards
-date        : 2018-01-03
-level       : TBC
+key         : ST-IA
 required    : yes
 difficulty  : TBC
-area        : recognition
-skills      : TBC
+area        : standards
+skills      : TBD
 ---
 
 - Which industry awards have you been presented with?
