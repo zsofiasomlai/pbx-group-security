@@ -1,6 +1,6 @@
 ---
 title       : Risk Rating
-key         : RI RR
+key         : RI-RR
 area        : risk
 difficulty  : TBC
 skills      : Standards creation
