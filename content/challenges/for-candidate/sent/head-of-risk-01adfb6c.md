@@ -1,7 +1,8 @@
 ---
-title : Head of Risk (01adfb6c)
-date  : 2018-01-01
-type  : for-candidate
+title   : Head of Risk (01adfb6c)
+aliases : 01adfb6c
+type    : for-candidate
+
 challenges:
     - CP-AD-adaptability.md
     - collaboration.md
