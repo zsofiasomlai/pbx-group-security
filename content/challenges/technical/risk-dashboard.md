@@ -1,6 +1,6 @@
 ---
 title       : Risk Dashboard
-level       : TBC
+key         : TE-RD
 area        : technical
 difficulty  : TBC
 skills      : TBC

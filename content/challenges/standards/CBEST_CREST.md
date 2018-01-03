@@ -1,7 +1,6 @@
 ---
 title       : CBEST and CREST
 key         : ST-CC
-required    : yes
 difficulty  : medium
 area        : standards
 skills      : TBC

@@ -1,7 +1,6 @@
 ---
 title       : Business Acumen
 key         : CP-BA
-level       : two
 skills      : Behaviour, Mindset, Competency
 difficulty  : easy
 area : Competency

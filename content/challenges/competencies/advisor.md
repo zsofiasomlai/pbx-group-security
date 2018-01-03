@@ -1,7 +1,6 @@
 ---
 title: Trusted Advisor
 key : CP-TA
-level : ungraded
 skills : Behaviour, Mindset, Competency
 difficulty  : easy
 area : Competency

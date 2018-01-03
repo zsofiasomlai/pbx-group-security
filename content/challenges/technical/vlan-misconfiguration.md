@@ -1,6 +1,6 @@
 ---
 title       : VLAN Misconfiguration Identified
-level       : TBC
+key         : TE-VM
 area        : technical
 difficulty  : TBC
 skills      : TBC

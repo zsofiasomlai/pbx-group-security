@@ -1,6 +1,6 @@
 ---
 title       : EC2
-level       : TBC
+key         : TE-LD
 area        : technical
 difficulty  : TBC
 skills      : TBC

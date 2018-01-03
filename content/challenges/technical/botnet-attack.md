@@ -1,6 +1,6 @@
 ---
 title       : Botnet Attack
-level       : TBC
+key         : TE-BA
 area        : technical
 difficulty  : TBC
 skills      : TBC
