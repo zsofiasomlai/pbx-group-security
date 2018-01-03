@@ -6,9 +6,9 @@ difficulty  : expert
 area        : competency
 
 questions :
-    - "CP-EN-01: Tell me about a time when you successfully challenged the opinion of a superior or a proposed strategy."
+    - "CP-EN-01: Describe a time when you successfully challenged the opinion of a superior or a proposed strategy."
     - "CP-EN-02: Provide an example of an idea that you recommended that was not adopted. Why was it rejected?"
-    - "CP-EN-03: Tell me about a time when you took initiative to pursue an idea that you believed would be helpful to your organisation."
+    - "CP-EN-03: Describe a time when you took initiative to pursue an idea that you believed would be helpful to your organisation."
 desirable :
     - Took calculated risks to achieve organisational success
     - Challenged the status quo to improve organisational practices

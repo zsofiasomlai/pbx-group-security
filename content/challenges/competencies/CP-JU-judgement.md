@@ -7,8 +7,8 @@ area        : competency
 
 questions :
     - "CP-JU-01: Describe a situation when you had to make a major decision under time constraints."
-    - "CP-JU-02: Tell me about an unpopular decision you have had to make."
-    - "CP-JU-03: Tell me about a situation when you had multiple alternatives from which to choose. What steps did you take to determine the most appropriate alternative?"
+    - "CP-JU-02: Describe an unpopular decision you have had to make."
+    - "CP-JU-03: Describe a situation when you had multiple alternatives from which to choose. What steps did you take to determine the most appropriate alternative?"
 desirable :
     - Gathered information from various sources prior to making a decision regarding multiple alternatives
     - Requested assistance from appropriate personnel, when necessary

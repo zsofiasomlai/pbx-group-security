@@ -6,9 +6,9 @@ difficulty  : hard
 area        : management
 
 questions   :
-    - "MA-TA-01: Tell me about a time when you had to give constructive feedback to a direct report that was not well received. How did you handle the situation?"
+    - "MA-TA-01: Describe a time when you had to give constructive feedback to a direct report that was not well received. How did you handle the situation?"
     - "MA-TA-02: Describe the steps you have taken to foster a positive team environment that encouraged your direct reports to do their best."
-    - "MA-TA-03: Tell me about a time when you transformed a struggling team member into a major contributor."
+    - "MA-TA-03: Describe a time when you transformed a struggling team member into a major contributor."
 
 desirable :
     - Took corrective action when necessary

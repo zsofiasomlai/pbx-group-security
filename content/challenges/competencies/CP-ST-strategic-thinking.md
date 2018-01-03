@@ -6,9 +6,9 @@ difficulty  : hard
 area        : competency
 
 questions :
-    - "CP-ST-01: Tell me about a time when you developed a research plan to generate strategic customer or product insights."
-    - "CP-ST-02: Tell me about a time when you could anticipate a technology shift."
-    - "CP-ST-03:Tell me about your most successful research contribution."
+    - "CP-ST-01: Describe a time when you developed a research plan to generate strategic customer or product insights."
+    - "CP-ST-02: Describe a time when you could anticipate a technology shift."
+    - "CP-ST-03:Describe your most successful research contribution."
 desirable :
     - Demonstrated insight into community and social trends
     - Identified challenging technical problems and provided creative solutions

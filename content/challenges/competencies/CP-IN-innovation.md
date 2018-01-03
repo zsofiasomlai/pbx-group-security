@@ -6,9 +6,9 @@ difficulty  : hard
 area        : competency
 
 questions :
-    - "CP-IN-01: Tell me about a time when you identified a risk and offered a unique method of addressing the risk."
-    - "CP-IN-02: Tell me about a time when you contributed to the development of an innovative idea that impacted the market, industry, and ecosystem."
-    - "CP-IN-03: Tell me about a time when an innovative product or service you worked on failed. Looking back, what would you have done differently to ensure success?"
+    - "CP-IN-01: Describe a time when you identified a risk and offered a unique method of addressing the risk."
+    - "CP-IN-02: Describe a time when you contributed to the development of an innovative idea that impacted the market, industry, and ecosystem."
+    - "CP-IN-03: Describe a time when an innovative product or service you worked on failed. Looking back, what would you have done differently to ensure success?"
 
 desirable :
     - Identified new ways to apply existing information that improved the customer experience
