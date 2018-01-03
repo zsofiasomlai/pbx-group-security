@@ -2,7 +2,7 @@
 title       : Lambda - Stop EC2 Instances
 key         : TE-LE
 area        : programming
-difficulty  : TBC
+difficulty  : high
 skills      : TBC
 ---
 

@@ -2,7 +2,7 @@
 title       : Industry Awards
 key         : ST-IA
 required    : yes
-difficulty  : TBC
+difficulty  : expert
 area        : standards
 skills      : TBD
 ---

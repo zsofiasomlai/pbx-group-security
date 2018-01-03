@@ -2,7 +2,7 @@
 title       : Risk Dashboard
 key         : TE-RD
 area        : technical
-difficulty  : TBC
+difficulty  : high
 skills      : TBC
 ---
 

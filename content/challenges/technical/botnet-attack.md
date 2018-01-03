@@ -2,7 +2,7 @@
 title       : Botnet Attack
 key         : TE-BA
 area        : technical
-difficulty  : TBC
+difficulty  : high
 skills      : TBC
 ---
 

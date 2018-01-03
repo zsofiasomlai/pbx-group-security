@@ -2,7 +2,7 @@
 title       : Secure Internal Network
 key         : TE-SN
 area        : technical
-difficulty  : TBC
+difficulty  : medium
 skills      : TBC
 ---
 

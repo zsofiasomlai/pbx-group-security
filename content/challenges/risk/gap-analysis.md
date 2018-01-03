@@ -3,7 +3,7 @@ title       : Gap Analysis
 key : RI-GA
 level       : TBC
 area        : risk
-difficulty  : high
+difficulty  : hard
 skills      : TBC
 ---
 
