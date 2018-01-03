@@ -4,4 +4,4 @@ hide    : true
 
 ### Need help
 
-If you need help please [email us](mailto:project-cx@photobox.com)
+If you need support with the recruitment process or have any questions, please [contact us](mailto:project-cx@photobox.com).
