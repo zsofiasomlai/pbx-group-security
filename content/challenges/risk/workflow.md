@@ -11,5 +11,4 @@ Photobox Group Security uses JIRA for risk management and acceptance. Our team, 
 
 Below is a risk acceptance workflow, critique this workflow and tell us what you would do differently.
 
-![risk workflow](/img/risk_workflow.png "Risk Workflow")
 {{< figure src="/img/risk_workflow.png" title="" width="720px" >}}
