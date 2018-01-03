@@ -1,6 +1,6 @@
 ---
 title       : Log Analysis
-level       : TBC
+key         : TE-LA
 area        : technical
 difficulty  : TBC
 skills      : TBC

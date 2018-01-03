@@ -1,6 +1,6 @@
 ---
 title       : Lambda and ELK
-level       : TBC
+key         : TE-LE
 area        : technical
 difficulty  : TBC
 skills      : TBC

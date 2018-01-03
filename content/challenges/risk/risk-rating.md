@@ -1,6 +1,6 @@
 ---
 title       : Risk Rating
-date        : 2018-01-01
+key : RI RR
 level       : TBC
 area        : risk
 difficulty  : TBC

@@ -1,6 +1,6 @@
 ---
 title       : Secure Webserver
-level       : TBC
+key         : TE-WS
 area        : technical
 difficulty  : TBC
 skills      : TBC

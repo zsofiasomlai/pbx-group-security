@@ -1,6 +1,6 @@
 ---
 title       : Risk Frameworks
-date        : 2018-01-03
+key : RI-RF
 level       : TBC
 area        : risk
 difficulty  : TBC

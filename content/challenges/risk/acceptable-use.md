@@ -1,8 +1,8 @@
 ---
 title       : Acceptable Use Policy
-date        : 2018-01-01
+key : RI-AU
 level       : two
-area        : risk
+area        : Risk
 difficulty  : medium
 skills      : TBC
 ---

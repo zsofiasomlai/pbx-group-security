@@ -1,8 +1,7 @@
 ---
 title       : Adaptability
 key         : CP-AD
-level       : one
-difficulty  : medium
+difficulty  : Medium
 skills      : Behaviour
 area        : competency
 

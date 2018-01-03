@@ -1,6 +1,6 @@
 ---
 title       : Secure Internal Network
-level       : TBC
+key         : TE-SN
 area        : technical
 difficulty  : TBC
 skills      : TBC
