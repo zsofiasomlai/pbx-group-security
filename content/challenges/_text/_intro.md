@@ -9,6 +9,6 @@ The next stage of the recruitment process is to complete multiple challenges tha
 
 ### Unique ID
 
-You'll notice a unique ID in brackets at the top of your page, this allows you to remain anonymous during your participation in these challenges, please reference this ID in any communication about this role with Photobox.
+You'll have been provided with a unique ID in the subject line of your challenge email, this allows you to remain anonymous during your participation in these challenges, please reference this ID in any communication about this role with Photobox.
 
 ### Your Current Challenge List
