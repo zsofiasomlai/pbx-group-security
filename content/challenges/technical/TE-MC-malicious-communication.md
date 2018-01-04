@@ -3,7 +3,7 @@ title       : Malicious Communication
 key         : TE-MC
 area        : technical
 difficulty  : hard
-skills      : TBC
+skills      : Situational Awareness, Vulnerability Management, Containment
 ---
 
 The firewall has detected a communication from a client to a malicious website. The site is listed as a malicious site. Only one client is affected.

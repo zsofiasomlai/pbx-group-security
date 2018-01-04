@@ -3,7 +3,7 @@ title       : JIRA Workflows
 key         : RI-JW
 area        : risk
 difficulty  : expert
-skills      : TBC
+skills      : Workflows, Processes, Critical Analysis
 ---
 
 Photobox Group Security uses JIRA for risk management and acceptance.

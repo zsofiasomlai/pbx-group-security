@@ -2,7 +2,7 @@
 title       : Book Review
 key         : RE-PB
 difficulty  : medium
-skills      : Research
+skills      : Research, Analysis, Diplomacy
 area        : research
 ---
 Write a review of a technical or business-related book you have read recently which inspired you.

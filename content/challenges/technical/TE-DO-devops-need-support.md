@@ -3,7 +3,7 @@ title       : DevOps Need Support
 key         : TE-DO
 area        : technical
 difficulty  : medium
-skills      : AWS, Architecture
+skills      : AWS, Architecture, Planning
 ---
 
 DevOps needs support to secure the AWS Platform. They want to implement a Jump-Host Architecture between the internal network and AWS Platform.

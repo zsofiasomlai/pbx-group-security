@@ -3,7 +3,7 @@ title       : Risk Assessment
 key         : RI-RA
 area        : risk
 difficulty  : hard
-skills      : TBC
+skills      : System/Tool Aware, Planning, Risk Assessment
 ---
 
 You have just joined a company and have been given the task of completing risk assessments.

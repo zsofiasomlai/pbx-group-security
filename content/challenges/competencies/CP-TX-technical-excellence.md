@@ -1,7 +1,7 @@
 ---
 title       : Technical Excellence
 key         : CP-TX
-skills      : Behaviour, Mindset
+skills      : Behaviour, Mindset, Technical Growth
 difficulty  : hard
 area        : competency
 

@@ -2,7 +2,7 @@
 title       : Presentation or Blog
 key         : RE-PB
 difficulty  : medium
-skills      : Research
+skills      : Research, Written Ability, Thirst for  Knowledge
 area        : research
 ---
 Create a blog post or presentation about a technical or business-related book you have read recently which inspired you.

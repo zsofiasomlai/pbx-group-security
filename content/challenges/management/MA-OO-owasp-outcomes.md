@@ -1,9 +1,9 @@
 ---
 title       : Improve on OWASP summit outcomes
 key         : MA-OO
-area        : risk
+area        : management
 difficulty  : hard
-skills      : TBC
+skills      : Analysis, Debate, Mindset
 ---
 
 Photobox Group are proud to sponsor the OWASP summit, we believe in the work that is achieved at

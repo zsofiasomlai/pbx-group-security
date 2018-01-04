@@ -3,7 +3,7 @@ title       : EC2 with Vulnerable Site
 key         : TE-VS
 area        : programming
 difficulty  : medium
-skills      : AWS, Scripting
+skills      : AWS, Scripting, Programming
 ---
 
 Create EC2 instance (or container), run a vulnerable website inside it, and:

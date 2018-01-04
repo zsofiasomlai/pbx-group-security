@@ -3,7 +3,7 @@ title       : Testing Vulnerabilities
 key         : SE-TV
 area        : security
 difficulty  : hard
-skills      : Security Research
+skills      : Security Research, Testing, Vulnerability Awareness
 ---
 
 

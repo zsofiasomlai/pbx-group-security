@@ -1,7 +1,7 @@
 ---
 title       : Planning, Organising and Executing
 key         : CP-PL
-skills      : Behaviour, Mindset
+skills      : Behaviour, Mindset, Project Management
 difficulty  : hard
 area        : competency
 questions :

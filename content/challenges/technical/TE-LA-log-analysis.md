@@ -3,7 +3,7 @@ title       : Log Analysis
 key         : TE-LA
 area        : technical
 difficulty  : expert
-skills      : TBC
+skills      : Analysis, AWS, Vulnerability Understanding
 ---
 
 You are given 5 GB, 50 GB or 500 GB of nginx server logs (pick the one you are most comfortable handling). These logs cover a period when we know a high level vulnerability was exposed.

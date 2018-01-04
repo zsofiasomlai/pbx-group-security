@@ -3,10 +3,10 @@ title       : Vulnerabilities Discovered
 key         : SE-VD
 area        : security
 difficulty  : medium
-skills      : Security Research
+skills      : Security Research, Discovery, Situational Awareness
 ---
 
-What kind of vulnerabilities have you discovered in real work applications
+What kind of vulnerabilities have you discovered in real work applications?
 
  - How did you find them?
  - How did you report them?

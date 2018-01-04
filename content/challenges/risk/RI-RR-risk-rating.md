@@ -2,8 +2,8 @@
 title       : Risk Rating
 key         : RI-RR
 area        : risk
-difficulty  : TBC
-skills      : Standards creation
+difficulty  : hard
+skills      : Standards Creation, Scalability, Risk Management
 ---
 
 How would you define a system for risk rating?

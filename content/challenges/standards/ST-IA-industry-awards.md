@@ -4,7 +4,7 @@ key         : ST-IA
 required    : yes
 difficulty  : expert
 area        : standards
-skills      : TBD
+skills      : Industry Recognition, Reputation, Leader
 ---
 
 - Which industry awards have you been presented with?

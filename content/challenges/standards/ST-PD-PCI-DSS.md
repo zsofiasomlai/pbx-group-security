@@ -3,7 +3,7 @@ title       : PCI DSS
 key         : ST-PD
 difficulty  : medium
 area        : standards
-skills      : PCI DSS
+skills      : PCI DSS, Compliance, Security
 ---
 
 Define your involvement with PCI/DSS;

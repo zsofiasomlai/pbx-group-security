@@ -1,7 +1,7 @@
 ---
 title       : Deliver Results Through Teamwork
 Key         : MA-DR
-skills      : Leadership, Mentoring, Behaviour, Mindset,
+skills      : Leadership, Mentoring, Prioritisation
 difficulty  : expert
 area        : management
 

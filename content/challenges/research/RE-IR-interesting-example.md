@@ -4,7 +4,7 @@ key         : RE-IR
 level       : one
 difficulty  : medium
 area        : research
-skills      : Research, Passion
+skills      : Research, Passion, Growth
 ---
 
 Describe something technology related that you've done recently that is cool and interesting:

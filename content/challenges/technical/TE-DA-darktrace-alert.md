@@ -3,7 +3,7 @@ title       : Darktrace Alert
 key         : TE-DA
 area        : technical
 difficulty  : hard
-skills      : TBC
+skills      : Briefing, Analysis, Planning
 ---
 
 DarkTrace (AI-based network IDS) raises an alert caused by the download of an unknown executable by a user with administrator privileges. Further analysis of DarkTrace logs for the affected device shows unusual network activity.

@@ -3,7 +3,7 @@ title       : Challenge of Recruiting
 key         : MA-CR
 level       : three
 difficulty  : hard
-skills      : Leadership, Team Bulding
+skills      : Leadership, Team Building, Team Growth
 area        : management
 ---
 How would you build a high performing team?

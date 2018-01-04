@@ -3,7 +3,7 @@ title       : VLAN Misconfiguration Identified
 key         : TE-VM
 area        : technical
 difficulty  : hard
-skills      : TBC
+skills      : Secure Architecture, Vulnerability Management, Incident Response
 ---
 
 A misconfiguration is identified in the VLAN configuration. Users in the guest wifi can access internal systems.

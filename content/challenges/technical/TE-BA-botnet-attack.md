@@ -3,7 +3,7 @@ title       : Botnet Attack
 key         : TE-BA
 area        : technical
 difficulty  : hard
-skills      : TBC
+skills      : Situational Awareness, Security, Analysis
 ---
 
 A distributed botnet (from multiple IPs) is hitting one of our websites and is creating new accounts at a rate of 4 per second.

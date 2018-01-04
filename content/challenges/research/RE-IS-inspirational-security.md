@@ -5,7 +5,7 @@ key         : RE-IS
 level       : one
 difficulty  : medium
 area        : research
-skills      : Industry Knowledge
+skills      : Industry Knowledge, Passion, Aspirations
 ---
 Describe three companies who understand security and inspire you:
 
