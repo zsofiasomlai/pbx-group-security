@@ -1,6 +1,6 @@
 ---
 title       : EC2 with Vulnerable Site
-key         : TE-VS
+key         : PR-VS
 area        : programming
 difficulty  : medium
 skills      : AWS, Scripting, Programming

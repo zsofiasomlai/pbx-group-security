@@ -1,9 +1,9 @@
 ---
 title       : Training - Creation and Delivery
-key         : CP-TR
+key         : RE-TR
 skills      : Planning, Influencing, Knowledge Sharing
 difficulty  : medium
-area        : competency
+area        : research
 ---
 
 Provide details of training that you have delivered recently

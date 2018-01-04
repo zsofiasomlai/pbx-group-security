@@ -1,7 +1,7 @@
 ---
 title       : PII Data Breach
-key         : RI-PI
-area        : risk
+key         : CO-PI
+area        : compliance
 difficulty  : medium
 skills      : Situational Awareness, Data Protection, GDPR
 ---

@@ -1,9 +1,9 @@
 ---
 title       : Boardroom Reporting and Dashboards
-key         : CP-BR
+key         : CO-BR
 skills      : Adaptability, Visualisation, Tailoring Information
 difficulty  : medium
-area        : competency
+area        : compliance
 ---
 
 Detail a boardroom reporting scenario that you have led, where the individuals in the room may have less of an understanding of the subject matter.

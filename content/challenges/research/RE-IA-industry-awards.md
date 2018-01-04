@@ -1,9 +1,9 @@
 ---
 title       : Industry Awards
-key         : ST-IA
+key         : RE-IA
 required    : yes
 difficulty  : expert
-area        : standards
+area        : research
 skills      : Industry Recognition, Reputation, Leader
 ---
 

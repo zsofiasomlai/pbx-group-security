@@ -1,6 +1,6 @@
 ---
-title       : Trust Advisor
-key         : ST-TA
+title       : Standards Advisor
+key         : ST-SA
 required    : yes
 difficulty  : expert
 area        : standards
