@@ -1,6 +1,6 @@
 ---
 title       : Lambda - Stop EC2 Instances
-key         : TE-LE
+key         : PR-LE
 area        : programming
 difficulty  : hard
 skills      : Logs, Programming, Analysis

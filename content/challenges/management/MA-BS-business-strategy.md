@@ -1,7 +1,7 @@
 ---
 title       : Business Strategies
 key         : MA-BS
-area        : risk
+area        : management
 difficulty  : hard
 skills      : Strategic Thinking, Planning, Situational Awareness
 ---
