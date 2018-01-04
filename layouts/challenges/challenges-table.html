@@ -109,7 +109,15 @@
                                                                     {{ .Params.difficulty }}
                                                                 </span>
                                                             </td>
-                                                            <td class="text-center key">{{ .Params.Key }}</td>
+                                                            <td class="text-center key">
+
+                                                                <span class="size hidden-print">
+                                                                    <a href="{{ .Permalink}}">{{ .Params.Key }}</a>
+                                                                </span>
+                                                                <span class="size visible-print">
+                                                                    {{ .Params.Key }}
+                                                                </span>
+                                                            </td>
                                                         </tr>
                                                     {{ end }}
                                                 </table>
