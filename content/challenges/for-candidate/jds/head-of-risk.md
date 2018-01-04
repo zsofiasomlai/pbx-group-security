@@ -17,7 +17,7 @@ aliases :
     - 4d6492dd
     - 4e744b01
     - 4f0a74b7
-    - 50120c44
+
 
 type  :  for-candidate
 challenges:
