@@ -33,5 +33,5 @@ challenges:
     - RI-RM-risk-management.md
     - CO-PI-pii-data-breach.md
     - RI-GA-gap-analysis.md
-    - RI-RF-risk-framework.md
+    - RE-IS-inspirational-security.md
 ---
