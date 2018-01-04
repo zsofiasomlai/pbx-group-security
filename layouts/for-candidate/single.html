@@ -49,7 +49,7 @@
                     <div class="col-md-12" id="blog-post">
 
                         <!--<h3>Hi {{ index .Aliases 0 }} </h3>-->
-                        <h3>Welcome to your Challenge's page </h3>
+                        <h3>Welcome to your Challenge page </h3>
                         <div id="post-content">
 
                             {{ with .Site.GetPage "page" "challenges/_text/_intro.md" }}{{ .Content }}{{ end }}
@@ -76,7 +76,7 @@
                             {{ with .Site.GetPage "page" "challenges/_text/_how_to_submit.md" }}{{ .Content }}{{ end }}
 
                         </div>
-                        <h3>Challenge's Details</h3>
+                        <h3>Challenge Details</h3>
                         <div>
                             {{ range $index, $element :=.Params.challenges}}
 

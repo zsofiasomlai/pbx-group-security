@@ -1,5 +1,5 @@
 ---
-title : Challenge's table
+title : Challenges table
 layout: challenges-table
 ---
 
