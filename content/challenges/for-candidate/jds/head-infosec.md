@@ -15,6 +15,11 @@ aliases :
     - 7c55df32
     - 75015b46
     - 77e653f4
+    - 815670b7
+    - 83d457c6
+    - 878cac1c
+    - 882cb6ff
+    - 8d0d7c2b
 
     
 type  :  for-candidate
