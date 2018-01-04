@@ -25,10 +25,13 @@
       .challenge-card .content {
           padding:10px;
       }
-
+      .challenge-card img {
+          width:300px;
+          text-align:center;
+          display:block;
+      }
   </style>
   <body>
-
     <div id="all">
 
         <header>
@@ -45,7 +48,7 @@
 
                     <div class="col-md-12" id="blog-post">
 
-                        <h3>Hi candidate '{{ .Title }}' </h3>
+                        <h3>Hi {{ index .Aliases 0 }} </h3>
                         <div id="post-content">
 
                             {{ with .Site.GetPage "page" "challenges/_text/_intro.md" }}{{ .Content }}{{ end }}
@@ -72,7 +75,7 @@
                             {{ with .Site.GetPage "page" "challenges/_text/_how_to_submit.md" }}{{ .Content }}{{ end }}
 
                         </div>
-                        <h3>Challenges</h3>
+                        <h3>Challenge's Details</h3>
                         <div>
                             {{ range $index, $element :=.Params.challenges}}
 
@@ -103,8 +106,9 @@
                                     </div>
                             {{ end }}
                         </div>
-                        <span class="hidden-print">
-                            {{ with .Site.GetPage "page" "challenges/_text/_end.md" }}{{ .Content }}{{ end }}
+                        <span class="__hidden-print">
+                            {{ with .Site.GetPage "page" "challenges/_text/_feedback.md" }}{{ .Content }}{{ end }}
+                            {{ with .Site.GetPage "page" "challenges/_text/_help.md" }}{{ .Content }}{{ end }}
                         </span>
 
                     </div>

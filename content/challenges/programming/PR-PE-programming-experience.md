@@ -2,8 +2,8 @@
 title       : Programming Experience
 key         : PR-PE
 area        : programming
-difficulty  : hard
-skills      : medium
+difficulty  : medium
+skills      : Programming, Coding, Development, AI
 ---
 
 How much programming experience do you have?

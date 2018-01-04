@@ -1,14 +1,22 @@
 ---
-title   : Head of Risk (01adfb6c)
+title   : Head of Risk and Compliance (01adfb6c)
 aliases : 01adfb6c
 type    : for-candidate
 
 challenges:
     - CP-AD-adaptability.md
-    - CP-CB-collaboration.md
-    - CP-FI-finance.md
-    - RE-IS-inspirational-security.md
-    - RE-IR-interesting-example.md
+    - MA-TA-attract-talent.md
+    - PR-PE-programming-experience.md
+    - RE-TL-tech-leader.md
+    - RI-PI-pii-data-breach.md
     - ST-CC-CBEST_CREST.md
+
+next_challenges:
+    - CP-CB-collaboration.md
+    - CP-PL-planning.md
+    - MA-RM-role-model.md
+    - RE-OS-open-source.md
+    - RI-JW-jira-workflow.md
+    - RI-RM-risk-management.md
 
 ---

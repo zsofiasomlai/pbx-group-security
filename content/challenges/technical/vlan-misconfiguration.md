@@ -28,5 +28,5 @@ A misconfiguration is identified in the VLAN configuration. Users in the guest w
 * Techops, Webops, and Dev teams
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks, and DarkTrace
 
-#### NOTE: Issues can NOT be remediated in hours
+
 

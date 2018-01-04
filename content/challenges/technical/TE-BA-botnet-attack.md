@@ -24,5 +24,5 @@ A distributed botnet (from multiple IPs) is hitting one of our websites and is c
 * Techops, Webops, and Dev teams
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks, and DarkTrace
 
-#### NOTE: Issues can NOT be remediated in hours
+
 

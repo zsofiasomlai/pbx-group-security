@@ -1,14 +1,14 @@
 ---
 title       : Technical Excellence
 key         : CP-TX
-skills      : Behaviour, Mindset, Competency
+skills      : Behaviour, Mindset
 difficulty  : hard
 area        : competency
 
 questions :
     - "CP-TX-01: Describe a situation when you sought out a new engineering or project/program management challenge beyond your role requirements."
-    - "CP-TX-02: Tell me about a time when you sought out a challenging technical problem."
-    - "CP-TX-03: Tell me about a time when you mentored others in your area of technical expertise."
+    - "CP-TX-02: Describe a time when you sought out a challenging technical problem."
+    - "CP-TX-03: Describe a time when you mentored others in your area of technical expertise."
 desirable :
     - Demonstrated knowledge of technical concepts, facts, and principles of subject matter domain
     - Applied technical thoroughness and rigor to programs, products, and services

@@ -6,6 +6,7 @@ difficulty  : medium
 skills      : Security Research
 ---
 
+
 In order to (1) conclusively show existing security vulnerabilities (and the various ways they can be exploited) and (2) 
 once the code has been modified to exclude them, prove that this has been done, how would you set up automated tests?
 

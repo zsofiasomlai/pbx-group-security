@@ -1,8 +1,8 @@
 <style>
     .questions {
-        padding-left:10px;
+        padding-left :10px;
         padding-right:10px;
-        margin-top: -20px;
+        margin-top   : 0px;
 
     }
 
@@ -17,11 +17,11 @@
 
 {{ if .Params.questions }}
     <div class="questions">
-        <h5>Scenarios:</h5>
+        <!--<h5>Scenarios:</h5>
 
         <p>
             Pick one of the following scenarios.
-        </p>
+        </p>-->
         {{ range .Params.questions }}
             {{ $key   := index (split . ":")  0}}
             {{ $value := index (split . ":")  1}}

@@ -3,7 +3,7 @@ title       : CBEST and CREST
 key         : ST-CC
 difficulty  : hard
 area        : standards
-skills      : TBC
+skills      : Threat Assessment, Compliance, Security
 ---
 
 Define your involvement with CBEST and CREST;
@@ -14,4 +14,4 @@ Define your involvement with CBEST and CREST;
   - What was the most challenging part of the exam?
   - In which area of the exam did you excel?
   - In which area of the exam did you find difficult?
- - What kind of CBEST/CREST engagements are you involved in?
+ - What kind of CBEST/CREST engagements have you been involved in?

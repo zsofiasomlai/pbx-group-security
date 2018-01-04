@@ -24,5 +24,5 @@ Describe how you would proceed to achieve the same understanding in TechOps, Dev
 * Techops, Webops, and Dev teams
 * Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks, and DarkTrace
 
-#### NOTE: Issues can NOT be remediated in hours
+
 

@@ -3,10 +3,10 @@ title       : Image Download
 key         : TE-ID
 area        : technical
 difficulty  : medium
-skills      : TBC
+skills      : Situational Awareness, Data Protection, GDPR
 ---
 
-A vulnerability is discovered in an image server that allows the download of users’ images from live servers. This was created by the dev team to help debug problems in production and factories. The key questions are:
+A vulnerability was discovered in an image server that allowed the download of users’ images from live servers. This was created by the dev team to help debug problems in production and factories. The key questions are:
 
 - Who is using this today?
 - Who knows about this?
@@ -24,7 +24,6 @@ A vulnerability is discovered in an image server that allows the download of use
 **Resources and Technologies available:**
 
 * Techops, Webops, and Dev teams
-* Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls, Landeks, and DarkTrace
+* Slack, Jira, Confluence, ELK, Grafana, Nagios, Akamai, AWS, Cisco Firewalls
 
-#### NOTE: Issues can NOT be remediated in hours
 
