@@ -48,7 +48,8 @@
 
                     <div class="col-md-12" id="blog-post">
 
-                        <h3>Hi {{ index .Aliases 0 }} </h3>
+                        <!--<h3>Hi {{ index .Aliases 0 }} </h3>-->
+                        <h3>Welcome to your Challenge's page </h3>
                         <div id="post-content">
 
                             {{ with .Site.GetPage "page" "challenges/_text/_intro.md" }}{{ .Content }}{{ end }}
