@@ -21,7 +21,6 @@ aliases :
     - 2d15f9e6
     - 969376a3
     
-
 type  :  for-candidate
 challenges:
     - CP-ST-strategic-thinking.md
