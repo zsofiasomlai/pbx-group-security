@@ -1,7 +1,7 @@
 ---
 title   : Head of InfoSec
 aliases : 
-    - 4f0a74b7
+    -
     
 type  :  for-candidate
 
