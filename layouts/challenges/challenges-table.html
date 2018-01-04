@@ -41,6 +41,9 @@
                     font-size: 100%;
                     margin-bottom:0px;
                 }
+                .challenge-area thead {
+                    font-size: 75%;
+                }
                 .challenge-area table td {
                     padding-bottom  : 2px !important;
                     padding-top     : 2px !important;
@@ -58,6 +61,18 @@
                     <div class="row">
                         <div class="col-md-12">
                             {{ .Content }}
+                            {{ $challenges := where $.Site.Pages "Section" "challenges" }}
+
+                            <!-- this adds to Scratch a mapping of all usages of challenges -->
+                            {{ range where $challenges ".Params.challenges" "!=" nil }}
+                                {{ range .Params.challenges }}
+                                    {{ with $.Site.GetPage "page" . }}
+                                        {{ $.Scratch.Add .Params.key 1 }}
+                                    {{ end }}                             
+                                {{ end }}
+
+                            {{ end}}
+
                             {{ $challenges := where $.Site.Pages "Section" "challenges" }}
                             {{ $byArea     := $challenges.GroupByParam "area" }}
                             {{ $len        := len $byArea }}
@@ -78,21 +93,23 @@
                                                 </div>
 
                                                 <table class="table">
-                                                    <!--<thead>-->
-                                                        <!--<th>key</th>-->
-                                                        <!--<th>Title</th>-->
-                                                        <!--<th>Difficulty</th>-->
-                                                    <!--</thead>-->
+                                                    <thead>
+                                                        <th>Title</th>
+                                                        <th class="text-center">Used</th>
+                                                        <th class="text-center">Difficulty</th>
+                                                        <th class="text-center">key</th>
+                                                    </thead>
                                                     {{ range .Pages }}
                                                         <tr>
 
                                                             <td>{{ .Params.Title }}</td>
-                                                            <td class="difficulty">
+                                                            <td class="text-center difficulty" >{{ $.Scratch.Get .Params.Key }} </td>
+                                                            <td class="text-center difficulty">
                                                                 <span class="difficulty-{{ .Params.difficulty }}">
                                                                     {{ .Params.difficulty }}
                                                                 </span>
                                                             </td>
-                                                            <td class="key">{{ .Params.Key }}</td>
+                                                            <td class="text-center key">{{ .Params.Key }}</td>
                                                         </tr>
                                                     {{ end }}
                                                 </table>
