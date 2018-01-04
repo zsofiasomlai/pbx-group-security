@@ -1,0 +1,30 @@
+---
+hide    : true
+---
+
+Your application with Photobox Group -
+
+
+Hi
+
+Thank you for your application for the role of Head of Risk and Compliance with Photobox Group Security.
+
+Our recruitment process involves a number of stages. The next stage gives you the opportunity to demonstrate your ability through the completion of personalised challenges that match the role you have applied for, your CV and previous experience.
+
+Please access your personalised challenges at https://pbx-group-security.com/
+
+Below, you'll find some useful links that will help you with your application and give you an understanding of how we think about security:
+
+ - About us (https://pbx-group-security.com/about-us/)
+ - How to submit your responses (https://pbx-group-security.com/page/submit-using-git-repo/)
+ - Why we ask our applicants to complete challenges -  Dinis Cruz, CISO (https://pbx-group-security.com/blog/2017/12/11/why-challenges/)
+ - Why join Photobox Group Security -  Dinis Cruz, CISO (https://pbx-group-security.com/blog/2017/12/11/why-join-photobox-group-security/)
+ - How we think about security - Richard Orme, CTO (https://pbx-group-security.com/blog/2017/12/17/how-we-think-about-security/)
+
+To help centralise all communications with you, we will be using project-cx@photobox.com for all email comms, please add this address to your contacts so we don't end up in your spam/junk folder.
+
+We look forward to receiving your responses to these challenges.
+
+
+Dinis Cruz
+CISO
