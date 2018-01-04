@@ -11,8 +11,8 @@ type  :  for-candidate
 challenges:
     - CP-CB-collaboration.md
     - CP-FI-finance.md
-    - SC-VD-vulnerabilities-discovered.md
-    - TE-DB-dashboards.md
     - ST-IS-iso-standards.md
+    - SC-VD-vulnerabilities-discovered.md
     - RE-IS-inspirational-security.md
+    - TE-DB-dashboards.md
 ---
