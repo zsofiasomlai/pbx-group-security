@@ -2,6 +2,7 @@
 title   : Head of Risk and Compliance
 aliases : 
     - 155b508a
+    - 1c5de832
 
 type  :  for-candidate
 challenges:
