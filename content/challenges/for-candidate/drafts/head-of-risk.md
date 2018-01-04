@@ -1,6 +1,6 @@
 ---
-title   : Head of Risk and Compliance (13be857d)
-aliases : 13be857d
+title   : Head of Risk and Compliance
+aliases : Head of Risk
 type  :  for-candidate
 challenges:
     - CP-II-influencing-for-impact.md
