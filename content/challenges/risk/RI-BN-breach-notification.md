@@ -2,7 +2,7 @@
 title     : GDPR Breach Notification to EU Regulator
 key       : RI-BN
 level     : one
-difficulty: medium
+difficulty: expert
 skills    : GDPR knowledge
 area      : risk
 ---

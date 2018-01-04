@@ -1,6 +1,6 @@
 ---
 title   : Head of Risk and Compliance
-aliases : 
+aliases :
 type  :  for-candidate
 challenges:
     - CP-II-influencing-for-impact.md

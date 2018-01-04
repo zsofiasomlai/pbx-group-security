@@ -2,7 +2,7 @@
 title       : Bug Bounties
 key         : SE-BB
 area        : security
-difficulty  : hard
+difficulty  : expert
 skills      : Security Research
 ---
 

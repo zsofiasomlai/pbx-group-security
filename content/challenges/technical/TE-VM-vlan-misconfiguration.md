@@ -2,7 +2,7 @@
 title       : VLAN Misconfiguration Identified
 key         : TE-VM
 area        : technical
-difficulty  : high
+difficulty  : hard
 skills      : TBC
 ---
 
