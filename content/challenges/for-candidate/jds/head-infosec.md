@@ -10,6 +10,11 @@ aliases :
     - 67b0b941
     - 6aa35b69
     - 6d750427
+    - 71e08ca5
+    - 742f2c2f
+    - 7c55df32
+    - 75015b46
+    - 77e653f4
 
     
 type  :  for-candidate
