@@ -8,6 +8,10 @@ aliases :
     - 22a3c156
     - 2bfd1608
     - 2d0846f3
+    - 31ddd910
+    - 33a78d41
+    - 354b8c8f
+    - 377276c5
 
 type  :  for-candidate
 challenges:
