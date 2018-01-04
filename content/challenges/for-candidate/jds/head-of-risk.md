@@ -12,6 +12,11 @@ aliases :
     - 33a78d41
     - 354b8c8f
     - 377276c5
+    - 43141c9d
+    - 465d4d41
+    - 4d6492dd
+    - 4e744b01
+    - 4f0a74b7
 
 type  :  for-candidate
 challenges:
