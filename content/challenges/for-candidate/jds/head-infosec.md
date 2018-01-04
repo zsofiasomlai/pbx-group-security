@@ -5,6 +5,12 @@ aliases :
     - 57e6798c
     - 5e222572
     - 5e8e3b12
+    - 6108118f
+    - 611f2f7d
+    - 67b0b941
+    - 6aa35b69
+    - 6d750427
+
     
 type  :  for-candidate
 
