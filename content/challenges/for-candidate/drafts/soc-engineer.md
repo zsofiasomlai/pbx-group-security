@@ -7,6 +7,6 @@ challenges:
     - SC-TV-testing-vulnerabilities.md
     - PR-LE-lambda-stop-ec2.md
     - TE-AW-aws-root-key.md
-
+    - TE-BA-botnet-attack.md
 ---
 
