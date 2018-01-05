@@ -35,9 +35,11 @@
                                 </thead>
                                 <tbody>
                                 {{ range where .Data.Pages "Params.contract_type" "Permanent" }}
-                                  <tr>
-                                      {{ partial "roles/contract_td.html" . }}
-                                  </tr>
+                                    {{ if ne .Params.hide true}}
+                                        <tr>
+                                            {{ partial "roles/contract_td.html" . }}
+                                        </tr>
+                                    {{ end}}
                                 {{ end }}
                                 </tbody>
 
