@@ -45,14 +45,15 @@
 
                         <div class="row_Parent">
                             <div class="row">
-                                <div class="col-md-4">{{ partial "widgets/card.html" (dict "key" "The Role"          "value" .Content) }}</div>
-                                <div class="col-md-8">{{ partial "widgets/card.html" (dict "key" "What will you do?" "value" .Params.what_will_you_do) }}</div>
+                                <div class="col-md-12">{{ partial "widgets/card.html" (dict "key" "The Role"          "value" .Content) }}</div>
+                                <div class="col-md-12">{{ partial "widgets/card.html" (dict "key" "What will you do?" "value" .Params.what_will_you_do) }}</div>
 
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-4">{{ partial "widgets/card.html" (dict "key" "Misc details"        "value" .Params.tech_stack      ) }}</div>
-                            <div class="col-md-8">{{ partial "widgets/card.html" (dict "key" "Who are you?"      "value" .Params.who_are_you     ) }}</div>
+                            <div class="col-md-12">{{ partial "widgets/card.html" (dict "key" "Who are you?"          "value" .Params.who_are_you     ) }}</div>
+                            <div class="col-md-12">{{ partial "widgets/card.html" (dict "key" "Misc details"          "value" .Params.tech_stack      ) }}</div>
+
                         </div>
 
                         <div>
