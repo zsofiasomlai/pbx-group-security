@@ -3,7 +3,7 @@ title         : Head of InfoSec
 date          : 2017-12-06
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
-apply_Link    : https://www.linkedin.com/jobs/view/528061818
+apply_Link    : https://www.linkedin.com/jobs/view/553980548/
 ---
 
 ## The Role
