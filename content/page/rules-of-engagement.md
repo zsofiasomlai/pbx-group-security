@@ -10,7 +10,6 @@ Photobox Group are not looking to work with recruitment agencies for any permane
 
 If you have any suitable candidates for the contract positions listed, please [email us](mailto:project-cx@photobox.com).
 
-{::nomarkdown}
 <!-- HTML CODE-->
 
                         <div>
