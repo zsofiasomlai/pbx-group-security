@@ -12,29 +12,6 @@ If you have any suitable candidates for the contract positions listed, please [e
 
 <div>
                             <p>{{ .Content }} </p>
-
-                            <h2>Permanent Positions</h2>
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th> Role           </th>
-                                    <th> Contract Type  </th>
-                                    <th> Location       </th>
-                                    <th> Apply          </th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                {{ range where .Data.Pages "Params.contract_type" "Permanent" }}
-                                    {{ if ne .Params.hide true}}
-                                        <tr>
-                                            {{ partial "roles/contract_td.html" . }}
-                                        </tr>
-                                    {{ end}}
-                                {{ end }}
-                                </tbody>
-
-                            </table>
-
                             <h2>Contract Positions</h2>
 
                             <table class="table">
