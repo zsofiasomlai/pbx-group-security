@@ -38,6 +38,9 @@
                 </div>
                 <!-- /.row -->
 
+	{{ with .Site.Params.copyright }}
+	{{ . | markdownify }}
+	{{ end }}
             </div>
             <!-- /.container -->
 

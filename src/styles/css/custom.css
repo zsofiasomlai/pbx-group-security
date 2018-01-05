@@ -33,3 +33,23 @@
   text-decoration: none;
   border-color: #8FC43E;
 }
+
+
+</div>
+
+@media only screen and (min-width : 481px) {
+   .flex-row.row {
+	 display: flex;
+	 flex-wrap: wrap;
+   }
+   .flex-row.row > [class*='col-'] {
+	 display: flex;
+	 flex-direction: column;
+   }
+  .flex-row.row:after,
+  .flex-row.row:before {
+	 display: flex;
+  }
+}
+
+
