@@ -62,8 +62,8 @@
                             {{ with .Site.GetPage "page" "roles/_text/_how-to-apply_new-design.md"  }}{{ .Content }}{{ end }}
                         </div>
 
+                        {{ with .Site.GetPage "page" .Params.challenges_page }}
 
-                        {{ with .Site.GetPage "page" "challenges/for-candidate/jds/head-infosec.md" }}
                         {{ partial "challenge/challenges-details.html" .}}
                         {{ end }}
 

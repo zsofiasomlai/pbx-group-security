@@ -1,5 +1,5 @@
 ---
-title : Cyber Security Analyst
+title : SOC Engineer and Incident Response
 type  : for-candidate
 challenges:
     - CP-AD-adaptability.md

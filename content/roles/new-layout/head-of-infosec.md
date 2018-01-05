@@ -5,6 +5,7 @@ layout          : new-layout
 date            : 2017-12-06
 contract_type   : Permanent
 location        : London, Paris, Valencia or Munich
+challenges_page : challenges/for-candidate/jds/head-infosec.md
 apply_Link      : https://www.linkedin.com/jobs/view/528061818
 
 what_will_you_do:
