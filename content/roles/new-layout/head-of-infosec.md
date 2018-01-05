@@ -1,6 +1,6 @@
 ---
 hide            : true
-title           : (test) Head of InfoSec
+title           : Head of InfoSec (new layout)
 layout          : new-layout
 date            : 2017-12-06
 contract_type   : Permanent
