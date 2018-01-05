@@ -57,9 +57,8 @@
                     <div id="post-content">
                         {{ .Content }}
 
-                        {{ with .Site.GetPage "page" "_why-join-pbx.md" }}{{ .Content }}{{ end }}
-
-                        {{ with .Site.GetPage "page" "_how-to-apply.md" }}{{ .Content }}{{ end }}
+                        {{ with .Site.GetPage "page" "roles/_text/_why-join-pbx.md" }}{{ .Content }}{{ end }}
+                        {{ with .Site.GetPage "page" "roles/_text/_how-to-apply.md" }}{{ .Content }}{{ end }}
                     </div>
 
                     <!-- /#post-content -->

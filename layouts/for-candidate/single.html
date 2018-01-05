@@ -1,36 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+  {{ partial "head.html" .              }}
+  {{ partial "css/print-fixes.html"     }}
+  {{ partial "css/challenge-card.html"  }}
 
-  {{ partial "css/print-fixes.html" }}
 
-  <style>
-
-      .challenge-card .title {
-          border-top-left-radius : 10px;
-          border-top-right-radius: 10px;
-          padding                : 10px;
-          color                  : white;
-          background-color       : #8fc43e;
-          font-size              : 125%;
-      }
-
-      .challenge-card {
-          border-radius: 10px;
-          background: #F2F2F2;
-          border: 1px solid;
-          margin-bottom:20px
-      }
-      .challenge-card .content {
-          padding:10px;
-      }
-      .challenge-card img {
-          width:300px;
-          text-align:center;
-          display:block;
-      }
-  </style>
   <body>
     <div id="all">
 
@@ -76,37 +51,10 @@
                             {{ with .Site.GetPage "page" "challenges/_text/_how_to_submit.md" }}{{ .Content }}{{ end }}
 
                         </div>
-                        <h3>Challenge Details</h3>
-                        <div>
-                            {{ range $index, $element :=.Params.challenges}}
 
-                                {{ if modBool $index 3 }}
-                                    </div>
-                                    <div  class="row">
-                                {{ end }}
+                        {{ partial "challenge/challenges-details.html" .}}
 
-                                    <div class="col-md-4">
-                                        {{ with $.Site.GetPage "page" . }}
 
-                                            <div class="challenge-card">
-                                                <div class="title">#{{ add $index 1 }}: {{.Title}}
-                                                    <span class="hidden-print">
-                                                        <a href="{{$.Site.Params.ghrepo}}edit/master/content/{{.File.Path}}" target="_blank"><i class="fa fa-pencil-square-o"></i></a>
-                                                    </span>
-                                                </div>
-
-                                                {{ partial "challenge/metadata-table.html" . }}
-
-                                                <div class="content">
-                                                    {{ .Content }}
-                                                </div>
-                                                {{ partial "challenge/questions.html" . }}
-
-                                            </div>
-                                        {{ end }}
-                                    </div>
-                            {{ end }}
-                        </div>
                         <span class="__hidden-print">
                             {{ with .Site.GetPage "page" "challenges/_text/_feedback.md" }}{{ .Content }}{{ end }}
                             {{ with .Site.GetPage "page" "challenges/_text/_help.md" }}{{ .Content }}{{ end }}

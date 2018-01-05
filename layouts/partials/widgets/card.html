@@ -1,0 +1,16 @@
+<div class="card">
+    <div class="key">
+        {{ .key }}
+    </div>
+    <div class="value">
+        {{if eq (printf "%T" .value) "[]string" }}
+            <ul>
+                {{ range .value}}
+                    <li>{{ . }}.</li>
+                {{ end }}
+            </ul>
+        {{else}}
+            {{ .value }}
+        {{ end }}
+    </div>
+</div>
