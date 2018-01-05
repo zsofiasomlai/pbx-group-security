@@ -3,7 +3,7 @@ title         : Head of Detect
 date          : 2017-12-06
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
-apply_Link    : https://www.linkedin.com/jobs/view/528052483/
+apply_Link    : https://www.linkedin.com/jobs/view/547436421/
 ---
 
 ## The Role
