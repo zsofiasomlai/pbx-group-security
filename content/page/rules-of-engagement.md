@@ -12,7 +12,11 @@ If you have any suitable candidates for the contract positions listed, please [e
 
 
 <!-- HTML CODE-->
+
                         <div>
+                        
+                            <h2>Contract Positions</h2>
+
                             <table class="table">
                                 <thead>
                                 <tr>
@@ -29,6 +33,7 @@ If you have any suitable candidates for the contract positions listed, please [e
                                 </tr>
                                 {{ end }}
                                 </tbody>
-                            </table>
-                        </div>
 
+                            </table>
+
+                        </div>
