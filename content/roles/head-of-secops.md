@@ -3,7 +3,7 @@ title         : Head of SecOps
 date          : 2017-12-06
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
-apply_Link    : https://www.linkedin.com/jobs/view/528089127/
+apply_Link    : https://www.linkedin.com/jobs/view/553979743/
 ---
 
 ## The Role

@@ -3,7 +3,7 @@ title         : Head of Risk and Compliance
 date          : 2017-12-06
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
-apply_Link    : https://www.linkedin.com/jobs/view/528089152
+apply_Link    : https://www.linkedin.com/jobs/view/553978884/
 ---
 
 ## The Role
