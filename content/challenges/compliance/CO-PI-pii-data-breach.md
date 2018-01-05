@@ -6,7 +6,7 @@ difficulty  : medium
 skills      : Situational Awareness, Data Protection, GDPR
 ---
 
-By the nature of the business, our servers host our customer's images and personal information i.e. name, address, email address, etc.
+By the nature of the business, our servers host our customers images and personal information i.e. name, address, email address, etc.
 
 The following are two possible scenarios:
 
