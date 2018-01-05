@@ -27,7 +27,5 @@ If you have any suitable candidates for the contract positions listed, please [e
                                 </tr>
                                 {{ end }}
                                 </tbody>
-
                             </table>
-
                         </div>
