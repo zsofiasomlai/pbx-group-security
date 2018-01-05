@@ -1,6 +1,8 @@
 ---
 title : SOC Engineer and Incident Response
 type  : for-candidate
+aliases:
+    - 9504abf7
 challenges:
     - CP-AD-adaptability.md
     - PR-PE-programming-experience.md
