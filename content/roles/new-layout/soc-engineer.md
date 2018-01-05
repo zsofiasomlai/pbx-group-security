@@ -1,9 +1,9 @@
 ---
-hide            : true
+hide            : false
 title           : SOC Engineer and Incident Response
 layout          : new-layout
 date            : 2017-12-06
-contract_type   : Permanent
+contract_type   : contractor
 location        : London, Paris, Valencia or Munich
 challenges_page : challenges/for-candidate/drafts/soc-engineer.md
 apply_Link      :
