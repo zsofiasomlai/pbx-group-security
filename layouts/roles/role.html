@@ -1,0 +1,12 @@
+{{ define "content" }}
+    <div class="row">
+        <div class="col-md-12" id="blog-post">
+
+            {{ partial "roles/role-metadata-table.html" . }}
+            {{ partial "roles/role-description.html"    . }}
+            {{ partial "roles/role-challenges.html"     . }}
+
+            {{ partial "widgets/disqus"                 . }}
+        </div>
+    </div>
+{{ end }}

@@ -1,9 +1,11 @@
+<!-- legacy version, to be deleted
+     new version is called challenges-cards.html -->
 <h3>Challenge Details</h3>
 <div>
-    {{ range $index, $element :=.Params.challenges}}
+    {{ range $index, $element := .Params.challenges }}
 
         {{ if modBool $index 3 }}
-            </div>
+            </div>                    <!-- trick to make rows work ok -->
             <div  class="row">
         {{ end }}
 

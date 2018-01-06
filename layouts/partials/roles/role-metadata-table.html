@@ -1,0 +1,21 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th> Contract Type </th>
+            <th> Location </th>
+            <th> Apply </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>{{ .Params.contract_type }}</td>
+            <td>{{ .Params.location }}</td>
+            <td>
+                {{ if .Params.apply_link}}
+                    <a href="{{ .Params.apply_link }}">here</a>
+                {{ end }}
+            </td>
+
+        </tr>
+    </tbody>
+</table>

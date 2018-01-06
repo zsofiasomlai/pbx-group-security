@@ -1,0 +1,14 @@
+
+<div class="row">
+    <div class="col-md-12">{{ partial "widgets/card.html" (dict "key" "The Role"          "value" .Content                ) }}</div>
+    <div class="col-md-12">{{ partial "widgets/card.html" (dict "key" "What will you do?" "value" .Params.what_will_you_do) }}</div>
+    <div class="col-md-12">{{ partial "widgets/card.html" (dict "key" "Who are you?"      "value" .Params.who_are_you     ) }}</div>
+    <div class="col-md-12">{{ partial "widgets/card.html" (dict "key" "Misc details"      "value" .Params.tech_stack      ) }}</div>
+
+</div>
+
+<div>
+    {{ with .Site.GetPage "page" "roles/_text/_why-else.md"                 }}{{ .Content }}{{ end }}
+    {{ with .Site.GetPage "page" "roles/_text/_why-join-pbx.md"             }}{{ .Content }}{{ end }}
+    {{ with .Site.GetPage "page" "roles/_text/_how-to-apply_v2"  }}{{ .Content }}{{ end }}
+</div>

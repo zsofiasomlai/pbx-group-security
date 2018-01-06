@@ -1,7 +1,7 @@
 ---
 hide            : false
 title           : SOC Engineer and Incident Response
-layout          : list_v2
+layout          : role
 date            : 2017-12-06
 contract_type   : Contractor
 location        : London, Paris, Valencia or Munich
@@ -29,6 +29,26 @@ tech_stack:
     - Risk Visualisation
     - Python, Javascript, Bash
     - Kibana, Grafana or Nagios
+
+challenges_required:
+    - ST-SA-accounts-setup.md
+    - ST-SC-site-changes.md
+    - PR-LE-lambda-stop-ec2.md
+    - PR-PE-programming-experience.md
+    - SC-VD-vulnerabilities-discovered.md
+    - RE-IR-interesting-research.md
+
+
+
+challenges_optional:
+    - TE-DB-dashboards.md
+    - TE-LA-log-analysis.md
+    - PR-VS-ec2-with-vuln-site.md
+    - TE-DA-darktrace-alert.md
+    - TE-SN-secure-internal-network.md
+    - TE-AW-aws-root-key.md
+    - TE-ID-image-download.md
+
 ---
 
 Help us define, manage, and expand our day-to-day operations within our existing SOC.
