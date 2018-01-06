@@ -1,6 +1,6 @@
 ---
 title : Set-up Environment
-type  : for-candidate
+type  : candidate
 challenges:
     - ST-SA-accounts-setup.md
     - ST-SC-site-changes.md

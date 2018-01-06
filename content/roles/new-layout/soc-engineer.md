@@ -1,7 +1,7 @@
 ---
 hide            : false
 title           : SOC Engineer and Incident Response
-layout          : new-layout
+layout          : list_v2
 date            : 2017-12-06
 contract_type   : Contractor
 location        : London, Paris, Valencia or Munich
