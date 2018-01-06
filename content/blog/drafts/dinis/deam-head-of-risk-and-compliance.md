@@ -3,11 +3,9 @@ draft  : true
 title  : Dream Head of Risk and Compliance
 author : Dinis Cruz
 issue  : https://github.com/project-cx/pbx-group-security/issues/164
----
-
 notes:
   - english and structure needs fixing
-
+---
 My dream Head of Risking Compliance profile. 
 
 So now, in the mix of recruitment process we have, I we have quite a good number of candidates. I'd like to share some of my thoughts on what would be, for me, the ideal Head of RC.
