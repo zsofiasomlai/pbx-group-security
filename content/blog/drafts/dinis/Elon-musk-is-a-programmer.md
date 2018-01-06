@@ -3,11 +3,10 @@ draft  : true
 title  : Elon Musk is a programmer
 author : Dinis Cruz
 issue  : https://github.com/project-cx/pbx-group-security/issues/163
----
-
 notes:
   - add links to book and articles referenced
   - english and structure needs fixing
+---
 
 Elon is a great programmer. I just read Elon Musk's biography, which i highly recommend. And, one of the very interesting takeaways, which I didn't realized before, was how Elon Musk is a really good programmer and a really good designer. And you can see that throughout the book, you can see that through his history. Where Elon Musk came from a program background hero, to love to code. And although, there is an infinite discussion on whether, as more professional programmer come true, what was actually good. The interesting part is that he, fundamentally, knew how to write code at a deep level, all the way from his childhood. And, you can see that, because you see that on his mind thinking, he's like a programmer. He breaks problems into logical bits, he finds out what it needs to take to solve those problem, and he, then, breaks them down into small chunks, and executes them one at the time, and each one leads to the other. 
 
