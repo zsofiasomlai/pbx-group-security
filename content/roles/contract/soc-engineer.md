@@ -4,7 +4,6 @@ layout          : role
 date            : 2017-12-06
 contract_type   : Contractor
 location        : Remotely (2 to 5 days per week)
-challenges_page : challenges/for-candidate/drafts/soc-engineer.md
 apply_Link      :
 
 what_will_you_do:
