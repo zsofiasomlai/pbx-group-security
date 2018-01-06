@@ -1,5 +1,4 @@
 ---
-hide            : false
 title           : SOC Engineer and Incident Response
 layout          : role
 date            : 2017-12-06
@@ -31,7 +30,7 @@ tech_stack:
     - Kibana, Grafana or Nagios
 
 challenges_required:
-    - ST-SA-accounts-setup.md
+    - ST-SA-github-and-jekyll.md
     - CP-CB-collaboration.md
     - PR-LE-lambda-stop-ec2.md
     - SC-VD-vulnerabilities-discovered.md
