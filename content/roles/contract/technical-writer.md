@@ -24,7 +24,6 @@ who_are_you:
 
 tech_stack:
     - GitHub
-    - JIRA
     - Office suite
 
 challenges_required:
