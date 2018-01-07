@@ -1,22 +1,24 @@
 
-{{ $.Scratch.Set "field_to_map" "who_are_you" }}
-{{ $.Scratch.Set "field_to_map" "tech_stack" }}
-{{ partial "roles/map-values/tech-stack.html" . }}
+{{ $.Scratch.Set "field_to_map" "what_will_you_do"  }}{{ partial "roles/map-values/tech-stack.html" .   }}
+{{ $.Scratch.Set "field_to_map" "who_are_you"       }}{{ partial "roles/map-values/tech-stack.html" .   }}
+{{ $.Scratch.Set "field_to_map" "tech_stack"        }}{{ partial "roles/map-values/tech-stack.html" .   }}
 
-<hr/>
+{{ $.Scratch.SetInMap "_the_role"   "key"   "The role"                                                   }}
+{{ $.Scratch.SetInMap "_the_role"   "value"  .Content                                                    }}
 
-<!--{{ $.Scratch.Get "data"                            }}-->
-<pre>
+{{ $.Scratch.SetInMap "_what_will_you_do"   "key"  "What will you do?"                                         }}
+{{ $.Scratch.SetInMap "_what_will_you_do"   "value" ($.Scratch.Get "what_will_you_do")                         }}
 
-    {{ delimit ($.Scratch.Get "tech_stack") "," }}
-    {{ range .Params.challenges_required }}
-        {{ $.Scratch.SetInMap "data" "tech_stack" "skill 1"   }}
-        {{ $.Scratch.SetInMap "data" "123"        "competency 2"    }}
-        {{ $.Scratch.SetInMap "data" "asd"        "competency 3"    }}
-    {{ end }}
-</pre>
-{{ index ($.Scratch.Get "data") "asd"              }}
+{{ $.Scratch.SetInMap "_who_are_you"   "key"  "Who are you?"                                              }}
+{{ $.Scratch.SetInMap "_who_are_you"   "value" ($.Scratch.Get "who_are_you")                              }}
 
-{{ range $index, $value := $.Scratch.Get "data"    }}
-<li>{{ $index }}</li>
-{{ end }}
+{{ $.Scratch.SetInMap "_tech_stack"   "key"  "Tech Stack"                                                }}
+{{ $.Scratch.SetInMap "_tech_stack"   "value" ($.Scratch.Get "tech_stack")                               }}
+
+<div class="row">
+    <div class="col-md-12">{{ partial "widgets/card.html" ($.Scratch.Get "_the_role"            ) }} </div>
+    <div class="col-md-12">{{ partial "widgets/card.html" ($.Scratch.Get "_what_will_you_do"    ) }} </div>
+    <div class="col-md-12">{{ partial "widgets/card.html" ($.Scratch.Get "_who_are_you"         ) }} </div>
+    <div class="col-md-12">{{ partial "widgets/card.html" ($.Scratch.Get "_tech_stack"          ) }} </div>
+
+</div>
