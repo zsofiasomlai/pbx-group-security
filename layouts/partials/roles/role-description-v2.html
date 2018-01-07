@@ -1,0 +1,22 @@
+
+{{ $.Scratch.Set "field_to_map" "who_are_you" }}
+{{ $.Scratch.Set "field_to_map" "tech_stack" }}
+{{ partial "roles/map-values/tech-stack.html" . }}
+
+<hr/>
+
+<!--{{ $.Scratch.Get "data"                            }}-->
+<pre>
+
+    {{ delimit ($.Scratch.Get "tech_stack") "," }}
+    {{ range .Params.challenges_required }}
+        {{ $.Scratch.SetInMap "data" "tech_stack" "skill 1"   }}
+        {{ $.Scratch.SetInMap "data" "123"        "competency 2"    }}
+        {{ $.Scratch.SetInMap "data" "asd"        "competency 3"    }}
+    {{ end }}
+</pre>
+{{ index ($.Scratch.Get "data") "asd"              }}
+
+{{ range $index, $value := $.Scratch.Get "data"    }}
+<li>{{ $index }}</li>
+{{ end }}

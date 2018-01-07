@@ -3,7 +3,8 @@ title       : Pull Request
 key         : ST-PR
 area        : setup
 difficulty  : medium
-skills      : GitHub, IT
+skills      : GitHub
+tech_stack  : Git and GitHub workflows
 ---
 
 GitHub is a key part of our workflow with most of the team using its web interface to manage the content

@@ -4,6 +4,8 @@ key         : ST-BP
 area        : setup
 difficulty  : medium
 skills      : IT User
+tech_stack  : Writing Skils
+who_are_you : Able to write a blog
 ---
 
 Chose one of the these transcribed texts (from audio file) :

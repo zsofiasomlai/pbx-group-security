@@ -23,9 +23,7 @@ who_are_you:
     - Willing to learn new skills, particularly new technical skills, as required
 
 tech_stack:
-    - GitHub
-    - JIRA
-    - Office suite
+    - IT User
 
 challenges_required:
     - ST-BP-blog-from-transcription.md

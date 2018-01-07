@@ -1,0 +1,38 @@
+<!-- Note: I was not able to figure out how to add a value to a map, since this would
+           be much simpler if it we possible to
+
+          .Params.tech_stack.add "value"                                                                                                                        -->
+
+
+{{ if $.Scratch.Get "field_to_map"                                                  }} <!-- the $field_to_map value is set by the caller                        -->
+{{      $field_to_map        := $.Scratch.Get "field_to_map"                        }} <!-- get the name of the target variable from the $.Scratch value        -->
+{{      $field_value         := index .Params $field_to_map                         }} <!-- get its value from the .Params object                               -->
+{{      $splitter            := "/--/"                                              }} <!-- define a splitter value that should not exist in the data params    -->
+{{      $joined_Value        := delimit $field_value $splitter                      }} <!-- join the map in an $splitter delimited string                       -->
+{{      $.Scratch.Set        $field_to_map $joined_Value                            }} <!-- set it as the first value of the $field_value global variable       -->
+{{      range .Params.challenges_required                                           }} <!-- loop though the challenges_required value                           -->
+{{          with $.Site.GetPage "page" .                                            }} <!-- get page's data                                                     -->
+{{              if index .Params $field_to_map                                      }} <!-- if the $field_to_map field is set                                   -->
+{{                  $value := index .Params $field_to_map                           }} <!-- get it's value                                                      -->
+{{                  $.Scratch.Add $field_to_map (add $splitter $value)              }} <!-- add it to the $field_to_map global variable                         -->
+{{              end                                                                 }} <!--                                                                     -->
+{{          end                                                                     }} <!--                                                                     -->
+{{      end                                                                         }} <!--                                                                     -->
+{{      range .Params.challenges_optional                                           }} <!-- do the same for the optional challenges                             -->
+{{          with $.Site.GetPage "page" .                                            }} <!--    (since there are two of these loops, they could be converted     -->
+{{              if index .Params $field_to_map                                      }} <!--     into a function or another loop )                               -->
+{{                  $value := index .Params $field_to_map                           }} <!--                                                                     -->
+{{                  $.Scratch.Add $field_to_map (add $splitter $value)              }} <!--                                                                     -->
+{{              end                                                                 }} <!--                                                                     -->
+{{          end                                                                     }} <!--                                                                     -->
+{{      end                                                                         }} <!--                                                                     -->
+{{      $.Scratch.Set $field_to_map (split ($.Scratch.Get $field_to_map) $splitter) }} <!-- finally convert the $field_to_map global value into an map/array    -->
+{{  end                                                                             }}
+
+<h1> mapping {{ $.Scratch.Get "field_to_map"  }}</h1>
+
+<!--{{ ($.Scratch.Get "join") }}-->
+{{ range  $.Scratch.Get ($.Scratch.Get "field_to_map" ) }}
+    <li>{{.}}</li>
+{{ end }}
+
