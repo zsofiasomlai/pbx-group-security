@@ -4,7 +4,7 @@ layout          : role-upwork
 date            : 2018-01-05
 contract_type   : Upwork
 location        : Remote (up to 20h week)
-apply_Link      : mailto:project-cx@photobox.com
+apply_Link      : https://www.upwork.com/jobs/~013586c8e12896ef3a
 
 what_will_you_do:
     - Support the operations team with the documentation of incident responses and playbooks
