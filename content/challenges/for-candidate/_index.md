@@ -1,6 +1,5 @@
 ---
 title  : "Pages for candidates"
-Aliases: candidates
 ---
 
 These pages are 'non public' (as in not linked from the main Challenges page), and

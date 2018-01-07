@@ -3,7 +3,7 @@ title       : Lambda - Stop EC2 Instances
 key         : PR-LE
 area        : programming
 difficulty  : hard
-skills      : Logs, Programming, Analysis
+skills      : AWS, Logs, Programming, Analysis
 ---
 
 Create Lambda function to;

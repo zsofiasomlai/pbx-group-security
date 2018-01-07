@@ -1,9 +1,11 @@
 ---
 title       : "Using trust connections for referrals"
-date        : "2017-12-15"
+#date        : "2017-12-15"
+date        : "2018-12-15"
 banner      : "/img/blog/Photoboxgroup_ReferralsArticle_squareRGB.png"
 images      : ["/img/blog/Photoboxgroup_ReferralsArticle_squareRGB.png"]
 author      : Dinis Cruz
+draft       : true
 ---
 
 Referrals are very effective tools to evaluate talent and part of our recruitment process is to find out what makes you tick from people who know you. Because we're leveraging a trust relationship between both parties; between the candidate & the people they know, and between the candidate and the person who reviews them. I would like to see how effective that could be. 

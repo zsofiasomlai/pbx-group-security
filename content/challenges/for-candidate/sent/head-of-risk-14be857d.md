@@ -8,7 +8,7 @@ challenges:
     - PR-PE-programming-experience.md
     - RI-RM-risk-management.md
     - RI-GA-gap-analysis.md
-    - RI-PI-pii-data-breach.md
+    - CO-PI-pii-data-breach.md
 
 next_challenges:
     - CP-AD-adaptability.md

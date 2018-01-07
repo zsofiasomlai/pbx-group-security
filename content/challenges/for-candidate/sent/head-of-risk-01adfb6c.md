@@ -8,7 +8,7 @@ challenges:
     - MA-TA-attract-talent.md
     - PR-PE-programming-experience.md
     - RE-TL-tech-leader.md
-    - RI-PI-pii-data-breach.md
+    - CO-PI-pii-data-breach.md
     - ST-CC-CBEST_CREST.md
 
 next_challenges:

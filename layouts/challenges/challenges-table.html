@@ -95,7 +95,7 @@
                                                 <table class="table">
                                                     <thead>
                                                         <th>Title</th>
-                                                        <th class="text-center">Used</th>
+                                                        <!--<th class="text-center">Used</th>-->
                                                         <th class="text-center">Difficulty</th>
                                                         <th class="text-center">key</th>
                                                     </thead>
@@ -103,7 +103,7 @@
                                                         <tr>
 
                                                             <td>{{ .Params.Title }}</td>
-                                                            <td class="text-center difficulty" >{{ $.Scratch.Get .Params.Key }} </td>
+                                                            <!-- <td class="text-center difficulty" >{{ $.Scratch.Get .Params.Key }} </td> -->
                                                             <td class="text-center difficulty">
                                                                 <span class="difficulty-{{ .Params.difficulty }}">
                                                                     {{ .Params.difficulty }}

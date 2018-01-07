@@ -1,0 +1,18 @@
+{{ define "content" }}
+    <div class="row">
+        <div class="col-md-12" id="blog-post">
+
+            {{ partial "roles/role-metadata-table.html" . }}
+            {{ partial "roles/role-description.html"    . }}
+
+            {{ with .Site.GetPage "page" "roles/_text/_how-to-apply_upwork.md"  }}{{ .Content }}{{ end }}
+
+            {{ partial "roles/role-challenges.html"     . }}
+
+            {{ with .Site.GetPage "page" "roles/_text/_why-else.md"         }}{{ .Content }}{{ end }}
+            {{ with .Site.GetPage "page" "roles/_text/_why-join-pbx.md"     }}{{ .Content }}{{ end }}
+
+            {{ partial "widgets/disqus"                 . }}
+        </div>
+    </div>
+{{ end }}

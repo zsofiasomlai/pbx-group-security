@@ -9,6 +9,6 @@ skills      : Research, Passion, Growth
 
 Describe something technology related that you've done recently that is cool and interesting:
 
-- Why did you do it?
-- What did you learn?
-- Draw a diagram or graph of the workflow
+ - Why did you do it?
+ - What did you learn?
+ - Draw a diagram or graph of the workflow (can be a screenshot of a paper based drawing)

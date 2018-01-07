@@ -7,7 +7,7 @@ author      : Dinis Cruz
 draft       : true
 ---
 
-## Sharing is caring - why we started this blog
+## why we started this blog
 
 One of the biggest challenges in any company is how best to communicate with staff in a way that really keeps them informed of what's going on. What is very interesting in the Photobox Group is the remarkable lack of politics within the company. This is quite rare. The politics, the games, and the attrition that occurs because of company politics, seems to be absent from the company and the group security team.
 

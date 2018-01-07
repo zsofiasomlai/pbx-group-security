@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    {{ partial "head.html" .              }}
+    {{ partial "css/print-fixes.html"     }}
+    {{ partial "css/challenge-card.html"  }}
+    {{ partial "css/card.html"            }}
+    <body>
+        <div id="all">
+            <header>
+                {{ partial "nav.html" . }}
+            </header>
+            {{ partial "breadcrumbs.html" . }}
+            <div id="content">
+                <div class="container">
+                    {{ block "content" .          }}{{ end }}
+                    {{ partial "edit-link.html" . }}
+                </div>
+                {{ partial "footer.html" . }}
+            </div>
+            {{ partial "scripts.html" . }}
+        </div>
+    </body>
+</html>

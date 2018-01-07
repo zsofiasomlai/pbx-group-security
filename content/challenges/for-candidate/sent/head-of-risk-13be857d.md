@@ -5,7 +5,7 @@ type  :  for-candidate
 challenges:
     - CP-CB-collaboration.md
     - MA-DR-deliver-results.md
-    - RI-PI-pii-data-breach.md
+    - CO-PI-pii-data-breach.md
     - RI-RR-risk-rating.md
     - TE-ID-image-download.md
     - RE-OS-open-source.md
