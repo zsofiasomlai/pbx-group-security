@@ -27,7 +27,7 @@
                             <table class="table">
                                 <thead>
                                 <tr>
-                                    <th> Role           </th>
+                                    <th width="40%"> Role           </th>
                                     <th> Contract Type  </th>
                                     <th> Location       </th>
                                     <th> Apply          </th>
@@ -50,7 +50,7 @@
                             <table class="table">
                                 <thead>
                                 <tr>
-                                    <th> Role           </th>
+                                    <th  width="40%"> Role           </th>
                                     <th> Contract Type  </th>
                                     <th> Location       </th>
                                     <th> Apply          </th>
@@ -58,6 +58,27 @@
                                 </thead>
                                 <tbody>
                                 {{ range where .Data.Pages "Params.contract_type" "Contractor" }}
+                                <tr>
+                                    {{ partial "roles/contract_td.html" . }}
+                                </tr>
+                                {{ end }}
+                                </tbody>
+
+                            </table>
+
+                            <h2>Upwork</h2>
+
+                            <table class="table">
+                                <thead>
+                                <tr>
+                                    <th  width="40%"> Role           </th>
+                                    <th> Contract Type  </th>
+                                    <th> Location       </th>
+                                    <th> Apply          </th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                {{ range where .Data.Pages "Params.contract_type" "Upwork" }}
                                 <tr>
                                     {{ partial "roles/contract_td.html" . }}
                                 </tr>

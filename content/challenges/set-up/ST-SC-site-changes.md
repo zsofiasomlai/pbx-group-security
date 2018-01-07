@@ -1,7 +1,7 @@
 ---
 title       : Site Changes
 key         : ST-AS
-area        : security
+area        : setup
 difficulty  : medium
 skills      : IT User
 ---

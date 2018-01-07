@@ -1,7 +1,7 @@
 ---
 title       : Setup GitHub and Jekyll
 key         : ST-GJ
-area        : security
+area        : setup
 difficulty  : medium
 skills      : GitHub, IT
 ---

@@ -1,7 +1,7 @@
 ---
 title       : Write blog post
 key         : ST-AS
-area        : security
+area        : setup
 difficulty  : medium
 skills      : IT User
 ---
