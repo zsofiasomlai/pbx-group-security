@@ -19,7 +19,7 @@ who_are_you:
     - The ability to work independently and collaborate with the team and wider business
     - Personable and able to build relationships
 
-    tech_stack:
+tech_stack:
     - IT User
 
 challenges_required:
