@@ -27,6 +27,16 @@ You must be have good experience in at least one or more of the following:
     - ML and AI
     - Security visualisation and graphs
     - Applicants must have the right to work in the EU (we will not provide visa sponsorship)
+
+challenges_required:
+    - ST-SA-github-and-jekyll.md
+    - CP-CB-collaboration.md
+    - PR-PE-programming-experience.md
+    - RE-IR-interesting-research.md
+
+challenges_optional:
+    - CP-PL-planning.md
+    - MA-DR-deliver-results.md
 ---
 
 As the Head of Detect you will support the Group Security function in incident response activities, provide situational awareness, be responsible for leading initiatives associated with incident response findings, and provide guidance and coordination for incident response efforts including triage, evaluation, coordination, and executive reporting.
