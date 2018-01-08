@@ -107,7 +107,7 @@ facebook = ""
     email = "project-cx@photobox.com"
 
     about_us = "<p>Photobox Group is Europe's leading digital consumer service for personalised products and gifts and parent of the Photobox, Moonpig, Hofmann and posterXXL brands.<p>"
-    copyright = "Copyright (c) 2017, Photobox Group Security; all rights reserved."
+    copyright = '&copy; 2017, Photobox Group Security. This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.'
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

@@ -6,7 +6,7 @@
         {{if eq (printf "%T" .value) "[]string" }}
             <ul>
                 {{ range .value}}
-                    <li>{{ . }}.</li>
+                    <li>{{ . }}</li>
                 {{ end }}
             </ul>
         {{else}}

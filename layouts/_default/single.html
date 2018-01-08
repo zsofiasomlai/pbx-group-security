@@ -65,6 +65,9 @@
 
             </div>
             <!-- /.container -->
+    {{ with .Site.Params.copyright }}
+    {{ . | markdownify }}
+    {{ end }}
         </div>
         <!-- /#content -->
 
