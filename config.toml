@@ -37,12 +37,12 @@ facebook = ""
     url  = "/roles/"
     weight = 3
 
-[[[menu.main]]
+[[menu.main]]
     name = "For Recruiters"
     url  = "/recruiters/"
     weight = 4
 
-[menu.main]]
+[[menu.main]]
     name = "Challenges"
     identifier = "challenges"
     url  = "/challenges/"
