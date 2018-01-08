@@ -2,7 +2,9 @@
 title: "Test page for Browser Sync"
 ---
  
-This is a content test!!!!!!!!
+This is a content test!
+
+testing publishing
 
 ```edited from a mobile device```
 
