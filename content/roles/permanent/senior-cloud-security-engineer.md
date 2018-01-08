@@ -37,7 +37,6 @@ challenges_required:
     - RE-IR-interesting-research.md
 
 challenges_optional:
-    - RE-IR-interesting-research.md
     - SC-VD-vulnerabilities-discovered.md
 ---
 You will work with the Head of SecOps and Head of AppSec, and ultimately be responsible for ensuring and implementing security best practices across the Group’s cloud infrastructure (AWS and Azure). You will take a lead role in identifying potential risks to the group’s assets and creating preventative strategies to mitigate them.
