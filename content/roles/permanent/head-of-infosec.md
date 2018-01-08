@@ -1,7 +1,7 @@
 ---
 hide            : true
 title           : Head of InfoSec (new layout)
-layout          : new-layout
+layout          : role
 date            : 2017-12-06
 contract_type   : Permanent
 location        : London, Paris, Valencia or Munich
