@@ -5,28 +5,27 @@ contract_type : Permanent
 location      : London, Paris, Valencia or Munich
 apply_Link    : https://www.linkedin.com/jobs/view/553979768/
 what_will_you_do:
-- Work with many functional teams you will ensure that PhotoBox Group’s applications stay at the highest security level
-- Support development teams to carry out application security reviews
-- Provide expert advice and consultancy to software and platform engineering on risk assessment, threat modelling and fixing vulnerabilities
-- Lead app security projects to ensure timely completion of efforts
-- Drive security into engineering’s systems development life cycle to ensure that security is built in and considered
-- Support security policies and procedures
-- Evaluate new and emerging security products and technologies
-- Collaborate with engineering, testing, and operations groups
+    - Work with many functional teams you will ensure that PhotoBox Group’s applications stay at the highest security level
+    - Support development teams to carry out application security reviews
+    - Provide expert advice and consultancy to software and platform engineering on risk assessment, threat modelling and fixing vulnerabilities
+    - Lead app security projects to ensure timely completion of efforts
+    - Drive security into engineering’s systems development life cycle to ensure that security is built in and considered
+    - Support security policies and procedures
+    - Evaluate new and emerging security products and technologies
+    - Collaborate with engineering, testing, and operations groups
 
 who_are_you:
-- Strong development background in application engineering/architecture
-- Great stakeholder management and influencing skills
-- Developer training and curriculum development
-- Have a deep understanding and hands on experience of secure software development practices including threat modelling, secure design principles, secure coding, code analysis, security testing and AppSec automation etc.
+    - Strong development background in application engineering/architecture
+    - Great stakeholder management and influencing skills
+    - Developer training and curriculum development
+    - Have a deep understanding and hands on experience of secure software development practices including threat modelling, secure design principles, secure coding, code analysis, security testing and AppSec automation etc.
 
 tech_stack:
 You must be proficient in at least one of the following:
-
-- OWASP, SAST, DAST, IAST, WAF
-- TDD, BDD, Test DSLs
-- Ability to fix code and work directly with developers
-- Applicants must have right to work in EU (we will not provide visa sponsorship)
+    - OWASP, SAST, DAST, IAST, WAF
+    - TDD, BDD, Test DSLs
+    - Ability to fix code and work directly with developers
+    - Applicants must have right to work in EU (we will not provide visa sponsorship)
 
 challenges_required:
     - ST-SA-github-and-jekyll.md
