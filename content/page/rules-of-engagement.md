@@ -9,5 +9,5 @@ description : "Photobox Group Security is the team responsible for securing magi
 
 Photobox Group are not looking to work with recruitment agencies for any permanent roles listed on this site. 
 
-If you have any suitable candidates for the contract positions listed, please [email us](mailto:project-cx@photobox.com).
+If you have any suitable candidates for the contract positions listed below please [email us](mailto:project-cx@photobox.com).
 
