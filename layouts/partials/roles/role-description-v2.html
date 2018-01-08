@@ -1,7 +1,7 @@
 
-{{ $.Scratch.Set "field_to_map" "what_will_you_do"  }}{{ partial "roles/map-values/tech-stack.html" .   }}
-{{ $.Scratch.Set "field_to_map" "who_are_you"       }}{{ partial "roles/map-values/tech-stack.html" .   }}
-{{ $.Scratch.Set "field_to_map" "tech_stack"        }}{{ partial "roles/map-values/tech-stack.html" .   }}
+{{ $.Scratch.Set "field_to_map" "what_will_you_do"  }}{{ partial "roles/map-values.html" .   }}
+{{ $.Scratch.Set "field_to_map" "who_are_you"       }}{{ partial "roles/map-values.html" .   }}
+{{ $.Scratch.Set "field_to_map" "tech_stack"        }}{{ partial "roles/map-values.html" .   }}
 
 {{ $.Scratch.SetInMap "_the_role"   "key"   "The role"                                                   }}
 {{ $.Scratch.SetInMap "_the_role"   "value"  .Content                                                    }}
