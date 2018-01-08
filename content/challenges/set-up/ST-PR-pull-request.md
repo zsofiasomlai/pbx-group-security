@@ -5,6 +5,7 @@ area        : setup
 difficulty  : medium
 skills      : GitHub
 tech_stack  : Git and GitHub workflows
+who_are_you : Willing to learn new skills, particularly new technical skills, as required
 ---
 
 GitHub is a key part of our workflow with most of the team using its web interface to manage the content

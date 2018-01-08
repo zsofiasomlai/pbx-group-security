@@ -1,10 +1,11 @@
 ---
-title       : Interesting Research
-key         : RE-IR
-level       : one
-difficulty  : medium
-area        : research
-skills      : Research, Passion, Growth
+title           : Interesting Research
+key             : RE-IR
+level           : one
+difficulty      : medium
+area            : research
+skills          : Research, Passion, Growth
+what_will_you_do: Research, collate, and disseminate technical information as required
 ---
 
 Describe something technology related that you've done recently that is cool and interesting:

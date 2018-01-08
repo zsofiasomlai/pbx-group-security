@@ -15,12 +15,10 @@ what_will_you_do:
 
 
 who_are_you:
-    - Excellent written and spoken English
     - Able to multi-task
     - Proactive and reactive
     - The ability to work independently and collaborate with the team and wider business
     - Personable and able to build relationships
-    - Willing to learn new skills, particularly new technical skills, as required
 
 tech_stack:
     - IT User
