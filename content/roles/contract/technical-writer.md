@@ -10,7 +10,6 @@ what_will_you_do:
     - Support the operations team with the documentation of incident responses and playbooks
     - Prepare instructions, blog posts, briefing documents
     - Liaise with SMEs to ensure clear, accurate, and complete documentation
-    - Research, collate, and disseminate technical information as required
     - Draft, copy-edit, review, and revise documentation
 
 
@@ -20,7 +19,7 @@ who_are_you:
     - The ability to work independently and collaborate with the team and wider business
     - Personable and able to build relationships
 
-tech_stack:
+    tech_stack:
     - IT User
 
 challenges_required:
