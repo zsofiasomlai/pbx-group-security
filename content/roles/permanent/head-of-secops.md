@@ -20,7 +20,6 @@ who_are_you:
     - Excellent communication skills with teams at all levels across the business
     
 tech_stack:
-You must be have good experience in at least one or more of the following:
     - Devops, SRE, Beyond Corp
     - AWS, Azure, Kubernetes, CI/CD pipeline
     - Active Directory, Nagios, Grafana
