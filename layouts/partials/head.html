@@ -56,7 +56,10 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon" />
 
-  <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
+{{ if .RSSLink }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+{{ end }}
 
   <!-- Facebook OpenGraph tags -->
   {{ template "_internal/opengraph.html" . }}

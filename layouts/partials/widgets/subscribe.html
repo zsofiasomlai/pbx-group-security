@@ -1,0 +1,17 @@
+{{ if .RSSLink }}
+<div class="panel panel-default sidebar-menu">
+    <div class="panel-heading">
+        <h3 class="panel-title">Feeds</h3>
+    </div>
+    <div class="panel-body">
+        <a href="{{ .RSSLink }}" type="application/rss+xml" title="Subscribe to Photobox Group Security Blog Feed" class="btn btn-template-main" target="_blank">
+            <div class="row">
+                <div class="col-md-12">
+                    <i class="fa fa-rss"></i>
+                    Subscribe
+                </div>
+            </div>
+        </a>
+    </div>
+</div>
+{{ end }}
