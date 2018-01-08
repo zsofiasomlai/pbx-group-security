@@ -8,7 +8,7 @@ area        : research
 Write a review of a technical or business-related book you have read recently which inspired you.
 
 #### Book suggestions:
-- **New Rules for the New Economy: 10 Ways the Network Economy is Changing Everything** by Kevin Kelly
+- [New Rules for the New Economy](https://www.amazon.co.uk/New-Rules-Economy-Changing-Everything/dp/1857028929): 10 Ways the Network Economy is Changing Everything,  by Kevin Kelly
 - **Graph Databases: New Opportunities for Connected Data Paperback** by Ian Robinson
 - **The Dip: The extraordinary benefits of knowing when to quit (and when to stick)** by Seth Godin
 - **The Checklist Manifesto: How to Get Things Right** by Atul Gawande
