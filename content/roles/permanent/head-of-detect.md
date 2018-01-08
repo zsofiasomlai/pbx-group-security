@@ -1,5 +1,6 @@
 ---
 title         : Head of Detect
+layout        : role
 date          : 2017-12-06
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
