@@ -37,16 +37,21 @@ facebook = ""
     url  = "/roles/"
     weight = 3
 
-[[menu.main]]
+[[[menu.main]]
+    name = "For Recruiters"
+    url  = "/recruiters/"
+    weight = 4
+
+[menu.main]]
     name = "Challenges"
     identifier = "challenges"
     url  = "/challenges/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 5
+    weight = 6
 
 #[[menu.main]]
 #    name = "Dev"
@@ -56,7 +61,7 @@ facebook = ""
 [[menu.main]]
     name = "Contact"
     url  = "/page/contact/"
-    weight = 6
+    weight = 7
 
 # Top bar social links menu
 
