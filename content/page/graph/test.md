@@ -19,7 +19,7 @@ dinetwork {
     1 -> -1 -> 2;
     2 -> 3; 
     2 -- 4; 
-    2 -> 1 -> AAAA
+    2 -> 1 -> AAAA -> BBBB
     3 -> 5 [shape=circle]; 
     node "This is a node" [shape=square, color =red]
 }
