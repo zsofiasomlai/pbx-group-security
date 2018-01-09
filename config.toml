@@ -12,6 +12,11 @@ googleAnalytics = "UA-111337742-1"
 
 ignoreFiles = [ "^\\.#", "^\\#", "^\\.*.swp" ]
 
+# To generate json pages, we need this here
+# And on each page, you add the list of outputs
+[outputs]
+  page = ["HTML", "JSON"]
+
 [social]
 twitter = "pbg_security"
 twitter_domain = "pbg_security"
