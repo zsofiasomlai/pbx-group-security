@@ -1,7 +1,7 @@
 ---
 title           : SOC Engineer and Incident Response
 layout          : role
-aliases:        : 9a1dd63c
+aliases        : 9a1dd63c
 date            : 2017-12-06
 contract_type   : Contractor
 location        : Remotely (2 to 5 days per week)
