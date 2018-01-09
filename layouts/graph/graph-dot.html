@@ -6,15 +6,19 @@
                 #mynetwork { width: 100%; height: 500px } 
         </style>
         <script src="/js/graph/vis.js"></script>          
-        <h2>{{ .Params.Title }} </h2>
-        <div id="mynetwork"></div>                        
-        <script type="text/javascript">
-            
-          var container = document.getElementById('mynetwork');
-          var dot = '{{ safeHTML .RawContent }}'
-          var data = vis.network.convertDot(dot);
-          var network = new vis.Network(container, data);
-        </script>
+        <div class="container">
+          <h2>{{ .Params.Title }} </h2>
+          <div id="mynetwork"></div>                        
+          <script type="text/javascript">
+              
+            var container = document.getElementById('mynetwork');
+            var dot = '{{ safeHTML .RawContent }}'
+            var data = vis.network.convertDot(dot);
+            var network = new vis.Network(container, data);
+          </script>
+
+          {{ partial "edit-link.html" . }}
+        </div>
     </body>
 </html>
         
