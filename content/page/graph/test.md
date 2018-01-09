@@ -1,7 +1,16 @@
 ---
 title  : Testing Dot Language using viz js
 type   : graph
-layout : graph-dot
+layout : graph-dot-2
+
+
+nodes:
+    - a
+    - b
+    - c
+    - d
+    - e
+    - f
 ---
 
 dinetwork {
