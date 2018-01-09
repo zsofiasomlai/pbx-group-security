@@ -35,8 +35,7 @@
                                     {{ end }}
                                 </ul>
                             {{ else }}
-                                <h3>All challenges (by area)</h3>
-                                {{ $.Scratch.Set "area" "competency"    }} {{ partial "challenge/challenges-table.html" . }}
+                                <h3>All challenges (by area)</h3>                             
                                 {{ $.Scratch.Set "area" "compliance"    }} {{ partial "challenge/challenges-table.html" . }}
                                 {{ $.Scratch.Set "area" "management"    }} {{ partial "challenge/challenges-table.html" . }}
                                 {{ $.Scratch.Set "area" "programming"   }} {{ partial "challenge/challenges-table.html" . }}
