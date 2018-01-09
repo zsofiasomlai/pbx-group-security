@@ -8,7 +8,7 @@
     {{ end }}
     "what_will_you_do": [
         {{ range $ := .Params.what_will_you_do }}
-        {{ . | jsonify }},S
+        {{ . | jsonify }},
         {{ end }}
     ]
 }
