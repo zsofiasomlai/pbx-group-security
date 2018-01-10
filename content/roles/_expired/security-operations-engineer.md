@@ -1,4 +1,5 @@
 ---
+hide          : true
 title         : Security Operations (SOC) Engineer
 date          : 2017-12-06
 contract_type : Contractor

@@ -32,7 +32,7 @@ tech_stack:
     
 challenges_required:
     - ST-SA-github-and-jekyll.md
-    - CP-CB-collaboration.md
+#    - CP-CB-collaboration.md
     - PR-PE-programming-experience.md
     - RE-IR-interesting-research.md
 

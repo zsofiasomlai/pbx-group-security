@@ -28,7 +28,7 @@ aliases :
     
 type  :  for-candidate
 challenges:
-    - CP-ST-strategic-thinking.md
+#    - CP-ST-strategic-thinking.md
     - MA-DR-deliver-results.md
     - RI-RM-risk-management.md
     - CO-PI-pii-data-breach.md

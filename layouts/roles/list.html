@@ -15,7 +15,7 @@
 
         {{ partial "breadcrumbs.html" . }}
 
-        <div id="content">
+        <div id="content">          <!-- issue xyz: refactor code below -->
             <div class="container">
                 <div class="row">
 
@@ -58,9 +58,11 @@
                                 </thead>
                                 <tbody>
                                 {{ range where .Data.Pages "Params.contract_type" "Contractor" }}
-                                <tr>
-                                    {{ partial "roles/contract_td.html" . }}
-                                </tr>
+                                    <tr>
+                                        {{ if ne .Params.hide true}}
+                                            {{ partial "roles/contract_td.html" . }}
+                                        {{ end }}
+                                    </tr>
                                 {{ end }}
                                 </tbody>
 
@@ -79,9 +81,11 @@
                                 </thead>
                                 <tbody>
                                 {{ range where .Data.Pages "Params.contract_type" "Upwork" }}
-                                <tr>
-                                    {{ partial "roles/contract_td.html" . }}
-                                </tr>
+                                    <tr>
+                                        {{ if ne .Params.hide true}}
+                                            {{ partial "roles/contract_td.html" . }}
+                                        {{ end }}
+                                    </tr>
                                 {{ end }}
                                 </tbody>
 

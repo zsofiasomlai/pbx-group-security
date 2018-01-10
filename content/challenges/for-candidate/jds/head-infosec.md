@@ -23,8 +23,8 @@ aliases :
 type  :  for-candidate
 
 challenges:
-    - CP-CB-collaboration.md
-    - CP-FI-finance.md
+#    - CP-CB-collaboration.md
+#    - CP-FI-finance.md
     - ST-IS-iso-standards.md
     - SC-VD-vulnerabilities-discovered.md
     - RE-IS-inspirational-security.md

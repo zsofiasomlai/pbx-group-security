@@ -1,5 +1,5 @@
 ---
-hide            : true
+hide            : false
 title           : Head of InfoSec
 layout          : role
 date            : 2017-12-06

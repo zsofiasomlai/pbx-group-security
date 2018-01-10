@@ -30,12 +30,12 @@ You must be proficient in at least one of the following:
 
 challenges_required:
     - ST-SA-github-and-jekyll.md
-    - CP-CB-collaboration.md
+#    - CP-CB-collaboration.md
     - PR-PE-programming-experience.md
     - RE-IR-interesting-research.md
 
 challenges_optional:
-    - CP-PL-planning.md
+#    - CP-PL-planning.md
     - MA-DR-deliver-results.md
 ---
 As the Head of AppSec you will work alongside the Group Security management team and ensure that any software developed by our engineers meets our overall security standards and protects our customer’s data. You will lead all AppSec activities and be the driving force behind activities such as threat modelling, security automation in our continuous integration pipeline, code reviews, security standards and our Security Champions network.

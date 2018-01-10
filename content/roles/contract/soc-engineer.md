@@ -30,7 +30,7 @@ tech_stack:
 
 challenges_required:
     - ST-SA-github-and-jekyll.md
-    - CP-CB-collaboration.md
+#    - CP-CB-collaboration.md
     - PR-LE-lambda-stop-ec2.md
     - SC-VD-vulnerabilities-discovered.md
     - PR-PE-programming-experience.md
@@ -40,7 +40,7 @@ challenges_optional:
     - TE-LA-log-analysis.md
     - PR-VS-ec2-with-vuln-site.md
     - TE-DB-dashboards.md
-    - CP-PL-planning.md
+#    - CP-PL-planning.md
     - TE-DA-darktrace-alert.md
     - TE-AW-aws-root-key.md
 

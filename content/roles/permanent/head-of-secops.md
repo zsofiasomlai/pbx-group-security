@@ -28,12 +28,12 @@ tech_stack:
 
 challenges_required:
     - ST-SA-github-and-jekyll.md
-    - CP-CB-collaboration.md
+#    - CP-CB-collaboration.md
     - PR-PE-programming-experience.md
     - RE-IR-interesting-research.md
 
 challenges_optional:
-    - CP-PL-planning.md
+#    - CP-PL-planning.md
     - MA-DR-deliver-results.md
 ---
 
