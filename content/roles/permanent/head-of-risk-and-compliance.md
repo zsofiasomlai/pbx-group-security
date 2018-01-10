@@ -29,7 +29,6 @@ Tech_Stack:
     - Python, R (language)
 
 challenges_required:
-    - ST-SA-accounts-setup.md
     - ST-SA-github-and-jekyll.md
     - MA-TA-attract-talent.md
     - PR-PE-programming-experience.md
