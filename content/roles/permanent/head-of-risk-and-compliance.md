@@ -1,5 +1,5 @@
 ---
-title         : Head of Risk and Compliance!!!
+title         : Head of Risk and Compliance
 date          : 2017-12-06
 layout        : role
 contract_type : Permanent
