@@ -1,4 +1,4 @@
-----
+---
  title       : Flexibility
  key         : CP-FL
  difficulty  : medium
@@ -12,4 +12,4 @@
  other_questions:
      - "CP-AD-02: Describe how you have collaborated with others outside of your team to resolve a critical issue."
      - "CP-AD-03: Describe a time when you experienced conflict with another team member."
-----
+---
