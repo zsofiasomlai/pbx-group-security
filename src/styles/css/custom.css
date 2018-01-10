@@ -34,9 +34,6 @@
   border-color: #8FC43E;
 }
 
-
-</div>
-
 @media only screen and (min-width : 481px) {
    .flex-row.row {
 	 display: flex;
