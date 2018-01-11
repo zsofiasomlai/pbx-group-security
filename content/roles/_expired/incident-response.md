@@ -1,4 +1,5 @@
 ---
+hide          : true
 title         : IT Security Incident Response Analyst
 date          : 2017-12-27
 contract_type : Contractor
