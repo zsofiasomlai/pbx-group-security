@@ -17,7 +17,7 @@ aliases :
     - 815670b7
     - 878cac1c
     - 882cb6ff
-    - 8d0d7c2b
+
 
     
 type  :  for-candidate
