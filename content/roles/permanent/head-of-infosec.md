@@ -5,7 +5,7 @@ date            : 2017-12-06
 contract_type   : Permanent
 location        : London, Paris, Valencia or Munich
 challenges_page : challenges/for-candidate/jds/head-infosec.md
-apply_Link      : https://www.linkedin.com/jobs/view/528061818
+apply_Link      : https://photoboxgroup.workable.com/j/307883703F
 
 what_will_you_do:
     - Consult, approve and/or validate existing business strategic directions and investment plans as they relate to the protection of systems and data
