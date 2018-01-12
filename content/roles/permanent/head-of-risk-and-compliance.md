@@ -4,7 +4,7 @@ date          : 2017-12-06
 layout        : role
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
-apply_Link    : https://www.linkedin.com/jobs/view/553978884/
+apply_Link    : https://photoboxgroup.workable.com/j/DD95AC915B
 
 what_will_you_do:
     - Take overall responsibility for the management and development of PhotoBox Group’s risk and compliance systems
