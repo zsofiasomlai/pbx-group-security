@@ -1,12 +1,11 @@
 ---
 title           : SOC Engineer and Incident Response (9a1dd63c)
-layout          : role
 aliases         : 9a1dd63c
 date            : 2018-01-09
 contract_type   : Contractor
 location        : Remotely (2 to 5 days per week)
 apply_Link      :
-type  :  for-candidate
+type            : for-candidate
 
 what_will_you_do:
     - You will be responsible for initial analysis/investigation of data and the escalation and management of incidents on a day-to-day basis.
