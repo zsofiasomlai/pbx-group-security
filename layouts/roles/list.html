@@ -22,75 +22,17 @@
                     <main>
                         <div>
                             <p>{{ .Content }} </p>
+                            {{ $.Scratch.Set "roles_table_title" "Permanent Positions" }}
+                            {{ $.Scratch.Set "contract_type" "Permanent" }}
+                            {{ partial "roles/roles-table.html" . }}
 
-                            <h2>Permanent Positions</h2>
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th width="40%"> Role           </th>
-                                    <th> Contract Type  </th>
-                                    <th> Location       </th>
-                                    <th> Apply          </th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                {{ range where .Data.Pages "Params.contract_type" "Permanent" }}
-                                    {{ if ne .Params.hide true}}
-                                        <tr>
-                                            {{ partial "roles/contract_td.html" . }}
-                                        </tr>
-                                    {{ end}}
-                                {{ end }}
-                                </tbody>
+                            {{ $.Scratch.Set "roles_table_title" "Contract Positions" }}
+                            {{ $.Scratch.Set "contract_type" "Contractor" }}
+                            {{ partial "roles/roles-table.html" . }}
 
-                            </table>
-
-                            <h2>Contract Positions</h2>
-
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th  width="40%"> Role           </th>
-                                    <th> Contract Type  </th>
-                                    <th> Location       </th>
-                                    <th> Apply          </th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                {{ range where .Data.Pages "Params.contract_type" "Contractor" }}
-                                    <tr>
-                                        {{ if ne .Params.hide true}}
-                                            {{ partial "roles/contract_td.html" . }}
-                                        {{ end }}
-                                    </tr>
-                                {{ end }}
-                                </tbody>
-
-                            </table>
-
-                            <h2>Upwork</h2>
-
-                            <table class="table">
-                                <thead>
-                                <tr>
-                                    <th  width="40%"> Role           </th>
-                                    <th> Contract Type  </th>
-                                    <th> Location       </th>
-                                    <th> Apply          </th>
-                                </tr>
-                                </thead>
-                                <tbody>
-                                {{ range where .Data.Pages "Params.contract_type" "Upwork" }}
-                                    <tr>
-                                        {{ if ne .Params.hide true}}
-                                            {{ partial "roles/contract_td.html" . }}
-                                        {{ end }}
-                                    </tr>
-                                {{ end }}
-                                </tbody>
-
-                            </table>
-
+                            {{ $.Scratch.Set "roles_table_title" "Upwork" }}
+                            {{ $.Scratch.Set "contract_type" "Upwork" }}
+                            {{ partial "roles/roles-table.html" . }}
                         </div>
                     </main>
 
