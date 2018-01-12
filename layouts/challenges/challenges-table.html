@@ -7,7 +7,6 @@
             <header>
               {{ partial "nav.html" . }}
             </header>
-
             <style>
                 .challenge-area {
                     border-radius: 10px;
@@ -49,11 +48,8 @@
                     padding-top     : 2px !important;
                     border-radius: 10px;
                 }
-
-
-
-
             </style>
+
             {{ partial "breadcrumbs.html" . }}
 
             <div id="content">
@@ -101,8 +97,14 @@
                                                     </thead>
                                                     {{ range .Pages }}
                                                         <tr>
-
-                                                            <td>{{ .Params.Title }}</td>
+                                                            <td>
+                                                                <div class="hidden-print">
+                                                                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                                                                </div>
+                                                                <div class="visible-print challenge-title">
+                                                                    <b>{{ .Title }}</b>
+                                                                </div>
+                                                            </td>                                                
                                                             <!-- <td class="text-center difficulty" >{{ $.Scratch.Get .Params.Key }} </td> -->
                                                             <td class="text-center difficulty">
                                                                 <span class="difficulty-{{ .Params.difficulty }}">
@@ -110,7 +112,6 @@
                                                                 </span>
                                                             </td>
                                                             <td class="text-center key">
-
                                                                 <span class="size hidden-print">
                                                                     <a href="{{ .Permalink}}">{{ .Params.Key }}</a>
                                                                 </span>
