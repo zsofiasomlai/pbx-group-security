@@ -6,4 +6,4 @@ DISTRIBUTION_ID=E3K53GHHL4D0LE
 # aws s3 sync --acl "public-read" --sse "AES256" public/ s3://$BUCKET_NAME --delete
 
 aws s3 sync --acl "public-read" --sse "AES256" public/ s3://$BUCKET_NAME
-aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths /index.html / /page/* /css/* /blog/* /contact/* /challenges/* /roles/* /recruiters/*
+aws cloudfront create-invalidation --distribution-id $DISTRIBUTION_ID --paths /index.html / /page/* /css/* /blog/* /contact/* /challenges/* /roles/* /recruiters/* /8d0d7c*
