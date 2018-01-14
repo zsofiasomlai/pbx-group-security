@@ -8,7 +8,7 @@ author      : Dinis Cruz
 
 ## Why challenges?
 
-Why are we asking you to take up the various challenges and provide all this extra information before we even meet?
+Why are we asking applicants to take up the various challenges and provide all this extra information before we even meet?
 
 Our challenges will highlight the opportunities and advantages of working with Photobox Security Group. They represent what we do on a daily basis, and give you a feel for the job you will do. We want to avoid the horror stories from other corporations, who use irrelevant challenges that focus on knotty intellectual, problem-solving capabilities that are worlds away from the realities of the job being advertised.
 
