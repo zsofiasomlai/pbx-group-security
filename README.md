@@ -30,4 +30,21 @@ Go to http://localhost:1313
 
 # Test
 
-Do we have any tests to run?
+Coming soon!
+
+# Building Static Assets with Gulp
+
+```
+>gulp -T
+...
+--js
+--css
+--images
+--- default
+    --js
+    --css
+    --images
+...
+>gulp images
+...
+```
