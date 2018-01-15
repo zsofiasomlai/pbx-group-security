@@ -1,5 +1,56 @@
-/* your styles go here */
+/* custom header background styles */
+#heading-breadcrumbs .about-us-header {
+  /* fallback */
+  background-color: #80C70B;
+  /* Safari 4-5, Chrome 1-9 */
+  background: -webkit-gradient(linear, left top, right top, from(#4F9179), to(#80C70B));
+  /* Safari 5.1, Chrome 10+ */
+  background: -webkit-linear-gradient(left, #80C70B, #4F9179);
+  /* Firefox 3.6+ */
+  background: -moz-linear-gradient(left, #80C70B, #4F9179);
+  /* IE 10 */
+  background: -ms-linear-gradient(left, #80C70B, #4F9179);
+  /* Opera 11.10+ */
+  background: -o-linear-gradient(left, #80C70B, #4F9179);
+}
 
+#heading-breadcrumbs .roles-header {
+  background-color: #A0C860;
+  background: -webkit-gradient(linear, left top, right top, from(#E2E665), to(#A0C860));
+  background: -webkit-linear-gradient(left, #A0C860, #E2E665);
+  background: -moz-linear-gradient(left, #A0C860, #E2E665);
+  background: -ms-linear-gradient(left, #A0C860, #E2E665);
+  background: -o-linear-gradient(left, #A0C860, #E2E665);
+}
+
+#heading-breadcrumbs .challenges-header {
+  background-color: #93C38C;
+  background: -webkit-gradient(linear, left top, right top, from(#4F9179), to(#93C38C));
+  background: -webkit-linear-gradient(left, #93C38C, #4F9179);
+  background: -moz-linear-gradient(left, #93C38C, #4F9179);
+  background: -ms-linear-gradient(left, #93C38C, #4F9179);
+  background: -o-linear-gradient(left, #93C38C, #4F9179);
+}
+
+#heading-breadcrumbs .blog-header {
+  background-color: #4F9179;
+  background: -webkit-gradient(linear, left top, right top, from(#78FF95), to(#4F9179));
+  background: -webkit-linear-gradient(left, #4F9179, #78FF95);
+  background: -moz-linear-gradient(left, #4F9179, #78FF95);
+  background: -ms-linear-gradient(left, #4F9179, #78FF95);
+  background: -o-linear-gradient(left, #4F9179, #78FF95);
+}
+
+#heading-breadcrumbs .contact-header {
+  background-color: #F68155;
+  background: -webkit-gradient(linear, left top, right top, from(#B6466E), to(#F68155));
+  background: -webkit-linear-gradient(left, #F68155, #B6466E);
+  background: -moz-linear-gradient(left, #F68155, #B6466E);
+  background: -ms-linear-gradient(left, #F68155, #B6466E);
+  background: -o-linear-gradient(left, #F68155, #B6466E);
+}
+
+/* custom edit box styles ??? */
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
