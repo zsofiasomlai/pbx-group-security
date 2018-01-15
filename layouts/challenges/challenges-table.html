@@ -17,41 +17,30 @@
         <main>
           <div>
             <p>{{ .Content }}</p>
+            <h3>All challenges (by area)</h3>                             
+            {{ $.Scratch.Set "area" "compliance" }}
+            {{ partial "challenge/challenges-table.html" . }}
 
-            {{ if eq .Params.Title "Pages for candidates" }}
-              <ul>
-              {{ range sort .Parent.Data.Pages ".Params.title" }}
-                <li>
-                  <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </li>
-              {{ end }}
-              </ul>
-            {{ else }}
-              <h3>All challenges (by area)</h3>                             
-              {{ $.Scratch.Set "area" "compliance" }}
-              {{ partial "challenge/challenges-table.html" . }}
+            {{ $.Scratch.Set "area" "management" }}
+            {{ partial "challenge/challenges-table.html" . }}
 
-              {{ $.Scratch.Set "area" "management" }}
-              {{ partial "challenge/challenges-table.html" . }}
+            {{ $.Scratch.Set "area" "programming" }}
+            {{ partial "challenge/challenges-table.html" . }}
 
-              {{ $.Scratch.Set "area" "programming" }}
-              {{ partial "challenge/challenges-table.html" . }}
+            {{ $.Scratch.Set "area" "research" }}
+            {{ partial "challenge/challenges-table.html" . }}
 
-              {{ $.Scratch.Set "area" "research" }}
-              {{ partial "challenge/challenges-table.html" . }}
+            {{ $.Scratch.Set "area" "risk" }}
+            {{ partial "challenge/challenges-table.html" . }}
 
-              {{ $.Scratch.Set "area" "risk" }}
-              {{ partial "challenge/challenges-table.html" . }}
+            {{ $.Scratch.Set "area" "security" }}
+            {{ partial "challenge/challenges-table.html" . }}
 
-              {{ $.Scratch.Set "area" "security" }}
-              {{ partial "challenge/challenges-table.html" . }}
+            {{ $.Scratch.Set "area" "standards" }}
+            {{ partial "challenge/challenges-table.html" . }}
 
-              {{ $.Scratch.Set "area" "standards" }}
-              {{ partial "challenge/challenges-table.html" . }}
-
-              {{ $.Scratch.Set "area" "technical" }}
-              {{ partial "challenge/challenges-table.html" . }}
-            {{ end }}
+            {{ $.Scratch.Set "area" "technical" }}
+            {{ partial "challenge/challenges-table.html" . }}
           </div>
         </main>
 
