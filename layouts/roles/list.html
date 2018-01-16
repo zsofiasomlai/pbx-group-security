@@ -1,56 +1,37 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-
   {{ partial "head.html" . }}
+<body>
+<div id="all">
+  <header>
+    {{ partial "nav.html" . }}
+  </header>
+  {{ partial "breadcrumbs.html" . }}
+  <div id="content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-9">
+          {{ .Content }}
+          {{ $.Scratch.Set "roles_table_title" "Permanent Positions" }}
+          {{ $.Scratch.Set "contract_type" "Permanent" }}
+          {{ partial "roles/roles-table.html" . }}
 
-  <body>
+          {{ $.Scratch.Set "roles_table_title" "Contract Positions" }}
+          {{ $.Scratch.Set "contract_type" "Contractor" }}
+          {{ partial "roles/roles-table.html" . }}
 
-    <div id="all">
-
-        <header>
-
-          {{ partial "nav.html" . }}
-
-        </header>
-
-        {{ partial "breadcrumbs.html" . }}
-
-        <div id="content">          <!-- issue xyz: refactor code below -->
-            <div class="container">
-                <div class="row">
-
-                    <main>
-                        <div>
-                            <p>{{ .Content }} </p>
-                            {{ $.Scratch.Set "roles_table_title" "Permanent Positions" }}
-                            {{ $.Scratch.Set "contract_type" "Permanent" }}
-                            {{ partial "roles/roles-table.html" . }}
-
-                            {{ $.Scratch.Set "roles_table_title" "Contract Positions" }}
-                            {{ $.Scratch.Set "contract_type" "Contractor" }}
-                            {{ partial "roles/roles-table.html" . }}
-
-                            {{ $.Scratch.Set "roles_table_title" "Upwork" }}
-                            {{ $.Scratch.Set "contract_type" "Upwork" }}
-                            {{ partial "roles/roles-table.html" . }}
-                        </div>
-                    </main>
-
-                    <hr/>
-
-                </div>
-                <!-- /.row -->
-            </div>
-            <!-- /.container -->
+          {{ $.Scratch.Set "roles_table_title" "Upwork" }}
+          {{ $.Scratch.Set "contract_type" "Upwork" }}
+          {{ partial "roles/roles-table.html" . }}
+          <hr/>          
         </div>
-        <!-- /#content -->
-
-        {{ partial "footer.html" . }}
-
-    </div>
-    <!-- /#all -->
-
-    {{ partial "scripts.html" . }}
-
-  </body>
+        <div class="col-md-3">
+        </div>        
+      </div> <!-- /.row -->
+    </div> <!-- /.container -->
+  </div> <!-- /#content -->
+  {{ partial "footer.html" . }}
+</div> <!-- /#all -->
+{{ partial "scripts.html" . }}
+</body>
 </html>
