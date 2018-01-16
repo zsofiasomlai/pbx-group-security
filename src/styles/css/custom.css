@@ -5,7 +5,10 @@
   background-repeat: no-repeat;
 }*/
 
-#heading-breadcrumbs, #heading-breadcrumbs.about-us-header {
+#heading-breadcrumbs,
+#heading-breadcrumbs.site,
+#heading-breadcrumbs.page,
+#heading-breadcrumbs.about-us-header {
   /* background: url('../img/texture-bw.png') center center repeat; */  
   /* fallback */
   background-color: #80C70B;
