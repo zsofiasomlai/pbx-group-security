@@ -14,10 +14,8 @@
   <div id="content">
     <div class="container">
       <div class="row">
-        <main>
-          <div>
-            <p>{{ .Content }}</p>
-            <h3>All challenges (by area)</h3>                             
+          <div class="col-md-9">
+            {{ .Content }}
             {{ $.Scratch.Set "area" "compliance" }}
             {{ partial "challenge/challenges-table.html" . }}
 
@@ -42,11 +40,9 @@
             {{ $.Scratch.Set "area" "technical" }}
             {{ partial "challenge/challenges-table.html" . }}
           </div>
-        </main>
-
         <div class="col-md-3">
-          </div>
-        </div>  <!-- /.row -->
+        </div>
+      </div>  <!-- /.row -->
     </div>  <!-- /.container -->
 
     {{ if ne .Params.Title "Pages for candidates" }}
