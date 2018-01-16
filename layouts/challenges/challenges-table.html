@@ -4,58 +4,51 @@
   {{ partial "css/print-fixes.html" }}
 <body>
 <div id="all">
-
   <header>
     {{ partial "nav.html" . }}
   </header>
-
   {{ partial "breadcrumbs.html" . }}
-
   <div id="content">
     <div class="container">
       <div class="row">
-          <div class="col-md-9">
-            {{ .Content }}
-            {{ $.Scratch.Set "area" "compliance" }}
-            {{ partial "challenge/challenges-table.html" . }}
+        <div class="col-md-9">
+          {{ .Content }}
+          {{ $.Scratch.Set "area" "compliance" }}
+          {{ partial "challenge/challenges-table.html" . }}
 
-            {{ $.Scratch.Set "area" "management" }}
-            {{ partial "challenge/challenges-table.html" . }}
+          {{ $.Scratch.Set "area" "management" }}
+          {{ partial "challenge/challenges-table.html" . }}
 
-            {{ $.Scratch.Set "area" "programming" }}
-            {{ partial "challenge/challenges-table.html" . }}
+          {{ $.Scratch.Set "area" "programming" }}
+          {{ partial "challenge/challenges-table.html" . }}
 
-            {{ $.Scratch.Set "area" "research" }}
-            {{ partial "challenge/challenges-table.html" . }}
+          {{ $.Scratch.Set "area" "research" }}
+          {{ partial "challenge/challenges-table.html" . }}
 
-            {{ $.Scratch.Set "area" "risk" }}
-            {{ partial "challenge/challenges-table.html" . }}
+          {{ $.Scratch.Set "area" "risk" }}
+          {{ partial "challenge/challenges-table.html" . }}
 
-            {{ $.Scratch.Set "area" "security" }}
-            {{ partial "challenge/challenges-table.html" . }}
+          {{ $.Scratch.Set "area" "security" }}
+          {{ partial "challenge/challenges-table.html" . }}
 
-            {{ $.Scratch.Set "area" "standards" }}
-            {{ partial "challenge/challenges-table.html" . }}
+          {{ $.Scratch.Set "area" "standards" }}
+          {{ partial "challenge/challenges-table.html" . }}
 
-            {{ $.Scratch.Set "area" "technical" }}
-            {{ partial "challenge/challenges-table.html" . }}
-          </div>
+          {{ $.Scratch.Set "area" "technical" }}
+          {{ partial "challenge/challenges-table.html" . }}
+        </div>
         <div class="col-md-3">
         </div>
       </div>  <!-- /.row -->
     </div>  <!-- /.container -->
-
     {{ if ne .Params.Title "Pages for candidates" }}
       <ul>
         <small><i><a href ='/challenges/for-candidate/'>for-candidate</a></i></small>
       </ul>
     {{ end }}
-
   </div>  <!-- /#content -->
-
   {{ partial "footer.html" . }}
 </div>  <!-- /#all -->
-
 {{ partial "scripts.html" . }}
 </body>
 </html>
