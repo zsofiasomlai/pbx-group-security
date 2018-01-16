@@ -1,4 +1,6 @@
-{{ $section := .Section }}
+{{ $url := replace .URL "/page" "" }}
+{{ $section := index (split $url "/") 1 }}
+<!-- kind={{ .Kind }} | url={{ .URL }} => url={{ $url }} | section={{ $section }} -->
 <div id="heading-breadcrumbs" class="{{ $section }}-header">
   <div class="container">
     <div class="row">
