@@ -6,10 +6,10 @@
     {{ range $index, $element := .challenges }}
         {{ if modBool $index 3 }}
             </div>                      <!-- trick to make rows work ok -->
-            <div  class="row">
+            <div  class="row row--flex">
         {{ end }}
 
-        <div class="col-md-4">
+        <div class="col-md-4 col--flex">
 
             {{ with $.site.GetPage "page" . }}
 

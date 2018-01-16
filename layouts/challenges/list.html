@@ -8,56 +8,6 @@
     {{ partial "nav.html" . }}
   </header>
 
-  <!-- TODO: move this to custom challenges.css -->
-  <style>
-    .challenge-area {
-      border-radius: 10px;
-      background: #FAFAFA;
-      border: 1px solid;
-      margin-bottom: 20px
-    }
-  
-    .challenge-area .title {
-      border-top-left-radius: 10px;
-      border-top-right-radius: 10px;
-      padding: 1px;
-      color: white;
-      background-color: #8fc43e;
-      font-size: 150%;
-      text-align: center;
-    }
-  
-    .challenge-area .title .size {
-      font-size: 9px;
-    }
-  
-    .challenge-area .difficulty {
-      font-size: 75%;
-      vertical-align: middle;
-    }
-  
-    .challenge-area .key {
-      font-size: 75%;
-      width: 51px;
-      vertical-align: middle;
-    }
-  
-    .challenge-area table {
-      font-size: 100%;
-      margin-bottom: 0px;
-    }
-  
-    .challenge-area thead {
-      font-size: 75%;
-    }
-  
-    .challenge-area table td {
-      padding-bottom: 2px !important;
-      padding-top: 2px !important;
-      border-radius: 10px;
-    }
-  </style>
-
   {{ partial "breadcrumbs.html" . }}
 
   <div id="content">
@@ -84,64 +34,18 @@
               {{ end }}                             
             {{ end }}
           {{ end}}
-
           <!-- challenges table cards by area, 3 per row -->
           {{ $challengesByArea := $challenges.GroupByParam "area" }}
           <div>
           {{ range $i, $elemment := $challengesByArea }}
             {{ if modBool $i 3 }}
               </div>
-              <div class="row">
+              <!-- add class .row--flex to make every item match height of taller sibling -->
+              <div class="row row--flex">
             {{ end }}
-
-            <div class="col-xs-4">
-              <div class="challenge-area">
-
-                <div class="title">
-                  {{ .Key }}
-                  <span class="size hidden-print">
-                    x{{ len .Pages }}
-                  <span>
-                </div>
-
-                <table class="table">
-                  <thead>
-                    <th>Title</th>
-                    <!--<th class="text-center">Used</th>-->
-                    <th class="text-center">Difficulty</th>
-                    <th class="text-center">key</th>
-                  </thead>
-                  <tbody>
-                    {{ range .Pages }}
-                    <tr>
-                      <td>
-                        <div class="hidden-print">
-                          <a href="{{ .Permalink }}">{{ .Title }}</a>
-                        </div>
-                        <div class="visible-print challenge-title">
-                          <b>{{ .Title }}</b>
-                        </div>
-                      </td>
-                      <!-- <td class="text-center difficulty" >{{ $.Scratch.Get .Params.Key }} </td> -->
-                      <td class="text-center difficulty">
-                        <span class="difficulty-{{ .Params.difficulty }}">
-                          {{ .Params.difficulty }}
-                        </span>
-                      </td>
-                      <td class="text-center key">
-                        <span class="size hidden-print">
-                          <a href="{{ .Permalink}}">{{ .Params.Key }}</a>
-                        </span>
-                        <span class="size visible-print">
-                          {{ .Params.Key }}
-                        </span>
-                      </td>
-                    </tr>
-                    {{ end }}
-                  </tbody>
-                </table>
-              </div> <!-- /.challenge-area -->
-
+            <!-- add class .col--flex for same purpose as previous comment -->
+            <div class="col-md-4 col--flex">
+              {{ partial "challenge/challenges-area.html" . }}
             </div>
           {{ end }} <!-- /challenges by area -->
           </div>
