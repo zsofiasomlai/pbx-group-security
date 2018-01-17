@@ -1,9 +1,10 @@
 /* custom header background styles */
-/*#heading-breadcrumbs {
+#heading-breadcrumbs {
   background-image: url('../img/pbx-gs/headers/about-us.png');
   background-size: cover;
   background-repeat: no-repeat;
-}*/
+  height: 208px;
+}
 
 #heading-breadcrumbs,
 #heading-breadcrumbs.site,
@@ -22,6 +23,9 @@
   background: -ms-linear-gradient(left, #80C70B, #4F9179);
   /* Opera 11.10+ */
   background: -o-linear-gradient(left, #80C70B, #4F9179);
+  background-image: url('../img/pbx-gs/headers/about-us.png');
+  background-size: cover;
+  background-repeat: no-repeat;  
 }
 
 #heading-breadcrumbs.roles-header {
@@ -31,6 +35,9 @@
   background: -moz-linear-gradient(left, #A0C860, #E2E665);
   background: -ms-linear-gradient(left, #A0C860, #E2E665);
   background: -o-linear-gradient(left, #A0C860, #E2E665);
+  background-image: url('../img/pbx-gs/headers/roles.png');
+  background-size: cover;
+  background-repeat: no-repeat;  
 }
 
 #heading-breadcrumbs.challenges-header {
@@ -40,6 +47,9 @@
   background: -moz-linear-gradient(left, #93C38C, #4F9179);
   background: -ms-linear-gradient(left, #93C38C, #4F9179);
   background: -o-linear-gradient(left, #93C38C, #4F9179);
+  background-image: url('../img/pbx-gs/headers/challenges.png');
+  background-size: cover;
+  background-repeat: no-repeat;  
 }
 
 #heading-breadcrumbs.blog-header {
@@ -49,6 +59,9 @@
   background: -moz-linear-gradient(left, #4F9179, #78FF95);
   background: -ms-linear-gradient(left, #4F9179, #78FF95);
   background: -o-linear-gradient(left, #4F9179, #78FF95);
+  background-image: url('../img/pbx-gs/headers/blog.png');
+  background-size: cover;
+  background-repeat: no-repeat;  
 }
 
 #heading-breadcrumbs.contact-header {
@@ -58,6 +71,9 @@
   background: -moz-linear-gradient(left, #F68155, #B6466E);
   background: -ms-linear-gradient(left, #F68155, #B6466E);
   background: -o-linear-gradient(left, #F68155, #B6466E);
+  background-image: url('../img/pbx-gs/headers/contact.png');
+  background-size: cover;
+  background-repeat: no-repeat;  
 }
 
 /* custom edit box styles ??? */
@@ -97,17 +113,16 @@
 
 @media only screen and (min-width : 481px) {
    .flex-row.row {
-	 display: flex;
-	 flex-wrap: wrap;
+   display: flex;
+   flex-wrap: wrap;
    }
    .flex-row.row > [class*='col-'] {
-	 display: flex;
-	 flex-direction: column;
+   display: flex;
+   flex-direction: column;
    }
   .flex-row.row:after,
   .flex-row.row:before {
-	 display: flex;
+   display: flex;
   }
 }
-
 
