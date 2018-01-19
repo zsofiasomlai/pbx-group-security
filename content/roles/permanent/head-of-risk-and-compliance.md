@@ -18,7 +18,7 @@ Who_are_you:
     - Well versed in the range of risk management frameworks, including but not limited to operational, financial, data protection, and information security
     - Strong understanding of emerging UK and European legislation, such as IDD and GDPR, codes of practice and industry guidelines potentially affecting the Photobox Group
     - Able to form close working relationships and influence senior stakeholders
-    - Able to operate effectively within a fast-paced organisation.
+    - Able to operate effectively within a fast-paced organisation
     - Educated to degree level (or equivalent)
 
 
