@@ -15,7 +15,7 @@ Photobox Group, working with OWASP London Chapter, is hosting a number of workin
   - [GDPR And DPO AppSec Implications](https://owaspsummit.org/Outcomes/CISO/GDPR-letter.html)
   
 ## Book your place now
-![/img/working-sessions/0602.png](https://www.eventbrite.com/e/owasp-working-session-tickets-42150953637)
+[![6 Feb 18]/img/working-sessions/0602.png](https://www.eventbrite.com/e/owasp-working-session-tickets-42150953637)
   
   
 ## Unable to join us in person?
