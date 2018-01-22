@@ -12,7 +12,7 @@ Photobox Group, working with OWASP London Chapter, is hosting a number of workin
   - [Playbook common format](https://owaspsummit.org/Outcomes/Playbooks/Playbooks-Common-Format.html)
   - [SAMM](https://owaspsummit.org/Outcomes/OwaspSAMM/OWASP-SAMM.html)
   - [GitHub security feature request](https://owaspsummit.org/Outcomes/GitHub-Security-Feature-Request.html)
-  - [GDPR And DPO AppSec Implications](https://owaspsummit.org/Outcomes/CISO/GDPR-letter.html)
+  - [GDPR and DPO AppSec implications](https://owaspsummit.org/Outcomes/CISO/GDPR-letter.html)
   
 ## Book your place now
 [![6 Feb 18](/img/working-sessions/0602.png)](https://www.eventbrite.com/e/owasp-working-session-tickets-42150953637)
