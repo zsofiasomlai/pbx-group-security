@@ -3,7 +3,6 @@ title       : "Working Sessions"
 banner      : "/img/pbx-gs/pbx-gs-logo.png"
 image       : "/img/blog/Photoboxgroup_wearehiringRGB.png"
 url         : "/working-sessions"
-layout      : "working sessions"
 description : "Photobox Group Security is hosting a number of OWASP working sessions to discuss the hot topics in industy."
 ---
 
@@ -28,9 +27,7 @@ Photobox Group, working with OWASP London Chapter, is hosting a number of workin
     
   
 ## Unable to join us in person?
-
 Please [let us know](mailto:project-cx@photobox.com) that you'd like to access these sessions remotely and you'll be provided with a Google Hangout link.
 
 ## Contiune the conversation at this year's summit
-
 [Book your place now](https://www.eventbrite.be/register?orderid=edf75c84ff8211e7ba8f0a7c4741b16a&client_token=e4fafab0187745b19c53c8513cb94bd1&eid=39825671656)
