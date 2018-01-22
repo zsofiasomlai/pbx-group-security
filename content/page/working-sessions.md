@@ -16,7 +16,8 @@ Photobox Group, working with OWASP London Chapter, is hosting a number of workin
   
 ## Book your place now
 [![6 Feb 18](/img/working-sessions/0602.png)](https://www.eventbrite.com/e/owasp-working-session-tickets-42150953637)
-  
+[![20 Feb 18](/img/working-sessions/2002.png)](https://www.eventbrite.com/e/owasp-working-session-tickets-42150963667)
+    
   
 ## Unable to join us in person?
 
