@@ -31,12 +31,12 @@ Photobox Group, working with OWASP London Chapter, is hosting a number of workin
   
 If you have a session idea [email your suggestion to us](mailto:project-cx@photobox.com)
   
-## Book your place now
+#### Book your place now
 
 {{< events >}}
   
-## Unable to join us in person?
+#### Unable to join us in person?
 Please [let us know](mailto:project-cx@photobox.com) that you'd like to access these sessions remotely and you'll be provided with a Google Hangout link.
 
-## Contiune the conversation at this year's summit
-[Book your place now](https://www.eventbrite.be/register?orderid=edf75c84ff8211e7ba8f0a7c4741b16a&client_token=e4fafab0187745b19c53c8513cb94bd1&eid=39825671656)
+#### Contiune the conversation at this year's Open Security Summit
+[Book your place now](https://www.eventbrite.co.uk/e/open-security-summit-tickets-42524734626)
