@@ -38,5 +38,5 @@ If you have a session idea [email your suggestion to us](mailto:project-cx@photo
 #### Unable to join us in person?
 Please [let us know](mailto:project-cx@photobox.com) that you'd like to access these sessions remotely and you'll be provided with a Google Hangout link.
 
-#### Contiune the conversation at this year's Open Security Summit
+#### Continue the conversation at this year's Open Security Summit
 [Book your place now](https://www.eventbrite.co.uk/e/open-security-summit-tickets-42524734626)
