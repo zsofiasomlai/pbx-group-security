@@ -29,6 +29,8 @@ Photobox Group, working with OWASP London Chapter, is hosting a number of workin
   - [GitHub security feature request](https://owaspsummit.org/Outcomes/GitHub-Security-Feature-Request.html)
   - [GDPR and DPO AppSec implications](https://owaspsummit.org/Outcomes/CISO/GDPR-letter.html)
   
+If you have a session idea [email your suggestion to us](mailto:project-cx@photobox.com)
+  
 ## Book your place now
 
 {{< events >}}
