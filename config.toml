@@ -53,6 +53,12 @@ facebook = ""
     url  = "/blog/"
     weight = 6
 
+
+[[menu.main]]
+    name = "Working Sessions"
+    url  = "/working-sessions/"
+    weight = 7
+
 #[[menu.main]]
 #    name = "Dev"
 #    url  = "/page/dev/"
@@ -61,7 +67,7 @@ facebook = ""
 [[menu.main]]
     name = "Contact"
     url  = "/page/contact/"
-    weight = 7
+    weight = 8
 
 # Top bar social links menu
 
