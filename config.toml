@@ -64,10 +64,10 @@ facebook = ""
 #    url  = "/page/dev/"
 #    weight = 5
 
-[[menu.main]]
-    name = "Contact"
-    url  = "/page/contact/"
-    weight = 8
+#[[menu.main]]
+#    name = "Contact"
+#    url  = "/page/contact/"
+#    weight = 8
 
 # Top bar social links menu
 

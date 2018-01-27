@@ -1,7 +1,7 @@
 ---
 title           : SOC Engineer and Incident Response
 layout          : role
-date            : 2018-1-26
+date            : 2018-01-26
 contract_type   : Contractor
 location        : London and Remotely (2 to 5 days per week)
 apply_Link      :
@@ -12,9 +12,9 @@ what_will_you_do:
     - Detect, respond and remediate security events and incidents across our infrastructure
     - Write and publish urgent advisories and periodic reports to provide situational awareness and communicate cyber threats in an actionable format to management
     - Support the implementation of the Photobox Threat Management strategy
-    - Use of Security tooling and maintenance 
+    - Use of Security tooling and maintenance
     - Advise the Senior Threat Management Analyst around the cyber threat landscape
-    - Work closely with compliance and architecture functions 
+    - Work closely with compliance and architecture functions
 
 who_are_you:
     - Knowledge of AlertLogic and AlienVault or Elastic Stack/ELK
