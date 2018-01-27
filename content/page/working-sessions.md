@@ -20,7 +20,7 @@ events      :
 ---
 Photobox Group, working with OWASP London Chapter, is hosting a number of working sessions to continue the great work done at the OWASP Summit 2017, and collaborate and share our knowledge.
 
-#### The first working session on the 6th of March will focus on the following Working Sessions:
+#### The first working session on the 6th of February will focus on the following Working Sessions:
 
   - [Playbook common format](https://owaspsummit.org/Outcomes/Playbooks/Playbooks-Common-Format.html)
   - [SAMM](https://owaspsummit.org/Outcomes/OwaspSAMM/OWASP-SAMM.html)
