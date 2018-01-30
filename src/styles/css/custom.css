@@ -133,6 +133,7 @@
   text-align: center;
   font-size: 2.2rem;
   margin-bottom:30px;
+  font-family: 'Century Gothic', sans-serif;
   /* Maintaning a square ratio */
   padding-top: calc(1 / 1 * 100%);
 }
@@ -152,7 +153,6 @@ a.event-card:hover{
   letter-spacing: 1px;
   color:white;
   background:#8fc43d;
-  font-weight: bold;
   flex:0 0 auto;
   border-bottom:2px solid #808281;
 }
