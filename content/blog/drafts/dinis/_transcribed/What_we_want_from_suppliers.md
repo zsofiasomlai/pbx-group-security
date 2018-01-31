@@ -4,19 +4,22 @@ title  : What we want from suppliers
 author : Dinis Cruz
 notes:
   - english and structure adjusted
+  - Substantive edit created 27/01/2017 in response to Jemma's request for a 
+  - more positive spin.
+  - requires proofing
 ---
 
-What we want from a security vendor.
+That one’s a keeper.
 
-What we want from the company supervising our services or products, is a partner. We need a partner that understands their role in assisting us to make the most out of the available technology. This is something that some of our existing suppliers are not achieving. 
+What is it that makes a great, lasting relationship with a vendor? Why is it that some vendors are keepers whilst others are ripe for replacement? The difference is in the quality of the relationship. In this post we examine what a great supplier relationship means to us at Photobox.
 
-We do have spectacular success stories and have achieved proper partnership with some suppliers. These are the suppliers who have allocated resources to us, who actually spend time with us. These partners have worked to understand how the best we can use their technology and make the most out of it. Some are so well integrated within our communications that they are on a slack channel with us. They are available for questions and they share real-world information from other customers, with us. That's what we want, proactive, integrated partners. Suppliers who ensure that we get the best from the technology and save money. It is such suppliers, of course, who also find ways for us to use more products from them, it is a synergistic relationship. 
+Our best vendors are those that understands their role in assisting us to make the most out of the technology that they offer. These are the suppliers who have allocated resources to us, who spend time with us. These are the suppliers who share a slack channel with us. They are available for questions and they share real-world information from other customers. We need real-time conversations that empower us, fast. Such technology also allows us to educate; to capture our questions and their answers and post them on webforms, so that we can learn from each other and can create connections with other consumers.
 
-The point here is not change for the sake of change, we want healthy redirection. The bottom line is that we need value for money from all of our suppliers. This will involve redefining many of our current supplier relationships. A basic requirement is the ability to communicate via slack. Real-time conversations that will empower us to make best use of their products. Such technology also allows us to educate; to capture those questions and put them on webforms, so that we can learn from each other and can create connections with other consumers. 
+We value proactive, integrated partners. Suppliers who ensure that we get the best from their technology and save money. It is such suppliers, of course, who also find ways for us to use more of their products, and so the relationship grows. 
 
-The supplier relationship cannot be one way. There must be a sharing of knowledge and experiences. A supplier not meeting these needs must be replaced. Without a close working partnership, we simply can't justify the investment. Typically, the tools we invest in are high-level, they have a steep learning curve, requiring large amounts of people-hour investment. If a supplier does not work with us enough, then we fail to gain value from their tools. 
+The bottom line is that we need value for money from all our suppliers, forcing us to redefine many of our current supplier relationships. Those vendors who are keepers fit the basic requirement; they communicate via slack. The supplier relationship cannot be a one-way street. There must be a sharing of knowledge and experiences. A supplier not meeting these needs must be replaced. Without a close working partnership, we simply can't justify the investment. Typically, the tools we invest in are high-level, they have a steep learning curve, requiring large amounts of time investment. Suppliers must be available to work with us, and be there to ensure that we gain value from their tools.
 
-We are motivated toward finding these suppliers and building these great partnerships, at good rates. We need to be empowered to assign a minimum amount of resource to ensure that each project leg is implemented. We are motivated to avoid suppliers trying to charge very high consulting rates for this, assigning us highly specialized, yet inefficient engineers. The supplier should be able to provide the tool; the expertise to deploy and configure it; and the communication structure to ensure we break through the learning curve fast.
+We are motivated toward finding these suppliers and building these great partnerships, at good rates. We need to be empowered to assign a minimum amount of resource to ensure that each project leg is implemented. We are motivated to avoid suppliers trying to charge very high consulting rates; assigning us highly specialized, yet inefficient engineers. The supplier must provide the tool as well as the expertise to deploy and configure it. They need to join our communication channels to ensure we break through the learning curve fast.
 
-So that's what we want from suppliers in 2018.
+Let’s make some great supplier relationships in 2018.
 
