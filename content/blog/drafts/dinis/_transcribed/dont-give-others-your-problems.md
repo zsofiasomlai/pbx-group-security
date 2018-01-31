@@ -4,7 +4,7 @@ title  : Don't give others your problems
 author : Dinis Cruz
 notes:
   - edited
-  - proofed
+  - needs re-proof
 ---
 Problem Transfer:  Don't Give Others Your Problem
 
