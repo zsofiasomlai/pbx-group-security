@@ -6,17 +6,17 @@ url         : "/working-sessions"
 description : "Photobox Group Security is hosting a number of OWASP working sessions to discuss the hot topics in industy."
 events      :
  - date: 2018-02-06
-   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421848892
+   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150953637
  - date: 2018-02-20
-   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421937156
+   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150963667
  - date: 2018-03-06
-   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421966243
+   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421848892
  - date: 2018-03-20
-   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421966243
+   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421937156
  - date: 2018-04-03
-   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42422060525
+   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421966243
  - date: 2018-04-17
-   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42422098639
+   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42422014387
 ---
 Photobox Group, working with OWASP London Chapter, is hosting a number of working sessions to continue the great work done at the OWASP Summit 2017, and collaborate and share our knowledge.
 
