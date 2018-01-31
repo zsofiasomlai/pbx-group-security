@@ -3,7 +3,8 @@ draft  : true
 title  : Don't give others your problems
 author : Dinis Cruz
 notes:
-  - english and structure needs fixing
+  - edited
+  - proofed
 ---
 Problem Transfer:  Don't Give Others Your Problem
 
