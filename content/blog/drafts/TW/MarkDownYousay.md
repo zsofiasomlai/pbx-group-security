@@ -6,6 +6,7 @@ notes:
  - draft0
  - plenty to do to make sure intended md renders and that example markdown does not
  - can't figure out writing a comment that should not be rendered
+ - need an example logo
 ---
 
 
@@ -51,6 +52,10 @@ Need an image? (Sorry you do still need to have " and / around for this one, som
 [logo]: https://mylogo.com/icon232.png "Logo Title"
 
 ```
+Need an logo example here
+
+
+Tables can be built with pipes and formatted with colons:
 
 ```
 
@@ -62,23 +67,24 @@ Need an image? (Sorry you do still need to have " and / around for this one, som
 
 ```
 
-Colons can be used to align columns.
-Tables	Are	Cool
-RHS Column is	right-aligned	10,000
-Middle/Column 2 is	centered	10
-laces	are neat	2
+
+| Tables          | Are           | Easy    |
+| ----------------|:-------------:| ----:   |
+| RHS Column is   | right-aligned | 10,000  |
+| Middle column is| centered      | 10      |
+| laces           | are neat      | 2       |
 
 
 You get away with writing less syntax, that is way more reader friendly and a bit of software converts your text into HTML following your gentle hints.
 
-That's pretty awesome you say? Indeed it is, that is what this site is written in.
+That's pretty awesome you say? Indeed it is, that is what this site is written in. Hugo runs some Perl to render your files as HTML and you can let the software worry about those fiddley details.
 
 Resources
 
-(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Cheat Sheet] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-(https://daringfireball.net/projects/markdown/)
+[Hugo Help] (https://gohugo.io/content-management/formats/#learn-markdown)
 
-(https://gohugo.io/content-management/formats/#learn-markdown)
+[Interactive Tutorial] (https://www.markdowntutorial.com/lesson/1/)
 
-(https://www.markdowntutorial.com/lesson/1/)
+[Go deeper] (https://daringfireball.net/projects/markdown/)
