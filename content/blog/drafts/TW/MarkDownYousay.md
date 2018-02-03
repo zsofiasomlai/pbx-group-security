@@ -19,13 +19,14 @@ In my opinion Syntax is a pain in the ass. Some people are good, perfection flow
 A great example of the "excision of faffing around" that markdown excels at is probably this:
 
 
-Put the mat out for:
+Do you want to create an external link? Then put the mat out for a couple of brackets:
 
 ```
 (https://www.easypeasy.com)
 ```
+(https://www.easypeasy.com)
 
-and say farewell to all that fussing around with " and his perfectly-placed friend /.
+and say farewell to all that fussing around with ", his perfectly-placed friend / and the <a> gang.
 
 ```
 <a href="http://devil_in_the_detail.com">link to site here</a>
@@ -45,7 +46,8 @@ The "#" is all you need, you can use up to 6 of them.
 ## H2
 ### H3
 
-Need an image? (Sorry you do still need to have " and / around for this one, some details really do matter).
+## Need an image? 
+(Sorry you do still need to have " and / around for this one, some details really do matter).
 
 ```
 
@@ -55,7 +57,7 @@ Need an image? (Sorry you do still need to have " and / around for this one, som
 Need an logo example here
 
 
-Tables can be built with pipes and formatted with colons:
+## Tables can be built with pipes and formatted with colons:
 
 ```
 
