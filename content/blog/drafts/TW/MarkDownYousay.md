@@ -19,12 +19,12 @@ In my opinion Syntax is a pain in the ass. Some people are good, perfection flow
 A great example of the "excision of faffing around" that markdown excels at is probably this:
 
 
-Do you want to create an external link? Then put the mat out for a couple of brackets:
+Do you want to create an external link? Then put in in your document:
 
 ```
-(https://www.easypeasy.com)
+https://www.easypeasy.com
 ```
-(https://www.easypeasy.com)
+https://www.easypeasy.com
 
 and say farewell to all that fussing around with ", his perfectly-placed friend / and the <a> gang.
 
@@ -83,10 +83,10 @@ That's pretty awesome you say? Indeed it is, that is what this site is written i
 
 Resources
 
-[Cheat Sheet] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+[Cheat Sheet](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
-[Hugo Help] (https://gohugo.io/content-management/formats/#learn-markdown)
+[Hugo Help](https://gohugo.io/content-management/formats/#learn-markdown)
 
-[Interactive Tutorial] (https://www.markdowntutorial.com/lesson/1/)
+[Interactive Tutorial](https://www.markdowntutorial.com/lesson/1/)
 
-[Go deeper] (https://daringfireball.net/projects/markdown/)
+[Go deeper](https://daringfireball.net/projects/markdown/)
