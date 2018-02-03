@@ -26,7 +26,7 @@ https://www.easypeasy.com
 ```
 https://www.easypeasy.com
 
-and say farewell to all that fussing around with ", his perfectly-placed friend / and the <a> gang.
+and say farewell to all that fussing around with ", his perfectly-placed friend / and the `<a>`  gang.
 
 ```
 <a href="http://devil_in_the_detail.com">link to site here</a>
