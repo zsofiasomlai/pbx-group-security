@@ -53,10 +53,10 @@ The "#" is all you need, you can use up to 6 of them.
 
 ```
 
-![image]: https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image"
+![imageDescription](https://yourdomain.com/static/img/name.jpg) "imageLegend"
 
 ```
-![image of dandelions]:https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image of dandelions"
+![image of dandelions](/static/img/blog.jpg) "image of dandelions"
 
 
 ## Tables can be built with pipes and formatted with colons:
