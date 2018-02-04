@@ -12,7 +12,7 @@ notes:
 
 # The future is here and it is written in markdown.
 
-If you care more about the words than visuals that make them spout sparks, and you understand that it is content that counts, then markdown is here for you.
+If you care more about the content than the code, and you understand that it is the words that count, then markdown is here for you.
 
 In my opinion Syntax is a pain in the ass. Some people are good, perfection flows from their finger tips. I am more the "need to be reminded to try for perfect" type. Fixing Syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
 
@@ -32,7 +32,7 @@ and say farewell to all that fussing around with ", his perfectly-placed friend 
 <a href="http://devil_in_the_detail.com">link to site here</a>
 ```
 
-## Want a header? No wrapper needed:
+## Want a header? No ```<h1>wrapper</h1>```needed:
 
 ```
 # H1
