@@ -4,9 +4,7 @@ title  : MarkDown Newbie
 author : Harrie Bickle
 notes:
  - draft0
- - plenty to do to make sure intended md renders and that example markdown does not
- - can't figure out writing a comment that should not be rendered
- - need an example logo
+ - review required
 ---
 
 
@@ -53,10 +51,10 @@ The "#" is all you need, you can use up to 6 of them.
 
 ```
 
-![imageDescription](https://yourdomain.com/static/img/name.jpg) "imageLegend"
+![imageDescription](https://yourdomain.com/static/img/name.jpg) imageLegend
 
 ```
-![image of dandelions](/static/img/blog.jpg) "image of dandelions"
+![image of dandelions](/static/img/blog.jpg) image of dandelions
 
 
 ## Tables can be built with pipes and formatted with colons:
