@@ -14,7 +14,7 @@ notes:
 
 If you care more about the content than the code, and you understand that it is the words that count, then markdown is here for you.
 
-In my opinion Syntax is a pain in the ass. Some people are good, perfection flows from their finger tips. I am more the "need to be reminded to try for perfect" type. Fixing Syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
+In my opinion Syntax is a pain. Some people are naturals and perfection flows from their finger tips. I am more the "need to be reminded to try for perfect" type. Fixing Syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
 
 A great example of the "excision of faffing around" that markdown excels at is probably this:
 
@@ -51,10 +51,10 @@ The "#" is all you need, you can use up to 6 of them.
 
 ```
 
-[logo]: https://mylogo.com/icon232.png "Logo Title"
+[image of dandelions]: https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image of dandelions"
 
 ```
-Need an logo example here
+[image of dandelions]: https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image of dandelions"
 
 
 ## Tables can be built with pipes and formatted with colons:
