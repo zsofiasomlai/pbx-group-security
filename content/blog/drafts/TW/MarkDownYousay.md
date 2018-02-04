@@ -32,7 +32,9 @@ and say farewell to all that fussing around with ", his perfectly-placed friend 
 <a href="http://devil_in_the_detail.com">link to site here</a>
 ```
 
-## Want a header? No ```<h1>wrapper</h1>```needed:
+## Want a header? 
+
+No ```<h1>wrapper</h1>```needed:
 
 ```
 # H1
@@ -51,10 +53,10 @@ The "#" is all you need, you can use up to 6 of them.
 
 ```
 
-[image]: https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image"
+![image]: https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image"
 
 ```
-[image of dandelions]:https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image of dandelions"
+![image of dandelions]:https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image of dandelions"
 
 
 ## Tables can be built with pipes and formatted with colons:
