@@ -6,6 +6,10 @@ images  : ["pbx-group-security/static/img/blog/Photoboxgroup_WhyChallenges_Squar
 author      : Dinis Cruz
 ---
 
+## How does it work?
+
+The flow is simple and, if you want it to be, fast. Apply for the [post](https://pbx-group-security.com/roles/) and complete the challenges that we set you. Impress us with those and we will invite you to an OWASP working session, where we get to meet you face to face. If we work well together you will be invited to a formal interview. 
+
 ## Why challenges?
 
 Why are we asking applicants to take up the various challenges and provide all this extra information before we even meet?
@@ -23,3 +27,4 @@ The challenges will allow you to shine. Some candidates react very quickly under
 
 ## Have fun
 The challenges should be fun; you should enjoy them, as well as learn from them. Even if you don't make it to the end of the selection process, hopefully the challenges will allow you to explore the gaps in your skill set and illustrate why this job may not be the right one for you, at this moment in time.
+
