@@ -12,9 +12,9 @@ notes:
 
 # The future is here and it is written in markdown.
 
-If you care more about the words than visuals that make them spout sparks, and you understand that it is content that counts, then markdown is here for you.
+If you care more about the content than the code, and you understand that it is the words that count, then markdown is here for you.
 
-In my opinion Syntax is a pain in the ass. Some people are good, perfection flows from their finger tips. I am more the "need to be reminded to try for perfect" type. Fixing Syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
+In my opinion Syntax is a pain. Some people are naturals and perfection flows from their finger tips. I am more the "need to be reminded to try for perfect" type. Fixing Syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
 
 A great example of the "excision of faffing around" that markdown excels at is probably this:
 
@@ -32,7 +32,7 @@ and say farewell to all that fussing around with ", his perfectly-placed friend 
 <a href="http://devil_in_the_detail.com">link to site here</a>
 ```
 
-## Want a header? No wrapper needed:
+## Want a header? No ```<h1>wrapper</h1>```needed:
 
 ```
 # H1
@@ -51,10 +51,10 @@ The "#" is all you need, you can use up to 6 of them.
 
 ```
 
-[logo]: https://mylogo.com/icon232.png "Logo Title"
+[image]: https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image"
 
 ```
-Need an logo example here
+[image of dandelions]:https://github.com/project-cx/pbx-group-security/blob/master/static/img/blog.jpg "image of dandelions"
 
 
 ## Tables can be built with pipes and formatted with colons:
