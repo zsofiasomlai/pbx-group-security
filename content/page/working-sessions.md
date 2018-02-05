@@ -49,6 +49,7 @@ We do not tolerate harassment of participants in any form. A participant who vio
 
 [View the full code of conduct](/code-of-conduct)
 
+
 <!--
 #### Continue the conversation at this year's Open Security Summit
 [Book your place now](https://www.eventbrite.co.uk/e/open-security-summit-tickets-42524734626)
