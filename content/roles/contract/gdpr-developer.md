@@ -4,7 +4,7 @@ layout          : role
 date            : 2018-02-05
 contract_type   : Contractor
 location        : London and Remotely
-apply_Link      : project-cx@photobox.com
+apply_Link      : mailto:project-cx@photobox.com
 
 what_will_you_do:
   Work with developer to;
