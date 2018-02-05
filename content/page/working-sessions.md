@@ -30,6 +30,8 @@ Photobox Group Security, working with OWASP London Chapter, is hosting a number 
   Continuing the work done at the summit in reaching out to GitHub in order to work with them on improved solutions for Authentication and Authorisation of 3rd party services/integrations
   - [GDPR and Consent Tracking](https://owaspsummit.org/Outcomes/CISO/GDPR-letter.html)
   As companies prepare for GDPR's May deadline, in addition to the questions and topics raised at the GDPR sessions during the Summit, one area that has multiple Application Security implications is consent and consent tracking (i.e. how to capture in a secure way the exact consents that users have provided).
+  -  [How threat modelling fits into the wider agile and cyber security organisation](https://owaspsummit.org/Outcomes/Threat-Model/Threat-Modeling-Where-do-I-Start.html)
+  What are the relationships and opportunities between TM and Agile, Incident Response, SecOps, and AppSec. In practical terms, where can TM add value?
   
 If you have a session idea [email your suggestion to us](mailto:project-cx@photobox.com)
   
