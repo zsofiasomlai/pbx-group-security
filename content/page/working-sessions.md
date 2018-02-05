@@ -46,6 +46,8 @@ Please [let us know](mailto:project-cx@photobox.com) that you'd like to access t
 These working sessions are dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. 
 
 We do not tolerate harassment of participants in any form. A participant who violates these rules will be asked to stop. Should the participant not comply, the participant may be expelled from the session. The organisers reserve the right to expel anyone who violates these rules.
+
+[View the full code of conduct](/code-of-conduct.md)
 <!--
 #### Continue the conversation at this year's Open Security Summit
 [Book your place now](https://www.eventbrite.co.uk/e/open-security-summit-tickets-42524734626)
