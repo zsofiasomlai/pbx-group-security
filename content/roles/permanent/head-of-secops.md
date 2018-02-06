@@ -26,15 +26,6 @@ tech_stack:
     - Active Directory, Nagios, Grafana
     - Python, Bash
 
-challenges_required:
-    - ST-SA-github-and-jekyll.md
-#    - CP-CB-collaboration.md
-    - PR-PE-programming-experience.md
-    - RE-IR-interesting-research.md
-
-challenges_optional:
-#    - CP-PL-planning.md
-    - MA-DR-deliver-results.md
 ---
 
 Working alongside the group security senior management team, you will be responsible for defining strategy, and implementing and measuring secure operations within the Photobox Group. You will provide management for collaboration between the Security and IT Operations teams within the group to help mitigate risk.
