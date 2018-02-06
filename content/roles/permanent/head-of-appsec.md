@@ -22,7 +22,6 @@ who_are_you:
     - Have a deep understanding and hands on experience of secure software development practices including threat modelling, secure design principles, secure coding, code analysis, security testing and AppSec automation etc.
 
 tech_stack:
-You must be proficient in at least one of the following:
     - OWASP, SAST, DAST, IAST, WAF
     - TDD, BDD, Test DSLs
     - Ability to fix code and work directly with developers
