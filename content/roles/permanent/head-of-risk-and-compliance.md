@@ -27,21 +27,6 @@ Tech_Stack:
     - Security Policies, Risk Management
     - Risk Visualisation
     - Python, R (language)
-
-challenges_required:
-    - ST-SA-github-and-jekyll.md
-    - MA-TA-attract-talent.md
-    - PR-PE-programming-experience.md
-    - RE-TL-tech-leader.md
-    - CO-PI-pii-data-breach.md
-    - ST-PD-PCI-DSS.md
-
-challenges_optional:
-    - MA-RM-role-model.md
-    - RE-OS-open-source.md
-    - RI-JW-jira-workflow.md
-    - RI-RM-risk-management.md
-
 ---
 
 As the Head of Risk and Compliance, you will work alongside the Group Security management team and act as an
