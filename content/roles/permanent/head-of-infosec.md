@@ -34,24 +34,6 @@ tech_stack:
     - Significant experience in multiple areas of Technology and Security (wide knowledge set required)
     - Applicants must have a valid EU work permit (we will not provide visa sponsorship)
     - We do not wish to use recruitment agencies for this role.
-
-challenges_required:
-    - MA-RM-role-model.md
-    - ST-PD-PCI-DSS.md
-    - ST-IS-iso-standards.md
-    - RE-TR-training.md
-    - PR-PE-programming-experience.md
-    - SC-VD-vulnerabilities-discovered.md
-
-challenges_optional:
-    - MA-DR-deliver-results.md
-    - CO-PI-pii-data-breach.md
-    - RI-RR-risk-rating.md
-    - TE-ID-image-download.md
-    - RE-OS-open-source.md
-    - MA-TA-attract-talent.md
-    - RI-RA-risk-assessment.md
-    - TE-RD-risk-dashboard.md
 ---
 
 As the Head of Infosec you will support the CISO with the management of the Group Security function, including all information systems related to customers, product, factory, compliance, audit, physical, and staff security.
