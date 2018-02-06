@@ -58,4 +58,4 @@ The point of these sessions is to create concrete deliverables from each working
 - Documents
 
 ### Vendor Neutrality
-The OWASP Vendor Neutrality policy has to be observed at this event. Please do not use the working sessions as a place to pitch your product. Maintaining neutrality enhances the value of collaborative tone of this week.
+The OWASP Vendor Neutrality policy has to be observed at this event. Please do not use the working sessions as a place to pitch your product. Maintaining neutrality enhances the value of collaborative tone.
