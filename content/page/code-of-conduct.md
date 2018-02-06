@@ -1,9 +1,8 @@
 ---
-title       : "Working Sessions - Code of Conduct"
-banner      : "/img/pbx-gs/pbx-gs-logo.png"
-image       : "/img/blog/Photoboxgroup_wearehiringRGB.png"
-url         : "/code-of-conduct"
-description : "The key to these working sessions is their participatory nature. Unlike a conference setting, attendees are expected to immerse themselves in each working session."
+title       : Working Sessions - Code of Conduct
+banner      : /img/pbx-gs/pbx-gs-logo.png
+image       : /img/blog/Photoboxgroup_wearehiringRGB.png
+description : The key to these working sessions is their participatory nature. Unlike a conference setting, attendees are expected to immerse themselves in each working session.
 ---
 
 ### Expectations for Attendees
