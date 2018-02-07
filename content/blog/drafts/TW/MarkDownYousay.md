@@ -17,7 +17,7 @@ In my opinion syntax is a pain. Some people are naturals and perfection flows fr
 A great example of the "excision of faffing around" that markdown excels at is probably this:
 
 
-Do you want to create an external link? Then put in in your document:
+Do you want to create an external link? Then put it in your document:
 
 ```
 https://www.easypeasy.com
@@ -79,7 +79,7 @@ The "#" is all you need, you can use up to 6 of them.
 
 You get away with writing less syntax that is way more reader-friendly, and a bit of software converts your text into HTML following your gentle hints.
 
-That's pretty awesome you say? Indeed it is, and markdown is what this site is written in. Hugo runs some Perl to render your files as HTML, and you can let the software worry about those fiddly details.
+That's pretty awesome you say? Indeed it is, and this site itself is a great example of markdown. Hugo runs some Perl to render your files as HTML, and you can let the software worry about those fiddly details.
 
 ## Resources
 
