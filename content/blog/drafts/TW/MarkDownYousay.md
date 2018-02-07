@@ -12,7 +12,7 @@ notes:
 
 If you care more about content than code, and you understand that it is the words that count, then markdown is here for you.
 
-In my opinion syntax is a pain. Some people are naturals and perfection flows from their finger tips. I am more the "need to be reminded to try for perfect" type. Fixing syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
+In my opinion syntax is a pain. Some people are naturals and perfection flows from their fingertips. I am more the "need to be reminded to try for perfect" type. Fixing syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
 
 A great example of the "excision of faffing around" that markdown excels at is probably this:
 
