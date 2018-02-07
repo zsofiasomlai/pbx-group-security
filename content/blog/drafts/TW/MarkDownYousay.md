@@ -10,9 +10,9 @@ notes:
 
 # The future is here and it is written in markdown.
 
-If you care more about the content than the code, and you understand that it is the words that count, then markdown is here for you.
+If you care more about content than code, and you understand that it is the words that count, then markdown is here for you.
 
-In my opinion Syntax is a pain. Some people are naturals and perfection flows from their finger tips. I am more the "need to be reminded to try for perfect" type. Fixing Syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
+In my opinion syntax is a pain. Some people are naturals and perfection flows from their finger tips. I am more the "need to be reminded to try for perfect" type. Fixing syntax errors feels like a constant nudge from someone whilst you are trying to concentrate on something more important.
 
 A great example of the "excision of faffing around" that markdown excels at is probably this:
 
@@ -47,7 +47,7 @@ The "#" is all you need, you can use up to 6 of them.
 ### H3
 
 ## Need an image? 
-(Sorry you do still need to have " and / around for this one, some details really do matter).
+(Sorry, you do still need to have " and / around for this one, some details really do matter).
 
 ```
 
@@ -77,11 +77,11 @@ The "#" is all you need, you can use up to 6 of them.
 | laces           | are neat      | 2       |
 
 
-You get away with writing less syntax, that is way more reader friendly and a bit of software converts your text into HTML following your gentle hints.
+You get away with writing less syntax that is way more reader-friendly, and a bit of software converts your text into HTML following your gentle hints.
 
-That's pretty awesome you say? Indeed it is, that is what this site is written in. Hugo runs some Perl to render your files as HTML and you can let the software worry about those fiddley details.
+That's pretty awesome you say? Indeed it is, and markdown is what this site is written in. Hugo runs some Perl to render your files as HTML, and you can let the software worry about those fiddly details.
 
-Resources
+## Resources
 
 [Cheat Sheet](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
