@@ -1,10 +1,9 @@
 ---
-draft  : true
 title  : MarkDown Newbie
 author : Harrie Bickle
 notes:
- - draft0
- - review required
+ - edited
+ - reviewed
 ---
 
 
