@@ -4,7 +4,7 @@ layout          : role
 date            : 2018-01-26
 contract_type   : Contractor
 location        : London and Remotely (2 to 5 days per week)
-apply_Link      : mailto: project-cx@photobox.com
+apply_Link      : mailto:project-cx@photobox.com
 
 what_will_you_do:
     - You will be responsible for initial analysis/investigation of data and the escalation and management of incidents on a day-to-day basis.
