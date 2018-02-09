@@ -53,28 +53,28 @@ The "#" is all you need, you can use up to 6 of them.
 ![imageDescription](https://yourdomain.com/static/img/name.jpg) imageLegend
 
 ```
-![image of dandelions](/static/img/blog.jpg) image of dandelions
+![image of dandelions](/img/blog.jpg) image of dandelions
 
 
 ## Tables can be built with pipes and formatted with colons:
 
 ```
 
-| Tables    | Are           | Easy    |
-| --------- |:-------------:| ----:   |
-| 10,000 is | right-aligned | 10,000  |
-| 10 is     | centered      | 10      |
-| laces     | are neat      | 2       |
+| Tables    | Are                  | Easy    |
+| --------- |:-------------------: | ----:   |
+| 10,000 is | right-aligned        | 10,000  |
+| 10 is     | centered             | 10      |
+| laces     | are neat             | 2       |
 
 ```
 
 
-| Tables          | Are           | Easy    |
-| ----------------|:-------------:| ----:   |
-| RHS Column is   | right-aligned | 10,000  |
-| Middle column is| centered      | 10      |
-| laces           | are neat      | 2       |
 
+| Tables    | Are                  | Easy    |
+| --------- |:-------------------: | ----:   |
+| 10,000 is | right-aligned        | 10,000  |
+| 10 is     | centered             | 10      |
+| laces     | are neat             | 2       |
 
 You get away with writing less syntax that is way more reader-friendly, and a bit of software converts your text into HTML following your gentle hints.
 
