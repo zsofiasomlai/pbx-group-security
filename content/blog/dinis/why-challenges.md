@@ -28,4 +28,4 @@ The challenges will allow you to shine. Some candidates react very quickly under
 ## Have fun
 The challenges should be fun; you should enjoy them, as well as learn from them. Even if you don't make it to the end of the selection process, hopefully the challenges will allow you to explore the gaps in your skill set and illustrate why this job may not be the right one for you, at this moment in time.
 
-![infographic](/static/img/blog/Pbx_Security_Infographic_Amendments_HD300ppp.jpg)
+![infographic](/img/blog/Pbx_Security_Infographic_Amendments_HD300ppp.jpg)
