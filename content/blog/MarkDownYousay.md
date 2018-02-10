@@ -46,11 +46,11 @@ The "#" is all you need, you can use up to 6 of them.
 ### H3
 
 ## Need an image? 
-(Sorry, you do still need to have " and / around for this one, some details really do matter).
+(Sorry, you do still need to have / around for this one, some details really do matter).
 
 ```
 
-![imageDescription](https://yourdomain.com/static/img/name.jpg) imageLegend
+![imageDescription](https://yourdomain.com/img/name.jpg) imageLegend
 
 ```
 ![image of dandelions](/img/blog.jpg) image of dandelions
