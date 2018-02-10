@@ -1,6 +1,9 @@
 ---
-title  : MarkDown Newbie
+title  : "MarkDown Newbie"
 author : Harrie Bickle
+date   : "2018-02-02"
+tags   : <!--- Robert's data protection tags look like so ["GDPR", "Data Protection"]--->
+categories: <!--- Robert's data protection tags look like so ["GDPR", "Data Protection"]--->
 notes:
  - edited
  - reviewed
@@ -78,7 +81,7 @@ The "#" is all you need, you can use up to 6 of them.
 
 You get away with writing less syntax that is way more reader-friendly, and a bit of software converts your text into HTML following your gentle hints.
 
-That's pretty awesome you say? Indeed it is, and this site itself is a great example of markdown. Hugo runs some Perl to render your files as HTML, and you can let the software worry about those fiddly details.
+That's pretty awesome you say? Indeed it is, and this site itself is a great example of markdown in action. Hugo runs some Perl to render your files as HTML, and you can let the software worry about those fiddly details.
 
 ## Resources
 
