@@ -6,7 +6,7 @@
  area        : behaviours
  
  questions   :
-     - "BE-FL-01: Describe when you worked on a interesting cross-functional team that produced an outstanding outcome."
+     - "BE-FL-01: Describe when you worked on an interesting cross-functional team that produced an outstanding outcome."
      - "BE-FL-04: Detail your most recent experience working with a virtual team."
      - "BE-FL-05: Describe when your attempt to collaborate across teams was unsuccessful."
  other_questions:
