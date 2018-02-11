@@ -9,7 +9,7 @@ notes:
   - requires proofing
 ---
 
-That one’s a keeper.
+## That one’s a keeper.
 
 What is it that makes a great, lasting relationship with a vendor? Why is it that some vendors are keepers whilst others are ripe for replacement? The difference is in the quality of the relationship. In this post we examine what a great supplier relationship means to us at Photobox.
 
