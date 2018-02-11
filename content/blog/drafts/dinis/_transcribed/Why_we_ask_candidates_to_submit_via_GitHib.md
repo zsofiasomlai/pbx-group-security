@@ -8,7 +8,7 @@ notes:
   - first itteration edit/proof/revise complete
 ---
 
-Why We Ask Candidates to Submit Their Answers in the GitHub Repository
+## Why We Ask Candidates to Submit Their Answers in the GitHub Repository
 
 One reason we ask candidates to submit work through Git is because we want to make sure that they understand it. And if they don't, we want to be sure they learn it and improve their skills. GitHub is a transformative technology with a huge potential. It embodies some of the best things that technology can do. When you fully understand how GitHub works you can make important paradigm shifts. Our culture at Photobox requires that everyone is well versed with GitHub because the version control system is integral, as is a certain discipline within the workflow.
 
