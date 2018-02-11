@@ -9,4 +9,4 @@ who_are_you      : Internal Developer at Photobox
 tech_stack       : Avatao
 ---
 
-Write the instructions for accessing the Photobox Group Security Flow
+Write the instructions for accessing the Photobox Group Security Flow.
