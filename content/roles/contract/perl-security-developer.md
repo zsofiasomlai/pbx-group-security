@@ -14,8 +14,8 @@ Photobox’s web software was built in 2007 and consists of over half a million 
 
 We are looking for a Perl developer to take on these tasks:
  
-- Learn about the Photobox web software -  both front-end and API systems and understand its strengths and weaknesses
-- Rectify the most urgent security issues as directed by the security team
+- Learn about the Photobox web software -  both front-end and API systems and understand its strengths and weaknesses.
+- Rectify the most urgent security issues as directed by the security team.
 - Rectify performance and other issues that could lead to DOS attacks.
 - Working with the security team, help to design and implement a security strategy for the web software in the medium to long term.
 - Subject to availability, work on other tasks related to the web software as directed by the web team.
@@ -26,9 +26,9 @@ We are looking for a Perl developer to take on these tasks:
 The successful candidate should have the following skills:
  
 - Expert knowledge of Perl 5 from current releases back to legacy editions.
-- Expert knowledge of Apache/Perl/MySQL stacks and their implementation
-- Expert knowledge of Amazon AWS
-- Good working knowledge of Linux, Puppet, Git/Github
+- Expert knowledge of Apache/Perl/MySQL stacks and their implementation.
+- Expert knowledge of Amazon AWS.
+- Good working knowledge of Linux, Puppet, Git/Github.
 - The ability to take on a steep learning curve and quickly get up to speed with a new system.
 - The ability to work on complex projects with limited outside direction.
 
