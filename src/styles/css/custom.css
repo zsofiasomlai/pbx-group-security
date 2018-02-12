@@ -180,3 +180,9 @@ a.event-card:hover{
     font-size:4em;
   }
 }
+
+#post-content img{
+  max-width:100%;
+  display: block;
+  margin:0 auto;
+}
