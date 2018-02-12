@@ -39,8 +39,7 @@ tech_stack:
     - Kibana, Grafana or Nagios
 
 challenges_required:
-    - ST-SA-github-and-jekyll.md
-#    - CP-CB-collaboration.md
+    - ST-SA-github.md
     - PR-LE-lambda-stop-ec2.md
     - SC-VD-vulnerabilities-discovered.md
     - PR-PE-programming-experience.md
