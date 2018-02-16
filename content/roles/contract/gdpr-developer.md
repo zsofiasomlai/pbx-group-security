@@ -7,7 +7,7 @@ location        : London and Remotely
 apply_Link      : mailto:project-cx@photobox.com
 
 what_will_you_do:
-  Work with developer to;
+  - Work with developer to
   - Identify and fix vulnerabilities
   - Develop a strategy, plan and implement privacy by design, right to be forgotten and DSAR
   - Ensure GDPR compliance of systems and owned digital assets
