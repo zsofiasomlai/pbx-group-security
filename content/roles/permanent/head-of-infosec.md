@@ -15,7 +15,7 @@ what_will_you_do:
     - Management of IT investigations, digital forensics, e-discovery, breach response, and reaction plan responsibilities
     - Information Risk Management standards and practical application using recognised standards (ISO, NIST, etc.)
     - Information Security Management System (ISMS) designed to ensure comprehensive and documented assurance relevant to the organisation
-    - Represent the Group as the authority for security and controls to clients and customers, partners, competitors, auditors, regulators and internal stakeholders
+    - Represent the Group as the authority for security and controls to clients, customers, partners, competitors, auditors, regulators and internal stakeholders
     - Line management of sub-teams within the group security team
     - Liaise with brands under Photobox Group to support security and compliance processes
     - Support the creation of KPIs for OKR setting
