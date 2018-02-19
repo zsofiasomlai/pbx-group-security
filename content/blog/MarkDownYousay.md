@@ -2,8 +2,8 @@
 title  : "MarkDown Newbie"
 author : Harrie Bickle
 date   : "2018-02-02"
-tags   : <!--- Robert's data protection tags look like so ["GDPR", "Data Protection"]--->
-categories: <!--- Robert's data protection tags look like so ["GDPR", "Data Protection"]--->
+tags   : <!--- Robert's data protection tags look like so ["GDPR", "Data Protection"]-->
+categories: <!--- Robert's data protection tags look like so ["GDPR", "Data Protection"]-->
 notes:
  - edited
  - reviewed
