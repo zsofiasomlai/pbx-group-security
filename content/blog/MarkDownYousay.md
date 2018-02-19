@@ -2,8 +2,8 @@
 title  : "MarkDown Newbie"
 author : Harrie Bickle
 date   : "2018-02-02"
-tags   : <!--- Robert's data protection tags look like so ["GDPR", "Data Protection"]-->
-categories: <!--- Robert's data protection tags look like so ["GDPR", "Data Protection"]-->
+tags   : <["Mardown", "GitHub"]-->
+categories: <["HowTo"-->
 notes:
  - edited
  - reviewed
@@ -65,8 +65,8 @@ The "#" is all you need, you can use up to 6 of them.
 
 | Tables    | Are                  | Easy    |
 | --------- |:-------------------: | ----:   |
-| 10,000 is | right-aligned        | 10,000  |
-| 10 is     | centered             | 10      |
+| Right hand column | right-aligned        | 10,000  |
+| Middle column     | centered             | 10      |
 | laces     | are neat             | 2       |
 
 ```
@@ -75,8 +75,8 @@ The "#" is all you need, you can use up to 6 of them.
 
 | Tables    | Are                  | Easy    |
 | --------- |:-------------------: | ----:   |
-| 10,000 is | right-aligned        | 10,000  |
-| 10 is     | centered             | 10      |
+| Right hand column | right-aligned        | 10,000  |
+|Middle column     | centered             | 10      |
 | laces     | are neat             | 2       |
 
 You get away with writing less syntax that is way more reader-friendly, and a bit of software converts your text into HTML following your gentle hints.
