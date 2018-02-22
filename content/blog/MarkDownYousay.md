@@ -2,7 +2,7 @@
 title  : "MarkDown Newbie"
 author : Harrie Bickle
 date   : "2018-02-02"
-tags   : ["Mardown", "GitHub"]
+tags   : ["Markdown", "GitHub"]
 categories: ["HowTo"]
 notes:
  - edited
