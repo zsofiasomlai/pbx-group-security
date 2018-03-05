@@ -7,8 +7,8 @@ description : "Photobox Group Security is hosting a number of OWASP working sess
 events      :
 # - date: 2018-02-06
 #   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150953637
- - date: 2018-02-20
-   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150963667
+#  - date: 2018-02-20
+#   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150963667
  - date: 2018-03-06
    url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421848892
  - date: 2018-03-20
@@ -20,14 +20,10 @@ events      :
 ---
 Photobox Group Security, working with OWASP London Chapter, is hosting a number of working sessions to continue the great work done at the Summit and to collaborate/share our knowledge in important Application Security topics.
 
-#### The second working session on the 20th of February will focus on the following Working Sessions:
+#### The next will focus on the following Working Sessions:
 
   - [Playbook common format](https://owaspsummit.org/Outcomes/Playbooks/Playbooks-Common-Format.html)
   Continuing the great work done at the Summit on Playbooks, this session will focus on Incident Response and how to improve the quality, speed and effectiveness of incident response teams (by using pre-defined playbooks and decision trees to guide actions, remediations and root cause analysis)
-  - [SAMM](https://owaspsummit.org/Outcomes/OwaspSAMM/OWASP-SAMM.html)
-  Maturity Models can be highly effective in mapping the current Application Security landscape and in providing roadmaps for the future. Come and meet some of the SAMM project authors and lead contributors, in this working session which will focus on lessons learned from using SAMM in the real work, and in solutions for sharing anonymously SAMM data (in order to create industry wide metrics)
-  - [GitHub security feature request](https://owaspsummit.org/Outcomes/GitHub-Security-Feature-Request.html)
-  Continuing the work done at the summit in reaching out to GitHub in order to work with them on improved solutions for Authentication and Authorisation of 3rd party services/integrations
   - [GDPR](https://owaspsummit.org/Outcomes/CISO/GDPR-letter.html)
   As companies prepare for GDPR's May deadline, in addition to the questions and topics raised at the GDPR sessions during the Summit, one area that has multiple Application Security implications is consent and consent tracking (i.e. how to capture in a secure way the exact consents that users have provided).
   -  [Threat Modeling](https://owaspsummit.org/Outcomes/Threat-Model/Threat-Modeling-Where-do-I-Start.html)
