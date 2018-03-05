@@ -7,7 +7,7 @@ description : "Photobox Group Security is hosting a number of OWASP working sess
 events      :
 # - date: 2018-02-06
 #   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150953637
-#  - date: 2018-02-20
+# - date: 2018-02-20
 #   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150963667
  - date: 2018-03-06
    url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421848892
