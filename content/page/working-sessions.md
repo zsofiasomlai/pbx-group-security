@@ -5,10 +5,6 @@ image       : "/img/blog/Photoboxgroup_wearehiringRGB.png"
 url         : "/working-sessions"
 description : "Photobox Group Security is hosting a number of OWASP working sessions to discuss the hot topics in industy."
 events      :
-# - date: 2018-02-06
-#   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150953637
-# - date: 2018-02-20
-#   url: https://www.eventbrite.com/e/owasp-working-session-tickets-42150963667
  - date: 2018-03-06
    url: https://www.eventbrite.com/e/owasp-working-session-tickets-42421848892
  - date: 2018-03-20
@@ -20,7 +16,7 @@ events      :
 ---
 Photobox Group Security, working with OWASP London Chapter, is hosting a number of working sessions to continue the great work done at the Summit and to collaborate/share our knowledge in important Application Security topics.
 
-#### The next will focus on the following Working Sessions:
+#### The next event will focus on the following Working Sessions:
 
   - [Playbook common format](https://owaspsummit.org/Outcomes/Playbooks/Playbooks-Common-Format.html)
   Continuing the great work done at the Summit on Playbooks, this session will focus on Incident Response and how to improve the quality, speed and effectiveness of incident response teams (by using pre-defined playbooks and decision trees to guide actions, remediations and root cause analysis)
