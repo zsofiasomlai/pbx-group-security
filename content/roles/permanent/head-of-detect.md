@@ -22,11 +22,9 @@ who_are_you:
     - Remain calm under pressure
 
 tech_stack:
-You must be have good experience in at least one or more of the following:
     - ELK, Splunk, DarkTrace, SIEM
     - ML and AI
     - Security visualisation and graphs
-    - Applicants must have the right to work in the EU (we will not provide visa sponsorship)
 ---
 
 As the Head of Detect you will support the Group Security function in incident response activities, provide situational awareness, be responsible for leading initiatives associated with incident response findings, and provide guidance and coordination for incident response efforts including triage, evaluation, coordination, and executive reporting.
