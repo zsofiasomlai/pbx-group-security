@@ -2,6 +2,7 @@
 title  : "MarkDown Newbie"
 author : Harrie Bickle
 date   : "2018-02-02"
+images      : ["/img/blog/markdown.jpg"]
 tags   : ["Markdown", "GitHub"]
 categories: ["HowTo"]
 notes:
@@ -63,7 +64,7 @@ The "#" is all you need, you can use up to 6 of them.
 
 ```
 
-| Tables    | Are                  | Easy    |
+| Tables              | Are                  | Easy    |
 | ------------------- |:-------------------: | ----:   |
 | Right hand column   | right-aligned        | 10,000  |
 | Middle column       | centered             | 10      |
