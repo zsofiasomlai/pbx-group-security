@@ -7,15 +7,15 @@ tags   : ["HR"]
 categories: ["Processess"]
 notes:
  - Pre-approved from Robert
- - need to discover author 
 ---
 
  
 
 ## Blame it on Human Error 
 
-In his article, [Don’t Blame People for Human Error]( https://incident-prevention.com/ip-articles/don-t-blame-people-for-human-error), health and safety expert Mark Steinhofer, argues that blaming people instead of flawed processes doesn’t make anything better.  His observations have application in many professions:  here is a summary for those of us who work in the field of security. 
-What Causes Human Error?
+In his article, [Don’t Blame People for Human Error]( https://incident-prevention.com/ip-articles/don-t-blame-people-for-human-error), health and safety expert Mark Steinhofer, argues that blaming people instead of flawed processes doesn’t make anything better. His observations have application in many professions. Here is a summary for those of us who work in the field of security. 
+
+## What Causes Human Error?
 
 Human error is best described as an event where the decision or action of a human in a certain way negatively impacts the effectiveness of a system. 
 Steinhofer classifies error into 4 types:
@@ -29,13 +29,13 @@ It is very easy to ascribe an event to human error; however, this does not preve
 
 ## It’s not you, it’s the system – take action 
 
-Flaws in a system become evident when the system is analysed.  Systems are refined by changes to the working conditions when checks are inserted or steps introduced that mitigate the effects of a potential error.  Continuous analysis of, and refinements to processes leave less to chance and reduce the margin for error.
+Flaws in a system become evident when the system is analysed. Systems are refined by changes to the working conditions when checks are inserted or steps introduced that mitigate the effects of a potential error.  Continuous analysis of, and refinements to processes leave less to chance and reduce the margin for error.
 
 ## The Swiss Cheese Model
 
-James Reason’s Swiss cheese model compares human systems to a stack of Swiss cheese slices.  The holes represent flaws in a particular system. Not all the holes line up all the time; thus, risk is mitigated. Where there are insufficient checks, however, the flaws in each layer, if they align, will result in an incident. 
+James Reason’s Swiss cheese model compares human systems to a stack of Swiss cheese slices. The holes represent flaws in a particular system. Not all the holes line up all the time; thus, risk is mitigated. Where there are insufficient checks, however, the flaws in each layer, if they align, will result in an incident. 
 
- <!--- need to save images and refer to them Figure I					Figure II	 with shortcode as per Regis?? - or directly-->
+ {{< figure src="/img/blog/human-error-swissCheese1.jpg" title="Swiss Cheese, non-allignment" width="720" >}}
  
 For example, if HR’s GDPR training is excellent, that slice may have only a few small holes reducing the chances of a breach; however, if the Packing department is lax, that slice may be full of larger holes, thereby allowing a failure of the system.
 Steinhofer argues that by identifying and eliminating the flaws (or “holes”) in a defence mechanism, each layer/slice becomes stronger and the overall potential for incidents declines.
@@ -105,8 +105,8 @@ YOUR NAME, TITLE, and CONTACT DETAILS
 [Steinhofer, Mark. Don’t Blame People for Human Error, Incident Prevention Magazine, 20 July 2017](https://incident-prevention.com/ip-articles/don-t-blame-people-for-human-error)
 
 Blogs
-Think Safety, Talk Safety:  Official Safety Blog powered by PHP; available online at https://nhpelectrical.blogspot.ie/2015/02/#.WnsU86hl9PY 
-Open I, Lister Hill National Center for Biomedical Communications, U.S.National Library of Medicine , available at:  https://openi.nlm.nih.gov/detailedresult.php?img=PMC4147776_becb-6-2014-001f3&req=4
+[Think Safety, Talk Safety](https://nhpelectrical.blogspot.ie/2015/02/#.WnsU86hl9PY):  Official Safety Blog powered by PHP; available online at: https://nhpelectrical.blogspot.ie/2015/02/#.WnsU86hl9PY 
+[Open I](https://openi.nlm.nih.gov/detailedresult.php?img=PMC4147776_becb-6-2014-001f3&req=4), Lister Hill National Center for Biomedical Communications, U.S.National Library of Medicine, available at: https://openi.nlm.nih.gov/detailedresult.php?img=PMC4147776_becb-6-2014-001f3&req=4
 
 
 
