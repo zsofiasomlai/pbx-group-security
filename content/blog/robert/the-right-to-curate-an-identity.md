@@ -59,9 +59,7 @@ Gradually, the scope of these legal rights broadened, and now the right to life 
 
 Warren and Brandeis wrote their seminal article in the 1890s and much of what concerned them resonates with us today, indeed the article is worth reading for its prescient, visionary concerns:
 “Instantaneous photographs and newspaper enterprise have invaded the sacred precincts of private and domestic life”
-“Numerous mechanical devices threaten to make good the prediction that ‘what is whispered in the closet shall be proclaimed from the house-tops’”
-They “question whether the law will recognize and protect the right to privacy […] must soon come before [our] courts for consideration”
-“The desirability [… and] necessity of some such protection” is without doubt (Warren & Brandeis, 1890).
+“Numerous mechanical devices threaten to make good the prediction that ‘what is whispered in the closet shall be proclaimed from the house-tops’”. They “question whether the law will recognize and protect the right to privacy […] must soon come before [our] courts for consideration”. “The desirability [… and] necessity of some such protection” is without doubt (Warren & Brandeis, 1890).
 
 ### Further reading
 
