@@ -1,5 +1,5 @@
 ---
-title         : Head of SecOps
+title         : Head of Security Engineering
 layout        : role
 date          : 2017-12-06
 contract_type : Permanent
