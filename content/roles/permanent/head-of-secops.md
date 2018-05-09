@@ -1,6 +1,6 @@
 ---
 title         : Head of Security Engineering
-layout        : role
+layout        : draft
 date          : 2017-12-06
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
