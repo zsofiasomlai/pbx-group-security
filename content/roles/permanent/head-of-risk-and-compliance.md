@@ -1,7 +1,7 @@
 ---
 title         : Head of Risk and Compliance
 date          : 2017-12-06
-layout        : role
+layout        : draft
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
 apply_Link    : https://photoboxgroup.workable.com/j/DD95AC915B
