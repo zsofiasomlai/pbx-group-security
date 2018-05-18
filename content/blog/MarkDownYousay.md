@@ -73,16 +73,9 @@ The "#" is all you need, you can use up to 6 of them.
 ```
 
 
+Now, whether or not that table appears as you expect depends upon what you are using to convert these .md files to HTML, and as that moves us out of newbie territory we'll stop right there. This site itself is a great example of markdown in action. Hugo runs some Perl to render your files as HTML, letting you let the software worry about those fiddly details.
 
-| Tables             | Are                  | Easy    |
-| ------------------ |:-------------------: | ----:   |
-| Right hand column  | right-aligned        | 10,000  |
-|Middle column       | centered             | 10      |
-| laces              | are neat             | 2       |
-
-You get away with writing less syntax that is way more reader-friendly, and a bit of software converts your text into HTML following your gentle hints.
-
-That's pretty awesome you say? Indeed it is, and this site itself is a great example of markdown in action. Hugo runs some Perl to render your files as HTML, and you can let the software worry about those fiddly details.
+You write less syntax that is way more reader-friendly, and a bit of software converts your text into HTML following your gentle hints. What an excellent idea.
 
 ## Resources
 
