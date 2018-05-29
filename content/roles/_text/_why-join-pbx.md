@@ -1,5 +1,5 @@
-## Photobox Group Security mission and principles
- 
+### Photobox Group Security mission and principles
+
 Our mission is to secure the magic moments created by our customers, across all our brands. Our operating principles define what we focus on and how we make decisions. We hold ourselves accountable against these principles.
 
 1. We are enablers for the organisation, not blockers
@@ -9,7 +9,7 @@ Our mission is to secure the magic moments created by our customers, across all 
 5. We educate and empower our internal stakeholders and developers
 6. We contribute to adding financial value
 
-## Why join Photobox Group Security?
+### Why join Photobox Group Security?
 
 PhotoBox Group Security is a trusted, high-energy, empowered, and proactive team. If you are looking for a place to make a difference, learn a lot, be part of a highly productive team, and are able to work collaboratively with all parts of the business, this is the place for you.
 
