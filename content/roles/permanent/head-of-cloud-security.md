@@ -1,5 +1,5 @@
 ---
-title         : Senior Cloud Security Engineer
+title         : Head of Cloud Security
 layout        : role
 date          : 2017-12-06
 contract_type : Permanent

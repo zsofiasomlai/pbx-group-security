@@ -1,6 +1,7 @@
 ---
 title           : GDPR Developer
 layout          : role
+hide            : true
 date            : 2018-02-05
 contract_type   : Contractor
 location        : London and Remotely

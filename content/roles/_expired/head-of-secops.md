@@ -1,5 +1,6 @@
 ---
 title         : Head of Security Engineering
+hide          : true
 layout        : draft
 date          : 2017-12-06
 contract_type : Permanent

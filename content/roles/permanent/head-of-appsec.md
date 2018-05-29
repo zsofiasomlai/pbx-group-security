@@ -1,7 +1,7 @@
 ---
 title         : Head of AppSec
 layout        : role
-date          : 2017-12-06
+date          : 2018-05-28
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
 apply_Link    : https://photoboxgroup.workable.com/j/409462ED24

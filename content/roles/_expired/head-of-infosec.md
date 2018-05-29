@@ -1,7 +1,8 @@
 ---
 title           : Head of InfoSec
+hide            : true
 layout          : role
-date            : 2017-12-06
+date            : 2018-05-28
 contract_type   : Permanent
 location        : London, Paris, Valencia or Munich
 challenges_page : challenges/for-candidate/jds/head-infosec.md

@@ -1,6 +1,7 @@
 ---
 title         : Head of Risk and Compliance
-date          : 2017-12-06
+hide          : true
+date          : 2018-05-28
 layout        : draft
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich

@@ -1,5 +1,6 @@
 ---
 title         : "PosterXXL Information Security Officer"
+hide          : true
 date          : 2017-12-06
 contract_type : Permanent
 location      : Munich

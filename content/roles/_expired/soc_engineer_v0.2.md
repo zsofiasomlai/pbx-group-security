@@ -1,6 +1,7 @@
 ---
 title           : SOC Engineer and Incident Response
 layout          : role
+hide            : true
 date            : 2018-01-26
 contract_type   : Contractor
 location        : London and Remotely (2 to 5 days per week)

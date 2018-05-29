@@ -1,7 +1,7 @@
 ---
-title         : Head of Detect
+title         : Head of Incident Response
 layout        : role
-date          : 2017-12-06
+date          : 2018-05-28
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich
 apply_Link    : https://photoboxgroup.workable.com/j/A3CF33C915

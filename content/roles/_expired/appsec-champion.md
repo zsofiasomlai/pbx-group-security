@@ -1,5 +1,5 @@
 ---
-hidden          : true
+hide            : true
 title           : AppSec Champion
 layout          : role-upwork
 date            : 2017-12-06

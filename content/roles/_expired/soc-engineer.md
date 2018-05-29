@@ -1,5 +1,6 @@
 ---
 draft           : true
+hide            : true
 title           : SOC Engineer and Incident Response
 layout          : role
 date            : 2017-12-06
