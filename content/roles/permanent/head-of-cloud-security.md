@@ -26,9 +26,9 @@ who_are_you:
     - Calm under pressure
 
 tech_stack:
-    - Advanced AWS or Azure Security knowledge
+    - Advanced AWS Security knowledge
     - CI, CD, Bash, Kubernetes, AppDynamics
     - Security architecture and Threat Modelling
 
 ---
-You will work with the Head of SecOps and Head of AppSec, and ultimately be responsible for ensuring and implementing security best practices across the Group’s cloud infrastructure (AWS and Azure). You will take a lead role in identifying potential risks to the group’s assets and creating preventative strategies to mitigate them.
+You will be responsible for ensuring and implementing security best practices across the Group’s cloud infrastructure (mainly AWS). You will take a lead role in identifying potential risks to the group’s assets and creating preventative strategies to mitigate them.
