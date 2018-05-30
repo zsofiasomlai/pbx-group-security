@@ -27,6 +27,6 @@ tech_stack:
     - Security visualisation and graphs
 ---
 
-As the Head of Detect you will support the Group Security function in incident response activities, provide situational awareness, be responsible for leading initiatives associated with incident response findings, and provide guidance and coordination for incident response efforts including triage, evaluation, coordination, and executive reporting.
+As the Head of Incident Response you will support the Group Security function in incident response activities, provide situational awareness, be responsible for leading initiatives associated with incident response findings, and provide guidance and coordination for incident response efforts including triage, evaluation, coordination, and executive reporting.
 
 You must have a strong understanding of security operations, vulnerability management, and incident remediation within a complex global organisation.
