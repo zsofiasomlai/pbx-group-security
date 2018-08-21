@@ -1,6 +1,7 @@
 ---
 title         : Head of Incident Response
 layout        : role
+hide            : true
 date          : 2018-05-28
 contract_type : Permanent
 location      : London, Paris, Valencia or Munich

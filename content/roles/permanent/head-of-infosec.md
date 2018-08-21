@@ -1,6 +1,5 @@
 ---
 title           : Head of InfoSec
-hide            : true
 layout          : role
 date            : 2018-05-28
 contract_type   : Permanent
@@ -39,5 +38,4 @@ tech_stack:
 
 As the Head of Infosec you will support the CISO with the management of the Group Security function, including all information systems related to customers, product, factory, compliance, audit, physical, and staff security.
 
-You will be responsible for driving the Group’s enterprise security and risk management vision, strategy and programme to ensure protection of information assets and technologies. You will lead in the creation of an accountable, information security-conscious culture and a system security architecture built on high-quality standards, as well as regular status monitoring and quality reporting activities. 
-
+You will be responsible for driving the Group’s enterprise security and risk management vision, strategy and programme to ensure protection of information assets and technologies. You will lead in the creation of an accountable, information security-conscious culture and a system security architecture built on high-quality standards, as well as regular status monitoring and quality reporting activities.
