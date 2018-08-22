@@ -3,7 +3,7 @@ title       : "Improving Password Hashing — from the frontline!"
 date        : "2017-12-17"
 tags        : ["Photobox", "password", "security", "hashing"]
 categories  : ["Security Engineering"]
-banner      : /img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png"
+banner      : /img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png
 images      : ["/img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png"]
 ---
 
