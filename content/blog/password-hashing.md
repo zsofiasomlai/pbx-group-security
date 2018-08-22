@@ -3,8 +3,8 @@ title       : "Improving Password Hashing — from the frontline!"
 date        : "2017-12-17"
 tags        : ["Photobox", "password", "security", "hashing"]
 categories  : ["Security Engineering"]
-banner      : /img/blog/Photoboxgroup_SecurityBlogArticle_squareRGB.png
-images      : ["/img/blog/Photoboxgroup_SecurityBlogArticle_squareRGB.png"]
+banner      : /img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png"
+images      : ["/img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png"]
 ---
 
 I joined Photobox Group Security at the start of May. This is the first in a series of blogs where I’ll detail some of the work I am involved in.
