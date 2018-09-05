@@ -19,7 +19,7 @@ I've been working with a few of the team on how we can take the foundational bui
 1. How we can categorise and add metadata to set up narratives around risk being due to uncertainty, known control gaps,  control failures or technical exploits (which would themselves link to a control failure or control gap)
 2. How we can use the 'validate' phase to understand the scope across business units for a given issue, and what the relative effort vs impact is to fix - relative to where the asset is in the attacker life-cycle
 
-Sketch ![here](pbx-group-security/static/img/Jon_PBXblog001_RiskTaxonomy.jpg). This is more a rough approximiation of how I understand our taxonomy today, as opposed to what we are actually doing. 
+Sketch ![here](/img/Jon_PBXblog001_RiskTaxonomy.jpg). This is more a rough approximiation of how I understand our taxonomy today, as opposed to what we are actually doing. 
 
 Side note: One of the things I particularly like about this is you can validate a *perceived* risk, which exists because of a vulnerability in the form of 'lack of knowledge'. This helps capture assumptions, and makes sure we don't skip to making decisions about 'prevent' or 'detect' before first 'seeking to understand' (possibly the most under-rated security control there is out there). The power of this is that it makes it transparent to other teams what we are trying to understand, so they can challenge whether we are pointed in the right direction. And if we're not, we can capture that the vulnerability is a false positive so other teams don't run down the same rabbit hole. 
 
