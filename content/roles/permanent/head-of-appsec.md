@@ -6,7 +6,7 @@ contract_type : Permanent
 location      : London, Paris, Valencia or Munich
 apply_Link    : https://photoboxgroup.workable.com/j/9CE859F699
 what_will_you_do:
-    - Work with many functional teams you will ensure that PhotoBox Group’s applications stay at the highest security level
+    - Liaise with many functional teams to ensure that PhotoBox Group’s applications stay at the highest security level
     - Support development teams to carry out application security reviews
     - Provide expert advice and consultancy to software and platform engineering on risk assessment, threat modelling and fixing vulnerabilities
     - Lead app security projects to ensure timely completion of efforts
