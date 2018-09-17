@@ -18,7 +18,7 @@ First: a few terms. If you are not familiar with Jira there are a few bits of ta
 
 Below is what the 'admin' process looks like of creating tickets. In stage 2 we create a Security Event. In stage 4 we create a Security Incident, which is linked to Security Event using 'is caused by'. In stage 5 we create one or more Investigation Epics (these are threads we need to investigate as part of the Incident), which are linked to Security Incident as 'caused by'. Then in stage 6 we create a bunch of Tasks, which are 'caused by' the Epic they related to.
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/72947908-d81e-40d1-bd87-df2777d1beaa/Musings%201.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%201.jpg)
 
 So, let's look at stage 1 and 2 in a bit more detail.
 
@@ -31,7 +31,7 @@ We capture this info, and a ton more detail in stage 2 (see sketch below). At th
 
 It might seem like stage 2 requires a lot of information, but almost all these fields are a single click or a multi-select. Only the summary requires free text. That means you can run through the whole form in about 90 seconds. For 'Security Scope' we go very simple (we use the Cyber Defence Matrix categories of User, Device, App, Data, Network). For 'System Type' we have a menu made up of things like 'Corporate Network', 'AWS', 'SaaS App'.
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/94353aec-e1bb-4b9c-83d4-c871b414f2e8/Musings%202.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%202.jpg)
 
 Ok, so we now move into triage. This kicks off a basic workflow in Jira for the status of the Ticket (to do, in progress etc). The outcome will be that we escalate as a Sev 1-3, or we close as a false positive. Here are our guides for Sev 1-3
 
@@ -55,23 +55,23 @@ Ok, so we now move into triage. This kicks off a basic workflow in Jira for the 
  - Degradation of security tooling or security-relevant capability or process, which impacts ability to prevent or detect threat activity if left unresolved
  - Realised, or low likelihood of, business impact
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/02dba2f7-82a0-439f-bdd1-be7a10a23d4e/Musings%203.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%203.jpg)
 
 Now come some more admin-y bits. If we escalate, we create an Incident ticket, then an Epic ticket, then a bunch of Task tickets. We generally have someone on our ops team help with this so that the IR team can focus on the incident. The key points here are that the Security Incident summary title may change from the title of the event, so we edit that if we need to. The Epic names may vary, but we create the first one with exactly the same title as the Incident. Then we create a bunch of tasks, which go into a workflow that starts with 'hold' (i.e. not in the queue 'to do'), 'do next' (once whatever in progress has been done), in prog / blocked, then 3 categories of done. More on why there are 3 categories in a moment.
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/13f0c706-d16a-44d9-b558-38e28ee3a09c/Musings%204.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%204.jpg)
 
 There are a few opportunities for automation here which we're exploring with haste. The first is that when you click on 'Escalate to Sev 1' (or whatever Sev it is), a process runs that autocreates an incident ticket in Jira Service Desk, which in turn auto-creates a Slack channel. This process already exists for tech incidents in the business, so we are looking to integrate with it (and what the options are to create locked Slack Channels for incidents where we want to limit who can see what). The second opportunity is to automate the creation of a bunch of generic incident tasks each time an Epic is created.
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/bb3d8e19-3332-47de-97f7-982c9c475ec8/Musings%205.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%205.jpg)
 
 What are those generic tasks, you ask? Here they are:
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/1daa61b3-c8ae-438b-9306-8b1636d552d9/Musings%206.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%206.jpg)
 
 Here's what this looks like end to end... with spot of extra detail added around post incident review (see cloud-like bubble bottom right). What we do at the end of an incident is review all the tasks that were part of an Epic and we associate them with control failure or success. For example, if we had to ask a question about who a system owner was and no one knew or could tell us, that implicates failure of 'Asset Intelligence' (different from Inventory, this is the knowledge available around a system which we can glean from sources like jira, confluence or slack in an investigation). We also add labels to each task, indicating if the task was 'IRDiagnosis' (usually at the start of an Epic), 'IRSolve' (once we've diagnosed we're shutting stuff down), and 'IRMopUp' (the incident is passed and we're tying up loose ends.
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/ba3076b2-a1c0-4aa4-ba7b-74d5d3bada91/Musings%207.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%207.jpg)
 
 Here is the list of controls we link each Incident Task to using the issue link 'success implicated by' or 'failure implicated by':
 
@@ -120,11 +120,11 @@ Finally, we graph all this to get something like the pics below. We're going to 
 
 The first graph shows Incident Tasks in their label categories, clustered around relevant Epics.
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/171d3ba6-80b8-4044-b486-a704a7f22025/Musings%208.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%208.jpg)
 
 The second gives a view of what Controls are implicated in failure and success. Once we get it up and running, it will look something like this below (very rough). The Control name (e.g. Boundary Defence) sits in the center of a cluster of questions (Incident Tasks) that implicated it in success or failure. We'll be able to see the names of the tasks and eventually have these clustered by the IT system(s) they related to (as usually several systems are involved across Epics and it's helpful to know what systems had better capabilities associated with them.
 
-![](https://www.evernote.com/shard/s318/sh/a9385e2a-d8f8-4b67-96a1-ec3a600e8a93/e37817e02b3f106e7ea85af5bebea64a/res/0d101c84-55da-42fb-83b4-0f4cb638746a/Musings%209.jpg?resizeSmall&width=832)
+![](/img/blog/jon/Musings%209.jpg)
 
 Hope that was useful / interesting. Will share some more technical details about how we get this stuff into graphs from Jira at some point
 
