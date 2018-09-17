@@ -56,9 +56,7 @@ I took this blog and came up with the following exercise:
 I appreciate that psychometric evaluations exist already, but I wanted this session to be light-hearted and a team discussion. 
 The first three team members were spot on, they had identified which Winnie-the-Pooh character was most like them, and the rest of the group agreed and nominated the same character. Excellent self-awareness! The remaining leadership team weren’t far off, but in some cases we were split, with two or three characters being voted for. This led into discussions around why the character had been selected for each person. All in all, no one was too surprised, and, in case you were wondering, I was voted as Kanga!
 
-##### Putting people in boxes
-
-{{< youtube zRwt25M5nGw >}}
+### Putting people in boxes
 
 Time to explore ‘putting people in boxes’, another nugget from my casual chats with the team. I’d had two very similar conversations, with two very different members of the team, and I wondered if they were both aware that they had the same thoughts and feelings, whilst being in very different ‘boxes’. 
 
