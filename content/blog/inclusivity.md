@@ -1,5 +1,5 @@
 ---
-title       : "Inclusivity offsites: Self awareness and teamwork"
+title       : "Inclusivity offsite: Self awareness and teamwork"
 date        : "2018-09-17"
 tags        : ["Photobox", "inclusivity", "teamwork", "self-awreness"]
 categories  : ["People"]
