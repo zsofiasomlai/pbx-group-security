@@ -3,8 +3,8 @@ title       : "Inclusivity offsites: Self awareness and teamwork"
 date        : "2018-09-17"
 tags        : ["Photobox", "inclusivity", "teamwork", "self-awreness"]
 categories  : ["People"]
-banner      : /img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png
-images      : ["/img/blog/Pbx_SummaryCybersecurityArticle_squareRGB.png"]
+banner      : /img/blog/Photoboxgroup_WhyJoinPbxBlogArticle_squareRGB.png
+images      : ["/img/blog/Photoboxgroup_WhyJoinPbxBlogArticle_squareRGB.png"]
 ---
 
 With every new joinee to a team, the team dynamic changes. In my experience, there are two types of joiner; 
