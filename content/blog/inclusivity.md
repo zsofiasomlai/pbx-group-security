@@ -79,6 +79,8 @@ Each took turns to receive feedback from their peers, sitting in a chair with th
 I was dreading this section of the day, but in fact it was well received, and in the feedback review, it was noted as the best part of the session by the majority in attendance. 
 And, what did I learn? That people thought more highly of me than I’d have thought and didn’t like it when I talked negatively about myself; in short, the team were very aware of why I behaved the way I did, my best kept secret!
 
+### Summoning the force
+
 Now we were all very much more self-aware and aware of each other, it was time to cover teamwork.
 
 #### Objective: Being part of a machine through teamwork
