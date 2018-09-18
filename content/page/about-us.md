@@ -29,6 +29,6 @@ We win together: by building relationships, collaborating and tapping into the i
 We make magic happen: we go all-out to create moments that wow, surprise, and warm the hearts of our customers and each other. This is our business.
 	
 #### About [Photobox Group](http://group.photobox.com/)
-[Photobox Group](http://group.photobox.com/) is Europe’s leading digital consumer service for personalised products and gifts and parent of the [Photobox](https://www.photobox.co.uk/), [Moonpig](https://www.moonpig.com/), [Hofmann](https://www.hofmann.es/) and [posterXXL](https://www.posterxxl.de) brands.
+[Photobox Group](http://group.photobox.com/) is Europe’s leading digital consumer service for personalised products and gifts and parent of the [Photobox](https://www.photobox.co.uk/), [Moonpig](https://www.moonpig.com/), [Hofmann](https://www.hofmann.es/), [Greetz](https://www.greetz.nl/) and [posterXXL](https://www.posterxxl.de) brands.
 
 From photobooks and unique artwork to the very latest personalised apparel, gifts, and greeting cards, the Group’s products enable customers across 15 countries to share memories, celebrate great moments and inject personal expression into their everyday lives. The Group generated revenue of £288.5m in the fiscal year ending 30 April 2016.
