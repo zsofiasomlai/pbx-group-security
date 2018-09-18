@@ -6,13 +6,13 @@ images  : ["/img/blog/Photoboxgroup_SecurityBlogArticle_squareRGB.png"]
 author  : Jon Hawes
 ---
 
-## Managing information about risk management at Photobox
+## Managing information about risk management at Photobox Group
 
-I've spent my first few weeks at Photobox (awesome team, great company, lots of fun btw) getting my head around - and marvelling - at how we manage information about risk, vulnerabilities and incidents in JIRA. 
+I've spent my first few weeks at Photobox Group (awesome team, great company, lots of fun btw) getting my head around - and marvelling - at how we manage information about risk, vulnerabilities and incidents in JIRA. 
 
 One of the biggest challenges I've seen across companies in the last 10 years is how information (aka: corporate memory) is recorded / managed / linked in order to understand or uncover relationships and dependencies. Usually when you join a company, getting a historic feel for what's happened and what the issues are is ... well, painful. Like, out of date PowerPoint painful.
 
-The key categorisations of issues we work with at Photobox are **Risks** (read: why a Vulnerability matters); **Vulnerabilities** (read: something that causes a Risk), and **Incidents** (read: threaty stuff happening because of a Vulnerability). The power of JIRA is how we're able to link these together, then use meta-data tags to pull together tactical, operational and strategic views in a graph vizualization. More on this in another blog soon...
+The key categorisations of issues we work with at Photobox Group are **Risks** (read: why a Vulnerability matters); **Vulnerabilities** (read: something that causes a Risk), and **Incidents** (read: threaty stuff happening because of a Vulnerability). The power of JIRA is how we're able to link these together, then use meta-data tags to pull together tactical, operational and strategic views in a graph vizualization. More on this in another blog soon...
 
 I've been working with a few of the team on how we can take the foundational building blocks that exist already, and add the next layer of information to them. These are mainly around:
 
