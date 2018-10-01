@@ -3,8 +3,8 @@ title       : "Inclusivity offsite: Self awareness and teamwork"
 date        : "2018-09-17"
 tags        : ["Photobox", "inclusivity", "teamwork", "self-awreness"]
 categories  : ["People"]
-banner      : /img/blog/Photoboxgroup_WhyJoinPbxBlogArticle_squareRGB.png
-images      : ["/img/blog/Photoboxgroup_WhyJoinPbxBlogArticle_squareRGB.png"]
+banner      : /img/Photoboxgroup_Inclusivity_offsite_self_awareness_teamwork_SquareRGB.jpg
+images      : ["img/Photoboxgroup_Inclusivity_offsite_self_awareness_teamwork_SquareRGB.jpg"]
 author      : Jemma Davis
 ---
 
