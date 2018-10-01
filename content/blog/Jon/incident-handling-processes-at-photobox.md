@@ -2,7 +2,7 @@
 title   : Incident handling processes @ Photobox
 banner  : /img/blog/Photoboxgroup_SecurityBlogArticle_squareRGB.png
 date    : 2018-09-15
-images  : ["/img/blog/Photoboxgroup_SecurityBlogArticle_squareRGB.png"]
+images  : ["img/Photoboxgroup_Incident_Handling_Processes_SquareRGB.jpg"]
 author  : Jon Hawes
 ---
 
