@@ -3,7 +3,7 @@
         <div class="col-md-12" id="blog-post">
 
             {{ partial "roles/role-metadata-table.html" . }}
-            {{ partial "roles/role-description-v2.html"    . }}
+            {{ partial "roles/role-description-v2.html" . }}
 
             {{ with .Site.GetPage "page" "roles/_text/_how-to-apply_upwork.md"  }}{{ .Content }}{{ end }}
 

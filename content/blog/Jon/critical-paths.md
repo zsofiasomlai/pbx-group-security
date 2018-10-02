@@ -35,7 +35,7 @@ It's taken me about a month to put together what I consider the 4-5 priority Key
 
 However, clearly these Key Results are way to big to deliver in a single two week sprint. This means our 'Level 1' OKRs need breaking down further into 'Level 2' OKRs. I think about this structure like this:
 
-https://user-images.githubusercontent.com/656739/46303650-4e135b80-c5a4-11e8-8f51-eb25fa6e53bc.png
+![](https://user-images.githubusercontent.com/656739/46303650-4e135b80-c5a4-11e8-8f51-eb25fa6e53bc.png)
 
 Here's an example of this structure for one of our Level 1 Key Results. It’s in table format as I haven’t quite got the ’tree visualisation’ that looks like the picture above working yet.
 

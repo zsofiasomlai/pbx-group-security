@@ -6,6 +6,10 @@
             {{ $.Scratch.Set "contract_type" "Permanent" }}
             {{ partial "roles/roles-table.html" . }}
 
+            {{ $.Scratch.Set "roles_table_title" "Interns" }}
+            {{ $.Scratch.Set "contract_type" "Temporary" }}
+            {{ partial "roles/roles-table.html" . }}
+
             {{/* $.Scratch.Set "roles_table_title" "Contract Positions" }}
             {{ $.Scratch.Set "contract_type" "Contractor" }}
             {{ partial "roles/roles-table.html" . }}
