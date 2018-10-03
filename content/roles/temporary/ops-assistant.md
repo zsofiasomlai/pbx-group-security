@@ -5,7 +5,7 @@ layout          : role-upwork
 date            : 2018-10-03
 contract_type   : Temporary
 location        : London
-apply_Link      : [here](mailto:jemma.davis@photobox.com)
+apply_Link      : mailto:jemma.davis@photobox.com
 
 what_will_you_do:
     - Administer Jira for the security function, including task creation, reporting, customising workflows for multiple projects, creating custom fields, new issue types, workflow statuses, transitions, post-functions, file configurations, mandatory fields, and workflow schemes
