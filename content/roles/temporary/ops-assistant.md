@@ -8,7 +8,7 @@ location        : London
 apply_Link      : [here](mailto:jemma.davis@photobox.com)
 
 what_will_you_do:
-    - Administer Jira for the security function, including:  task creation, reporting, customising workflows for multiple projects, creating custom fields, new issue types, workflow statuses, transitions, post-functions, file configurations, mandatory fields, and workflow schemes
+    - Administer Jira for the security function, including task creation, reporting, customising workflows for multiple projects, creating custom fields, new issue types, workflow statuses, transitions, post-functions, file configurations, mandatory fields, and workflow schemes
     - Support Jira and Confluence documentation during security incidents
     - Improve current project formats through the use of Jira and Confluence
     - Manage the creation and maintenance of Kanban boards for team members
