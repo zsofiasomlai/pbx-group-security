@@ -1,4 +1,5 @@
 ---
+hide .        : true
 title         : Senior AWS Security Engineer
 layout        : role
 date          : 2017-12-06
