@@ -1,8 +1,7 @@
 ---
-draft  : true
-title  : My dream Head of Application Security
+title   : My dream Head of Application Security
 banner  : /img/blog/Photoboxgroup_wearehiringSquareRGB.png
-date    : 2018-06-10
+date    : 2018-10-06
 images  : ["/img/blog/Photoboxgroup_wearehiringSquareRGB.png"]
 author  : Dinis Cruz
 ---
@@ -15,7 +14,7 @@ Basically, any company today is driven by the quality, effectiveness and adaptab
 
 As we move more to an cloud/serverless world, some components are becoming thinner. But still, the thing that makes the difference is the code that we write - and we have to make sure it is secure (since that code have full, or very privileged, access to our assets). For us at Photobox Group Security, that means protecting the photos our customers store with us, their data, and some cases the personal data of our employees. To make this scale, it is critical that we create an environment where writing secure code is easy, smooth, effective, and ideally, invisible to the developer teams (most of the time).
 
-The vision is: **nCreate an environment where developers can code in the most efficient, fast, and powerful way to develop apps that are secure by default, by design and in deployment.**
+The vision is: **Create an environment where developers can code in the most efficient, fast, and powerful way to develop apps that are secure by default, by design and in deployment.**
 
 The ‘how we do that’ is:
 
@@ -58,6 +57,6 @@ This means that we need somebody with very strong leadership skills, a strong ab
 
 If this journey sounds like something you you would like to be part of, [apply for the role here](https://photoboxgroup.workable.com/j/9CE859F699), and let's make this happen :)
 
-If you know somebody that would be perfect for this role, please share this blog post with them (we'll send you a [Moonpig](https://www.moonpig.com/uk/) card as thank you)
+If you know somebody that would be perfect for this role, please share this blog post with them :)
 
 
