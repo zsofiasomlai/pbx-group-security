@@ -12,7 +12,7 @@ But first of all, a bit of context about how we think about Application Security
 
 Basically, any company today is driven by the quality, effectiveness and adaptability of the applications they use. That’s because the value a company provides its customers/users is only as good as the technology that's created by the applications it creates, buys or rents.
 
-As we move more to an cloud/serverless world, some components are becoming thinner. But still, the thing that makes the difference is the code that we write - and we have to make sure it is secure (since that code have full, or very privileged, access to our assets). For us at Photobox Group Security, that means protecting the photos our customers store with us, their data, and some cases the personal data of our employees. To make this scale, it is critical that we create an environment where writing secure code is easy, smooth, effective, and ideally, invisible to the developer teams (most of the time).
+As we move more to a cloud/serverless world, some components are becoming thinner. But still, the thing that makes the difference is the code that we write - and we have to make sure it is secure (since that code have full, or very privileged, access to our assets). For us at Photobox Group Security, that means protecting the photos our customers store with us, their data, and some cases the personal data of our employees. To make this scale, it is critical that we create an environment where writing secure code is easy, smooth, effective, and ideally, invisible to the developer teams (most of the time).
 
 The vision is: **Create an environment where developers can code in the most efficient, fast, and powerful way to develop apps that are secure by default, by design and in deployment.**
 
@@ -23,14 +23,14 @@ The ‘how we do that’ is:
 3. by creating networks of security champions across all areas of the business, that allow us to share security knowledge and empower effective decision making
 4. by integrating threat models with our JIRA based company wide graph database (so that everything is hyperlinked and the right vulns and risks are connected to the right
 technical and business owners)
-5. by having maximum visibility into what is happening in the applications when executed in in QA, Test and Prod environments
+5. by having maximum visibility into what is happening in the applications when executed in QA, Test and Prod environments
 6. by using Tests to communicate with development teams (and helping those teams to improve their testing capabilities and coverage)
 
 **OK, so who do we need to help us achieve this?**
 
 The person that we want is somebody that will thrive on this challenge; who basically wants to figure out, implement, and make sure we have solutions that scale for application security.
 
-The reality is that we already know a lot about writing secure code and writing secure applications at Photobox. We’ve also put a lot of work into creating environments where applications can be executed securely. And there is a whole range of technologies that can facilitate the next stage of our journey.
+The reality is that we already know a lot about writing secure code and writing secure applications at Photobox Group. We’ve also put a lot of work into creating environments where applications can be executed securely. And there is a whole range of technologies that can facilitate the next stage of our journey.
 The question is scalability. We do this in a way that doesn't require a huge amount of security touch points, which usually turn security into a bottle neck.
 
 For example, even if we could review all the code line by line, and had all the time in the world to make changes, that model just wouldn't scale. With hundreds of developers, you would need dozens or hundreds of security consultants. That means the only way this scales is if we can automate the knowledge and the workflows that are available to our security team - and do that in a way that our developers have access to every day (namely via their team's Security Champion).
@@ -47,7 +47,7 @@ The right candidate is somebody that looks at all this, and says **“Wow! this 
 
 One of the great things about Photobox Group is that we have strong support for our security vision from the Board, from C-Level execs, from business owners and from developers (as an example see this blog post from our CTO: [How we think about Security](https://pbx-group-security.com/blog/2017/12/17/how-we-think-about-security/)).
 
-Our job at Photobox Group Security is figure out the right mix of People, Process and Technology. It is in our hands to make this happen :)
+Our job at Photobox Group Security is to figure out the right mix of People, Process and Technology. It is in our hands to make this happen :)
 
 What all this adds up to is that our Head of AppSec AppSec needs to be fully hands on.
 
